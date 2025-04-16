@@ -1,0 +1,200 @@
+# At a high-level
+
+The scenario is an adaptation of the 2002 space-trading game EV Nova.
+
+In terms of EV Nova canon, it takes place during the reunification of humanity in 900 NC.
+
+# Factions
+
+## Primary factions
+
+* Polaris
+* Federation
+* Aurorans
+
+There are three "primary" factions. The Polaris are the easiest (due to tech advantages)
+but it should be very possible to win as Federation or Aurorans.
+These factions have the usual civ scenario objectives; either military domination or scientific victory
+
+## Secondary factions
+
+* Rebels
+* Association of Free Traders
+
+These are smaller factions that are much more challenging to play.
+
+The goal of either group is to try to take over Sol (Federation's capital)
+and overthrow the corrupt "bureau of internal investigation". Both factions
+have some a slight tech advantage over the federation, but have much more
+constrained territory.
+
+## Not intended for play
+
+* Wraith
+* Krypt
+
+# Starting configuration
+
+The primary factions each start with a handful of cities, a small fleet of ships, and some settlers.
+
+## Federation
+5 Cities: Sol, Kania, Tichel, Kerella, Nesre Primus
+
+## Polaris
+3 Cities: Kel'ariy, Nil'pesetra, Mu'hari
+
+## Aurorans
+5 Cities: Aurora, Heraan, Moash, Vella, Dani, Tekel
+
+## Rebels
+2 Cities: Koria, Evlei
+
+## Association of Free Traders
+1 City: Scheall
+
+## Wraith
+2 Cities: Hel'A'Forius, Hot'A'Tanius
+
+## Krypt
+2 Cities: Korell, Vellos
+
+# Terrain and Map Design
+
+See https://static.wikia.nocookie.net/evn/images/b/b3/EVN_Galactic_map.png/revision/latest?cb=20230716151635
+
+The map is "outer space". Ocean is unused; the whole map is 'land' from the perspective of the engine.
+
+The map is composed of scattered star systems.
+Every system includes a star and at least one planet.
+
+## Terrain
+
+Unless otherwise noted
+* all terrain has no movement penalty and provides no defense bonus.
+* terrain can't be improved
+
+Special resources are effectively removed from the game, provide no bonus and have no graphics,
+just show up as duplicates in the civilipedia.
+
+Name...          Maps to...   Yield (f/sh/tr)   other notes
+--------------------------------------------------------------------------------------------
+Space            Glacier      0/1/0             
+Star             Desert       2/1/6
+Gas Giant        Swamp        0/2/4
+Rocky planet     Plains       1/3/1             Can be mined
+Green planet     Grassland    6/2/1             Can be mined
+Asteroids        Forest       0/3/1
+Nebula           Mountain     0/2/2             Costs 2 movement, 200% defense
+?                Hills
+?                Jungle
+?                Tundra
+
+
+Can use hills/jungle/tundra for kont or other special map features? wormholes?
+
+# Pirates (Barbarians)
+
+Dev reference: https://sleague.civfanatics.com/index.php/The_Barbarian_Paper
+
+I am making the following design decisions:
+
+* barbarian activity will be set to Restless Tribes
+* i will make sure some civ starts out with three of the four of the barbarian-relevant techs
+  (mobile warfare, industrialization, gunpowder - NOT guerilla warfare). From my read of the
+  barbarian paper, this means only the "mobile warfare" barbarian groups will spawn; i.e.
+  riflemen and artillery slots. For the purpose of frequently spawning pirates, these are:
+
+Riflemen -> Pirate Starbridge
+Artillery -> Pirate Valkyrie
+
+(Other pirate type units will still spawn in trigger events AND can be created by the guild of fr traders)
+
+
+# Special units
+
+Some background reading:
+* https://sleague.civfanatics.com/index.php/The_Barbarian_Paper
+* https://sleague.civfanatics.com/index.php?title=Getting_the_Units_Right_from_the_Beginning
+* https://sleague.civfanatics.com/index.php?title=Using_Your_Units
+
+Settler      Pegasus
+Engineer     Sprite
+Musketeer    do not use
+Knight       do not use
+Fanatic      do not use
+Diplomat     do not use
+Spy          do not use
+Freight      Cambrian
+Nuke         do not use
+Paratrooper  Zephyr
+Barbarian L. Pirate Argosy
+
+
+# Tech Tree
+
+## Faction-aligned techs
+
+There are five "special" mini-tech trees. Each playable tribe starts with the 'root' of one or more of these trees.
+While certain civs start out with technologies that the other civs don't have, the ability to steal technologies by conquest is a feature, not a bug.
+
+* Pirate tech (Assoc)
+* Rebel tech
+* Federation tech
+* Auroran tech
+* Polaris tech
+
+The Polaris tech tree is significantly stronger than the other civs.
+
+The Rebels, Federation, and Aurorans all have the ability to "naturally" research Pirate tech, but the Assoc gets a head start.
+
+## Special techs
+
+Ref: https://sleague.civfanatics.com/index.php?title=Advanced_Tech%27_Tree_Design_-_Part_Two
+
+Governments?
+* Communism           - TODO (need to plan how govts are going to work)
+* Democracy           - TODO (need to plan how govts are going to work)
+* Fundamentalism
+* Monarchy
+* The Republic
+
+Are modern city graphics going to be a thing?
+* Automobile          - avoid? (need to plan city graphics)
+* Electronics         - avoid? (need to plan city graphics)
+
+Have other weird side effects i want to avoid:
+* Guerilla Warfare    - REMOVE!
+* Gunpowder           - REMOVE!
+
+Keep these in the tech tree and make them close to their standard usage:
+* Philosophy          - free tech
+* Monotheism          - normal cathedral effect?
+* Mysticism           - normal temple effect?
+* Ceremonial burial   - normal temple effect?
+* Theology            - cathedral bonus
+* Fusion Power        - nuclear plants don't blow up
+
+All civs should start with these:
+* Trade               - allows to see trade goods
+* Map Making          - allows map trading
+
+Probably remove these to avoid the tooltips that pop up:
+* Bridge Building     - avoid
+
+Need to give these to some civ for barbarians:
+* Industrialization   - Need to give to some civ for barbarians (also transforms cities)
+* Mobile Warfare      - Need to give to some civ for barbarians
+
+Remove these as improvements are not a thing:
+* Construction        - REMOVE! (no plan for fortresses)
+* Radio               - REMOVE! (no airbases)
+* Railroad            - REMOVE! (no railroads)
+* Refrigeration       - REMOVE!
+
+The side effects of these are irrelevant (no ships in the game)
+* Nuclear Power
+* Navigation
+* Seafaring
+
+Finally:
+* Invention           - doesn't matter, no goodie huts
