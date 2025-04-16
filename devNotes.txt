@@ -67,6 +67,16 @@ The map is "outer space". Ocean is unused; the whole map is 'land' from the pers
 The map is composed of scattered star systems.
 Every system includes a star and at least one planet.
 
+## Governments
+
+Polaris: Republic
+Wraith/Krypt: Despotism
+Others: Monarchy
+
+Communism and Democracy can be researched
+Fundamentalism is not available
+Make sure to remove Statue of Liberty from play
+
 ## Terrain
 
 Unless otherwise noted
@@ -132,6 +142,91 @@ Barbarian L. Pirate Argosy
 
 # Tech Tree
 
+## "event techs"
+
+There are four "event" technologies that can be unlocked as a reward for exploring deep space:
+
+* "Wraith Biology" in Wraith space (north corner of space)
+* "Telepathic Awareness" in Krypt space (northwest corner of space)
+* "Interstellar Biology" from discovering The Creature That Lives In Deep Space
+* "Those Who Came Before" from exploring Kont
+
+The Wraith/Telepathic techs unlock some special tech trees for other civs.
+
+Interstellar Biology and TWCB are both necessary prerequisites to a Science victory.
+
+## Standard tech tree
+
+All non-alien civs start with:
+
+Writing
+Map Making
+Trade
+Monarchy
+The Republic
+Warrior Code (Starbridge)
+Industrialization
+Mobile Warfare
+
+### Economic Tree
+
+Pottery
+Currency
+Seafaring
+Medicine
+Banking
+Economics
+The Corporation
+Automobile
+Sanitation
+
+### Social Tree
+
+Ceremonial Burial
+Code Of laws
+Mysticism
+Philosophy
+Monotheism
+Theology
+Democracy (make sure to remove Statue of Liberty)
+Communism
+
+### Science Tree
+
+Writing
+Mathematics
+University
+Astronomy
+Theory of Gravity
+Computers
+Genetic Engineering
+
+### Energy/Production Tree
+
+Engineering
+Invention
+Refining
+Electronics
+Robotics
+Mass Production
+Recycling
+Nuclear Power
+Environmentalism
+
+### Future Technology
+
+is unlocked by Genetic Engineering and Environmentalism
+
+### Scientific Victory tree
+
+is unlocked by TWCB and Interstellar Biology
+
+Space Flight
+Plastics
+Superconductor
+Fusion Power
+
+
 ## Faction-aligned techs
 
 There are five "special" mini-tech trees. Each playable tribe starts with the 'root' of one or more of these trees.
@@ -147,16 +242,90 @@ The Polaris tech tree is significantly stronger than the other civs.
 
 The Rebels, Federation, and Aurorans all have the ability to "naturally" research Pirate tech, but the Assoc gets a head start.
 
+### Pirate tech tree (7)
+
+Privateering
+Organized Crime
+Illicit Ship Mods (Pirate Valkyrie)
+Aftermarket Engines (Pirate Starbridge)
+Weapons Smuggling (Pirate Enterprise)
+Advanced Embezzlement (Manticore)
+Corporate Crime Syndicate (Pirate Carrier)
+
+
+### Polaris tech tree (10+1)
+
+Advanced Biotech
+Organelles
+Organic Shipbuilding (Sprite, Cambrian)
+Bio-organic Lasers (Manta)
+Nil'kemorya (Striker)
+Etheric Wake (Dragon)
+Capacitor Pulse Laser
+Fusion Generators (Arachnid)
+POlaron Torpedos (Scarab)
+Etheric Induction (Raven)
+
+
+The Polaris have a bonus tech Tunneling Organ that unlocks the Zephyr (paratrooper).
+Its prerequisites are Etheric Wake + "Wraith Biology"
+
+
+### Rebel Tech Tree (6)
+
+Rebel Tech
+Rebel Ship Mods (Rebel Valkyrie)
+Rebel Engine Mods (Rebel Starbridge)
+Industrial Espionage (Rebel IDA Frigate)
+Federation Defecters (Rebel Destroyer)
+Backchannel Diplomacy (Rebel Dragon)
+
+
+### Fed tech tree (6+2)
+
+Federation Shipbuilding (Scoutship)
+Missile Weapons (Patrol Boat)
+Shipbuilding Contracts (Sigma Shipyards wonder?)
+Heavy Energy Weapons (Fed. Destroyer)
+Heavy Turret Platforms (Fed. Carrier)
+Advanced Espionage (RAGE Gunboat)
+
+
+The Federation have a bonus tech tree unlocked with
+the combination of "Telepathic Awareness" (from discovering
+with Krypt) and Advanced Espionage
+
+Telepath Indoctrination (Dart)
+Telepath Enslavement (Javelin)
+
+
+
+
+### Auroran Tech Tree (5+2)
+
+Auroran Shipbuilding (Argosy)
+Fusion Pulse Cannons (Abomination)
+Freighter Militia (Enterprise)
+Railguns (Cruiser)
+Planetary Shipyards (Carrier)
+
+
+The Aurorans have an extension tech tree that is unlocked with "Telepathic Awareness".
+
+Telepathic Martial Arts
+Auroran Energy Weapons (Thunderforge)
+
+
 ## Special techs
 
 Ref: https://sleague.civfanatics.com/index.php?title=Advanced_Tech%27_Tree_Design_-_Part_Two
 
 Governments?
-* Communism           - TODO (need to plan how govts are going to work)
-* Democracy           - TODO (need to plan how govts are going to work)
-* Fundamentalism
-* Monarchy
-* The Republic
+* Communism           - keep
+* Democracy           - keep
+* Fundamentalism      - REMOVE!
+* Monarchy            - all civs start with it
+* The Republic        - all civs start with it
 
 Are modern city graphics going to be a thing?
 * Automobile          - avoid? (need to plan city graphics)
