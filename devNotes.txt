@@ -367,3 +367,80 @@ The side effects of these are irrelevant (no ships in the game)
 
 Finally:
 * Invention           - doesn't matter, no goodie huts
+
+# City Improvements
+
+Name                 Verdict     New Techn    New name 
+-------------------------------------------------------
+CityWalls            KEEP        WarriorCode
+CoastalFortress      REMOVE
+SAMMissileBattery    REMOVE
+SDI                  REMOVE
+Palace               KEEP        Code Of laws
+Courthouse           KEEP
+MassTransit          KEEP
+RecyclingCenter      KEEP
+Granary              KEEP
+Harbor               REMOVE
+Supermarket          REMOVE
+Aqueduct             KEEP        Invention
+Sewer System         KEEP
+Temple               KEEP
+Cathedral            KEEP
+Colosseum            KEEP
+PoliceStation        KEEP        Democracy
+Factory              KEEP        Engineering
+ManufacturingPlant   KEEP
+PowerPlant           KEEP
+HydroPlant           KEEP
+NuclearPlant         KEEP
+SolarPlant           KEEP
+OffshorePlatform     REMOVE
+Library              KEEP
+University           KEEP
+ResearchLab          KEEP
+SSComponent          KEEP
+SSModule             KEEP
+SSStructural         KEEP
+Marketplace          KEEP
+Bank                 KEEP
+StockExchange        KEEP
+Superhighways        KEEP
+Capitalization       KEEP
+Barracks             KEEP
+Port Facility        REMOVE
+Airport              REMOVE
+
+
+# Wonders
+
+Name                 Verdict     New Techn    New name 
+------------------------------------------------------
+Colossus             KEEP        Currency
+GreatLibrary         REMOVE
+GreatWall            REMOVE
+HangingGardens       KEEP
+Lighthouse           REMOVE
+Oracle               KEEP
+Pyramids             KEEP        Pottery        
+Copernicus           KEEP
+KingRichard          KEEP        Refining
+Magellan             REMOVE
+MarcoPolo            REMOVE
+Michelangelo         KEEP
+Shakespeare          KEEP
+SunTzu               KEEP        Mass Production
+AdamSmith            KEEP
+DarwinVoyage         KEEP        Computers
+EiffelTower          REMOVE
+IsaacNewton          KEEP
+JSBachCathedral      KEEP
+LeosWorkshop         REMOVE
+StatueOfLiberty      REMOVE
+ApolloProgram        KEEP
+CureForCancer        KEEP
+HooverDam            KEEP
+Manhattan            REMOVE
+SETI                 KEEP
+UnitedNations        REMOVE
+WomensSuffrage       KEEP        Democracy
