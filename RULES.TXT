@@ -190,69 +190,69 @@ Extra Advance 7,    3, 0,  no,  no,  0, 0    ; X7
 ;
 @IMPROVE
 Nothing,                  1,  0,    nil,
-Palace,                   10, 0,    Mas,
+Palace,                   10, 0,    CoL,
 Barracks,                 4,  1,    nil,
 Granary,                  6,  1,    Pot,
 Temple,                   4,  1,    Cer,
 MarketPlace,              8,  1,    Cur,
 Library,                  8,  1,    Wri,
 Courthouse,               8,  1,    CoL,
-City Walls,               8,  0,    Mas,
-Aqueduct,                 8,  2,    Cst,
+City Walls,               8,  0,    War,
+Aqueduct,                 8,  2,    Inv,
 Bank,                     12, 3,    Ban,
 Cathedral,                12, 3,    MT,
 University,               16, 3,    Uni,
 Mass Transit,             16, 4,    MP,
-Colosseum,                10, 4,    Cst,
-Factory,                  20, 4,    Ind,
+Colosseum,                10, 4,    Ban,
+Factory,                  20, 4,    Dem,
 Manufacturing Plant,      32, 6,    Rob,
-SDI Defense,              20, 4,    Las,
+SDI Defense,              20, 4,    Plu,
 Recycling Center,         20, 2,    Rec,
 Power Plant,              16, 4,    Ref,
 Hydro Plant,              24, 4,    E2,
 Nuclear Plant,            16, 2,    NP,
 Stock Exchange,           16, 4,    Eco,
 Sewer System,             12, 2,    San,
-Supermarket,               8, 3,    Rfg,
+Supermarket,               8, 3,    Plu,
 Superhighways,            20, 5,    Aut,
 Research Lab,             16, 3,    Cmp,
-SAM Missile Battery,      10, 2,    Roc,
-Coastal Fortress,          8, 1,    Met,
+SAM Missile Battery,      10, 2,    Plu,
+Coastal Fortress,          8, 1,    Plu,
 Solar Plant,              32, 4,    Env,
-Harbor,                   6,  1,    Sea,
-Offshore Platform,        16, 3,    Min,
-Airport,                  16, 3,    Rad,
-Police Station,           6,  2,    Cmn,
-Port Facility,            8,  3,    Amp,
+Harbor,                   6,  1,    Plu,
+Offshore Platform,        16, 3,    Plu,
+Airport,                  16, 3,    Plu,
+Police Station,           6,  2,    Dem,
+Port Facility,            8,  3,    Plu,
 SS Structural,            8,  0,    SFl,
 SS Component,             16, 0,    Pla,
 SS Module,                32, 0,    Sup,
 (Capitalization),         60, 0,    Cor,
-Pyramids,                 20, 0,    Mas,
+Pyramids,                 20, 0,    Pot,
 Hanging Gardens,          20, 0,    Pot,
-Colossus,                 20, 0,    Bro,
-Lighthouse,               20, 0,    Map,
-Great Library,            30, 0,    Lit,
+Colossus,                 20, 0,    Cur,
+Lighthouse,               20, 0,    Plu,
+Great Library,            30, 0,    Plu,
 Oracle,                   30, 0,    Mys,
-Great Wall,               30, 0,    Mas,
-Sun Tzu's War Academy,    30, 0,    Feu,
-King Richard's Crusade,   30, 0,    Eng,
-Marco Polo's Embassy,     20, 0,    Tra,
+Great Wall,               30, 0,    Plu,
+Sun Tzu's War Academy,    30, 0,    MP,
+King Richard's Crusade,   30, 0,    Ref,
+Marco Polo's Embassy,     20, 0,    Plu,
 Michelangelo's Chapel,    40, 0,    MT,
 Copernicus' Observatory,  30, 0,    Ast,
-Magellan's Expedition,    40, 0,    Nav,
+Magellan's Expedition,    40, 0,    Plu,
 Shakespeare's Theatre,    30, 0,    Med,
-Leonardo's Workshop,      40, 0,    Inv,
+Leonardo's Workshop,      40, 0,    Plu,
 J. S. Bach's Cathedral,   40, 0,    The,
 Isaac Newton's College,   40, 0,    ToG,
 Adam Smith's Trading Co., 40, 0,    Eco,
-Darwin's Voyage,          40, 0,    RR,
-Statue of Liberty,        40, 0,    Dem,
-Eiffel Tower,             30, 0,    SE,
-Women's Suffrage,         60, 0,    Ind,
+Darwin's Voyage,          40, 0,    Cmp,
+Statue of Liberty,        40, 0,    Plu,
+Eiffel Tower,             30, 0,    Plu,
+Women's Suffrage,         60, 0,    Dem,
 Hoover Dam,               60, 0,    E2,
-Manhattan Project,        60, 0,    NF,
-United Nations,           60, 0,    Cmn,
+Manhattan Project,        60, 0,    Plu,
+United Nations,           60, 0,    Plu,
 Apollo Program,           60, 0,    SFl,
 SETI Program,             60, 0,    Cmp,
 Cure for Cancer,          60, 0,    Gen,
@@ -262,20 +262,20 @@ Cure for Cancer,          60, 0,    Gen,
 ;
 @ENDWONDER
 nil,        ; Pyramids
-RR,         ; Hanging Gardens
-Fli,        ; Colossus
-Mag,        ; Lighthouse
-E1,         ; Great Library
-The,        ; Oracle
-Met,        ; Great Wall
-Mob,        ; Sun Tzu's War Academy
-Ind,        ; King Richard's Crusade
-Cmn,        ; Marco Polo's Embassy
+nil,         ; Hanging Gardens
+nil,        ; Colossus
+nil,        ; Lighthouse
+nil,         ; Great Library
+nil,        ; Oracle
+nil,        ; Great Wall
+nil,        ; Sun Tzu's War Academy
+nil,        ; King Richard's Crusade
+nil,        ; Marco Polo's Embassy
 nil,        ; Michelangelo
 nil,        ; Copernicus
 nil,        ; Magellan
 nil,        ; Shakespeare
-Aut,        ; Da Vinci's Workshop
+nil,        ; Da Vinci's Workshop
 nil,        ; Bach
 nil,        ; Newton
 nil,        ; Smith's Trading Co.

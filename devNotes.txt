@@ -370,26 +370,32 @@ Finally:
 
 # City Improvements
 
+Reference: https://sleague.civfanatics.com/index.php?title=Using_Improvements_and_Wonders
+
+(NOTE: to remove city improvements/wonders, i am assigning them
+to 'plu' (PLU) which remains orphaned from the tech tree)
+
+
 Name                 Verdict     New Techn    New name 
 -------------------------------------------------------
-CityWalls            KEEP        WarriorCode
+CityWalls            KEEP        War
 CoastalFortress      REMOVE
 SAMMissileBattery    REMOVE
 SDI                  REMOVE
-Palace               KEEP        Code Of laws
+Palace               KEEP        CoL 
 Courthouse           KEEP
 MassTransit          KEEP
 RecyclingCenter      KEEP
 Granary              KEEP
 Harbor               REMOVE
 Supermarket          REMOVE
-Aqueduct             KEEP        Invention
+Aqueduct             KEEP        Inv
 Sewer System         KEEP
 Temple               KEEP
 Cathedral            KEEP
-Colosseum            KEEP
-PoliceStation        KEEP        Democracy
-Factory              KEEP        Engineering
+Colosseum            KEEP        Ban
+PoliceStation        KEEP        Dem
+Factory              KEEP        Eng
 ManufacturingPlant   KEEP
 PowerPlant           KEEP
 HydroPlant           KEEP
@@ -416,22 +422,22 @@ Airport              REMOVE
 
 Name                 Verdict     New Techn    New name 
 ------------------------------------------------------
-Colossus             KEEP        Currency
+Colossus             KEEP        Cur
 GreatLibrary         REMOVE
 GreatWall            REMOVE
 HangingGardens       KEEP
 Lighthouse           REMOVE
 Oracle               KEEP
-Pyramids             KEEP        Pottery        
+Pyramids             KEEP        Pot
 Copernicus           KEEP
-KingRichard          KEEP        Refining
+KingRichard          KEEP        Ref
 Magellan             REMOVE
 MarcoPolo            REMOVE
 Michelangelo         KEEP
 Shakespeare          KEEP
-SunTzu               KEEP        Mass Production
+SunTzu               KEEP        MP
 AdamSmith            KEEP
-DarwinVoyage         KEEP        Computers
+DarwinVoyage         KEEP        Cmp
 EiffelTower          REMOVE
 IsaacNewton          KEEP
 JSBachCathedral      KEEP
