@@ -72,106 +72,106 @@
 ;             4 = Applied
 ;
 @CIVILIZE
-Advanced Flight,    4,-2,  Rad, Too, 3, 4    ; AFl
-Alphabet,           5, 1,  nil, nil, 0, 3    ; Alp
-Amphibious Warfare, 3,-2,  Nav, Tac, 3, 0    ; Amp
-Astronomy,          4, 1,  Mys, Mat, 1, 3    ; Ast
-Atomic Theory,      4,-1,  ToG, Phy, 2, 3    ; Ato
-Automobile,         6,-1,  Cmb, Stl, 3, 4    ; Aut
-Banking,            4, 1,  Tra, Rep, 1, 1    ; Ban
-Bridge Building,    4, 0,  Iro, Cst, 0, 4    ; Bri
-Bronze Working,     6,-1,  nil, nil, 0, 4    ; Bro
+Auroran Tradition,  4,-2,  nil,  nil,  3, 4    ; AFl <-- TODO: Change back to no,no after setting up scn
+Fusion Pulse Cannon,5, 1,  AFl,  no, 0, 3     ; Alp
+Freighter Militia,  3,-2,  Alp,  no,  3, 0    ; Amp
+Astronomy,          4, 1,  Uni, Mat, 1, 3    ; Ast
+Railguns,           4,-1,  Amp,  no,  2, 3    ; Ato
+Automobile,         6,-1,  Cor, Eco, 3, 4    ; Aut
+Banking,            4, 1,  Cur, Med, 1, 1    ; Ban
+Bridge Building,    4, 0,  no,  no,  0, 4    ; Bri <-- DO NOT USE
+Planetary Shipyards,6,-1,  Ato,  no,  0, 4    ; Bro
 Ceremonial Burial,  5, 0,  nil, nil, 0, 2    ; Cer
-Chemistry,          5,-1,  Uni, Med, 1, 3    ; Che
-Chivalry,           4,-2,  Feu, Hor, 1, 0    ; Chi
-Code of Laws,       4, 1,  Alp, nil, 0, 2    ; CoL
-Combined Arms,      5,-1,  Mob, AFl, 3, 0    ; CA
-Combustion,         5,-1,  Ref, Exp, 2, 4    ; Cmb
-Communism,          5, 0,  Phi, Ind, 2, 2    ; Cmn
-Computers,          4, 1,  Min, MP,  3, 4    ; Cmp
-Conscription,       7,-1,  Dem, Met, 2, 0    ; Csc
-Construction,       4, 0,  Mas, Cur, 0, 4    ; Cst
-The Corporation,    4, 0,  Ind, Eco, 2, 1    ; Cor
-Currency,           4, 1,  Bro, nil, 0, 1    ; Cur
-Democracy,          5, 1,  Ban, Inv, 2, 2    ; Dem
+Telepth Mart. Arts, 5,-1,  X1,  no,  1, 3    ; Che
+Auroran Energy Wpns,4,-2,  Che, Bro,  1, 0    ; Chi
+Code of Laws,       4, 1,  Cer, nil, 0, 2    ; CoL
+Tunneling Organ,      5,-1,  Mas,  U3,  3, 0    ; CA 
+Privateering,        5,-1,  nil,  nil,  2, 4    ; Cmb <-- TODO: change this back to no,no after setting up scn. Pirate base tech
+Communism,          5, 0,  The,  nil,  2, 2    ; Cmn
+Computers,          4, 1,  ToG, nil,  3, 4    ; Cmp
+Organized Crime,    7,-1,  Cmb,  nil,  2, 0    ; Csc
+Construction,       4, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
+The Corporation,    4, 0,  Eco, nil, 2, 1    ; Cor
+Currency,           4, 1,  Pot, nil, 0, 1    ; Cur
+Democracy,          5, 1,  Ban, The, 2, 2    ; Dem
 Economics,          4, 1,  Uni, Ban, 2, 1    ; Eco
-Electricity,        4, 0,  Met, Mag, 2, 4    ; E1
-Electronics,        4, 1,  E1,  Cor, 3, 4    ; E2
-Engineering,        4, 0,  Whe, Cst, 0, 4    ; Eng
-Environmentalism,   3, 1,  Rec, SFl, 3, 2    ; Env
-Espionage,          2,-1,  Cmn, Dem, 3, 0    ; Esp
-Explosives,         5, 0,  Gun, Che, 2, 4    ; Exp
-Feudalism,          4,-1,  War, Mon, 0, 0    ; Feu
-Flight,             4,-1,  Cmb, ToG, 2, 4    ; Fli
-Fundamentalism,     3,-2,  MT,  Csc, 2, 2    ; Fun
+Electricity,        4, 0,  no,  no,  2, 4    ; E1
+Electronics,        4, 1,  Ref, Mat, 3, 4    ; E2
+Engineering,        4, 0,  nil, nil, 0, 4    ; Eng
+Environmentalism,   3, 1,  Rec, NP, 3, 2    ; Env
+Espionage,          2,-1,  no,  no,  3, 0    ; Esp <-- DO NOT USE
+Explosives,         5, 0,  no,  no,  2, 4    ; Exp <-- DO NOT USE
+Feudalism,          4,-1,  no,  no,  0, 0    ; Feu <-- DO NOT USE
+Illicit Ship Mods,  4,-1,  Cmb, nil,  2, 4    ; Fli
+Fundamentalism,     3,-2,  no,   no,  2, 2    ; Fun  <-- DO NOT USE
 Fusion Power,       3, 0,  NP,  Sup, 3, 3    ; FP
-Genetic Engineering,3, 2,  Med, Cor, 3, 3    ; Gen
-Guerrilla Warfare,  4, 1,  Cmn, Tac, 3, 0    ; Gue
-Gunpowder,          8,-2,  Inv, Iro, 1, 0    ; Gun
-Horseback Riding,   4,-1,  nil, nil, 0, 0    ; Hor
-Industrialization,  6, 0,  RR,  Ban, 2, 1    ; Ind
-Invention,          6, 0,  Eng, Lit, 1, 4    ; Inv
-Iron Working,       5,-1,  Bro, War, 0, 4    ; Iro
-Labor Union,        4,-1,  MP,  Gue, 3, 2    ; Lab
-The Laser,          4, 0,  NP,  MP,  3, 3    ; Las
-Leadership,         5,-1,  Chi, Gun, 1, 0    ; Ldr
-Literacy,           5, 2,  Wri, CoL, 0, 3    ; Lit
-Machine Tools,      4,-2,  Stl, Tac, 2, 4    ; Too
-Magnetism,          4,-1,  Phy, Iro, 1, 3    ; Mag
-Map Making,         6,-1,  Alp, nil, 0, 1    ; Map
-Masonry,            4, 1,  nil, nil, 0, 4    ; Mas
-Mass Production,    5, 0,  Aut, Cor, 3, 4    ; MP
-Mathematics,        4,-1,  Alp, Mas, 0, 3    ; Mat
-Medicine,           4, 0,  Phi, Tra, 1, 1    ; Med
-Metallurgy,         6,-2,  Gun, Uni, 1, 0    ; Met
-Miniaturization,    4, 1,  Too, E2,  3, 4    ; Min
-Mobile Warfare,     8,-1,  Aut, Tac, 3, 0    ; Mob
-Monarchy,           5, 1,  Cer, CoL, 0, 2    ; Mon
-Monotheism,         5, 1,  Phi, PT,  1, 2    ; MT
-Mysticism,          4, 0,  Cer, nil, 0, 2    ; Mys
-Navigation,         6,-1,  Sea, Ast, 1, 1    ; Nav
-Nuclear Fission,    6,-2,  Ato, MP,  3, 3    ; NF
-Nuclear Power,      3, 0,  NF,  E2,  3, 3    ; NP
-Philosophy,         6, 1,  Mys, Lit, 1, 2    ; Phi
-Physics,            4,-1,  Nav, Lit, 1, 3    ; Phy
+Genetic Engineering,3, 2,  Cmp, nil, 3, 3    ; Gen
+Guerrilla Warfare,  4, 1,  no,  no,  3, 0    ; Gue   <-- DO NOT USE
+Gunpowder,          8,-2,  no,  no,  1, 0    ; Gun   <-- DO NOT USE
+Aftermarket Engines,4,-1,  Fli,  no,  0, 0    ; Hor
+Industrialization,  6, 0,  nil, nil, 2, 1    ; Ind
+Invention,          6, 0,  Eng, CoL, 1, 4    ; Inv
+Weapons Smuggling,  5,-1,  Hor, Csc,  0, 4    ; Iro
+Adv. Embezzlement,  4,-1,  Iro, Csc,  3, 2    ; Lab
+Corporate Crime,    4, 0,  Lab,   no,   3, 3    ; Las
+Advanced Biotech,   5,-1,  nil,  nil,  1, 0    ; Ldr <-- TODO: change this back to no,no Polaris base tech
+Organelles,         5, 2,  Ldr,  no,  0, 3    ; Lit
+Organic Shipbuilding,4,-2,  Ldr, Lit,  2, 4    ; Too
+Nil'kemorya,         4,-1,  Too,  no,  1, 3    ; Mag
+Map Making,         6,-1,  nil, nil, 0, 1    ; Map
+Etheric Wake Engine,4, 1,  Mag,  no,  0, 4    ; Mas
+Mass Production,    5, 0,  Rob, nil, 3, 4    ; MP
+Mathematics,        4,-1,  Wri, nil, 0, 3    ; Mat
+Medicine,           4, 0,  Sea, Tra, 1, 1    ; Med
+Capacitor Pulse Laser,6,-2,  Mag,  Lit,  1, 0    ; Met
+Organic Nuc. Fusion,    4, 1,  Met,  no,   3, 4    ; Min
+Mobile Warfare,     8,-1,  nil, nil, 3, 0    ; Mob
+Monarchy,           5, 1,  nil, nil, 0, 2    ; Mon
+Monotheism,         5, 1,  Phi, Mys,  1, 2   ; MT
+Mysticism,          4, 0,  CoL, nil, 0, 2    ; Mys
+Polaron Torpedos,   6,-1,  Min,  no,  1, 1    ; Nav
+Advanced Espionage,    6,-2,  X7,  no,   3, 3    ; NF
+Nuclear Power,      3, 0,  Rec,  E2,  3, 3    ; NP
+Philosophy,         6, 1,  Mys, Mat, 1, 2    ; Phi
+Etheric Induction,  4,-1,  Nav, Mas,  1, 3    ; Phy
 Plastics,           4, 1,  Ref, SFl, 3, 4    ; Pla
-Plumbing,           4, 0,  no,  no,  1, 4    ; Plu  (Cst & Pot)
-Polytheism,         4, 0,  Cer, Hor, 0, 2    ; PT
+Plumbing,           4, 0,  no,  no,  1, 4    ; Plu  <-- DO NOT USE
+Rebellion,         4, 0,  nil,  nil,  0, 2    ; PT <-- TODO switch to no,no. Rebel base tech
 Pottery,            4, 1,  nil, nil, 0, 1    ; Pot
-Radio,              5,-1,  Fli, E1,  3, 4    ; Rad
-Railroad,           6, 0,  SE, Bri,  2, 1    ; RR
-Recycling,          2, 1,  MP, Dem,  3, 2    ; Rec
-Refining,           4, 0,  Che, Cor, 2, 4    ; Ref
-Refrigeration,      3, 1,  E1,  San, 3, 1    ; Rfg
-The Republic,       5, 1,  CoL, Lit, 0, 2    ; Rep
-Robotics,           5,-2,  Cmp, Mob, 3, 0    ; Rob
-Rocketry,           6,-2,  AFl, E2,  3, 0    ; Roc
-Sanitation,         4, 2,  Med, Eng, 2, 1    ; San
-Seafaring,          4, 1,  Map, Pot, 0, 1    ; Sea
-Space Flight,       4, 1,  Cmp, Roc, 3, 3    ; SFl
-Stealth,            3,-2,  Sup, Rob, 3, 0    ; Sth
-Steam Engine,       4,-1,  Phy, Inv, 2, 3    ; SE
-Steel,              4,-1,  E1,  Ind, 2, 4    ; Stl
-Superconductor,     4, 1,  Pla, Las, 3, 3    ; Sup
-Tactics,            6,-1,  Csc, Ldr, 2, 0    ; Tac
-Theology,           3, 2,  MT,  Feu, 1, 2    ; The
+Radio,              5,-1,  no,  no,   3, 4    ; Rad <-- DO NOT USE
+Railroad,           6, 0,  no,  no,   2, 1    ; RR  <-- DO NOT USE
+Recycling,          2, 1,  MP, nil,  3, 2    ; Rec
+Refining,           4, 0,  Inv, nil, 2, 4    ; Ref
+Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
+The Republic,       5, 1,  nil, nil, 0, 2    ; Rep
+Robotics,           5,-2,  E2,  nil, 3, 0    ; Rob
+Rebel Ship Mods,    6,-2,  PT,  no,   3, 0    ; Roc
+Sanitation,         4, 2,  Aut, Med, 2, 1    ; San
+Seafaring,          4, 1,  Cur, nil, 0, 1    ; Sea
+Space Flight,       4, 1,  U1, U2, 3, 3    ; SFl
+Rebel Engine Mods,  3,-2,  Roc,  no,  3, 0    ; Sth
+Industr. Espionage, 4,-1,  Sth,  Roc,  2, 3    ; SE
+Federation Defectors, 4,-1,  SE,   no,  2, 4    ; Stl
+Superconductor,     4, 1,  Pla, NP, 3, 3    ; Sup
+Backchannel Diplomacy, 6,-1,  Stl,  no,  2, 0    ; Tac
+Theology,           3, 2,  MT,  nil, 1, 2    ; The
 Theory of Gravity,  4, 0,  Ast, Uni, 1, 3    ; ToG
-Trade,              4, 2,  Cur, CoL, 0, 1    ; Tra
-University,         5, 1,  Mat, Phi, 1, 3    ; Uni
+Trade,              4, 2,  nil, nil, 0, 1    ; Tra
+University,         5, 1,  Mat, nil, 1, 3    ; Uni
 Warrior Code,       4,-1,  nil, nil, 0, 0    ; War
-The Wheel,          4,-1,  Hor, nil, 0, 4    ; Whe
-Writing,            4, 2,  Alp, nil, 0, 3    ; Wri
-Future Technology,  1, 0,  FP,  Rec, 3, 3    ; ...
-User Def Tech A,    3, 0,  no,  no,  0, 0    ; U1
-User Def Tech B,    3, 0,  no,  no,  0, 0    ; U2
-User Def Tech C,    3, 0,  no,  no,  0, 0    ; U3
-Extra Advance 1,    3, 0,  no,  no,  0, 0    ; X1
-Extra Advance 2,    3, 0,  no,  no,  0, 0    ; X2
-Extra Advance 3,    3, 0,  no,  no,  0, 0    ; X3
-Extra Advance 4,    3, 0,  no,  no,  0, 0    ; X4
-Extra Advance 5,    3, 0,  no,  no,  0, 0    ; X5
-Extra Advance 6,    3, 0,  no,  no,  0, 0    ; X6
-Extra Advance 7,    3, 0,  no,  no,  0, 0    ; X7
+Federation,         4,-1,  nil, nil,  0, 4    ; Whe <-- TODO switch to no,no. Federation base tech
+Writing,            4, 2,  nil, nil, 0, 3    ; Wri
+Future Technology,  1, 0,  Gen, Env, 3, 3    ; ...
+Those Who Came Before,    3, 0,  nil,  nil,  0, 0    ; U1 <-- TODO: change back to no,no
+Interstellar Biology,    3, 0,  nil, nil,  0, 0    ; U2 <-- TODO: Change back to no,no
+Wraith Biology,    3, 0, nil, nil,  0, 0    ; U3 <-- TODO: change back to no,no
+Telepath Awareness,    3, 0, nil, nil,  0, 0    ; X1 <-- TODO: Change back to no,no
+Telepath Indoctrination,    3, 0, X1, nil,  0, 0    ; X2
+Telepath Enslavement,    3, 0, X2, nil,  0, 0    ; X3
+Missile Weapons,    3, 0,  Whe,  no,  0, 0    ; X4
+Shipbuilding Constracts,    3, 0,  X4,  no,  0, 0    ; X5
+Hvy Energy Weapons,    3, 0,  X5,  no,  0, 0    ; X6
+Hvy Turret Platforms,    3, 0,  X6,  no,  0, 0    ; X7
 
 ;
 ; Above 11 tech slots (U1 to X8) allow you to define your own 
@@ -190,69 +190,69 @@ Extra Advance 7,    3, 0,  no,  no,  0, 0    ; X7
 ;
 @IMPROVE
 Nothing,                  1,  0,    nil,
-Palace,                   10, 0,    Mas,
+Palace,                   10, 0,    CoL,
 Barracks,                 4,  1,    nil,
 Granary,                  6,  1,    Pot,
 Temple,                   4,  1,    Cer,
 MarketPlace,              8,  1,    Cur,
 Library,                  8,  1,    Wri,
 Courthouse,               8,  1,    CoL,
-City Walls,               8,  0,    Mas,
-Aqueduct,                 8,  2,    Cst,
+City Walls,               8,  0,    War,
+Aqueduct,                 8,  2,    Inv,
 Bank,                     12, 3,    Ban,
 Cathedral,                12, 3,    MT,
 University,               16, 3,    Uni,
 Mass Transit,             16, 4,    MP,
-Colosseum,                10, 4,    Cst,
-Factory,                  20, 4,    Ind,
+Colosseum,                10, 4,    Ban,
+Factory,                  20, 4,    Dem,
 Manufacturing Plant,      32, 6,    Rob,
-SDI Defense,              20, 4,    Las,
+SDI Defense,              20, 4,    Plu,
 Recycling Center,         20, 2,    Rec,
 Power Plant,              16, 4,    Ref,
 Hydro Plant,              24, 4,    E2,
 Nuclear Plant,            16, 2,    NP,
 Stock Exchange,           16, 4,    Eco,
 Sewer System,             12, 2,    San,
-Supermarket,               8, 3,    Rfg,
+Supermarket,               8, 3,    Plu,
 Superhighways,            20, 5,    Aut,
 Research Lab,             16, 3,    Cmp,
-SAM Missile Battery,      10, 2,    Roc,
-Coastal Fortress,          8, 1,    Met,
+SAM Missile Battery,      10, 2,    Plu,
+Coastal Fortress,          8, 1,    Plu,
 Solar Plant,              32, 4,    Env,
-Harbor,                   6,  1,    Sea,
-Offshore Platform,        16, 3,    Min,
-Airport,                  16, 3,    Rad,
-Police Station,           6,  2,    Cmn,
-Port Facility,            8,  3,    Amp,
+Harbor,                   6,  1,    Plu,
+Offshore Platform,        16, 3,    Plu,
+Airport,                  16, 3,    Plu,
+Police Station,           6,  2,    Dem,
+Port Facility,            8,  3,    Plu,
 SS Structural,            8,  0,    SFl,
 SS Component,             16, 0,    Pla,
 SS Module,                32, 0,    Sup,
 (Capitalization),         60, 0,    Cor,
-Pyramids,                 20, 0,    Mas,
+Pyramids,                 20, 0,    Pot,
 Hanging Gardens,          20, 0,    Pot,
-Colossus,                 20, 0,    Bro,
-Lighthouse,               20, 0,    Map,
-Great Library,            30, 0,    Lit,
+Colossus,                 20, 0,    Cur,
+Lighthouse,               20, 0,    Plu,
+Great Library,            30, 0,    Plu,
 Oracle,                   30, 0,    Mys,
-Great Wall,               30, 0,    Mas,
-Sun Tzu's War Academy,    30, 0,    Feu,
-King Richard's Crusade,   30, 0,    Eng,
-Marco Polo's Embassy,     20, 0,    Tra,
+Great Wall,               30, 0,    Plu,
+Sun Tzu's War Academy,    30, 0,    MP,
+King Richard's Crusade,   30, 0,    Ref,
+Marco Polo's Embassy,     20, 0,    Plu,
 Michelangelo's Chapel,    40, 0,    MT,
 Copernicus' Observatory,  30, 0,    Ast,
-Magellan's Expedition,    40, 0,    Nav,
+Magellan's Expedition,    40, 0,    Plu,
 Shakespeare's Theatre,    30, 0,    Med,
-Leonardo's Workshop,      40, 0,    Inv,
+Leonardo's Workshop,      40, 0,    Plu,
 J. S. Bach's Cathedral,   40, 0,    The,
 Isaac Newton's College,   40, 0,    ToG,
 Adam Smith's Trading Co., 40, 0,    Eco,
-Darwin's Voyage,          40, 0,    RR,
-Statue of Liberty,        40, 0,    Dem,
-Eiffel Tower,             30, 0,    SE,
-Women's Suffrage,         60, 0,    Ind,
+Darwin's Voyage,          40, 0,    Cmp,
+Statue of Liberty,        40, 0,    Plu,
+Eiffel Tower,             30, 0,    Plu,
+Women's Suffrage,         60, 0,    Dem,
 Hoover Dam,               60, 0,    E2,
-Manhattan Project,        60, 0,    NF,
-United Nations,           60, 0,    Cmn,
+Manhattan Project,        60, 0,    Plu,
+United Nations,           60, 0,    Plu,
 Apollo Program,           60, 0,    SFl,
 SETI Program,             60, 0,    Cmp,
 Cure for Cancer,          60, 0,    Gen,
@@ -262,20 +262,20 @@ Cure for Cancer,          60, 0,    Gen,
 ;
 @ENDWONDER
 nil,        ; Pyramids
-RR,         ; Hanging Gardens
-Fli,        ; Colossus
-Mag,        ; Lighthouse
-E1,         ; Great Library
-The,        ; Oracle
-Met,        ; Great Wall
-Mob,        ; Sun Tzu's War Academy
-Ind,        ; King Richard's Crusade
-Cmn,        ; Marco Polo's Embassy
+nil,         ; Hanging Gardens
+nil,        ; Colossus
+nil,        ; Lighthouse
+nil,         ; Great Library
+nil,        ; Oracle
+nil,        ; Great Wall
+nil,        ; Sun Tzu's War Academy
+nil,        ; King Richard's Crusade
+nil,        ; Marco Polo's Embassy
 nil,        ; Michelangelo
 nil,        ; Copernicus
 nil,        ; Magellan
 nil,        ; Shakespeare
-Aut,        ; Da Vinci's Workshop
+nil,        ; Da Vinci's Workshop
 nil,        ; Bach
 nil,        ; Newton
 nil,        ; Smith's Trading Co.
@@ -471,38 +471,38 @@ Test Unit 8,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
 ;
 @TERRAIN
 Star,       1,2,  0,4,4,   no,  1, 5, 5,   no,  1, 5,  3,  no,    ; Drt
-Space,      1,2,  0,1,1,   no,  1, 5, 1,   no,  0,15,  0,  no,    ; Pln
-Grassland,  1,2,  2,1,0,   no,  1, 5, 2,   no,  0,10,  0,  no,   ; Grs
+Plains,     1,2,  0,1,1,   no,  1, 5, 1,   no,  0,15,  0,  no,    ; Pln
+Grassland,  1,2,  2,1,0,   no,  1, 5, 2,   no,  0,10,  0,  no,    ; Grs
 Planet,     1,2,  4,2,1,   no,  0, 5, 5,   no,  0, 5,  0,  no,    ; For
-Hills,      1,2,  1,0,0,   no,  1,10, 0,   no, 3,10,  1,  no,   ; Hil
-Mountains,  1,2,  0,1,0,   no,  1,10, 0,   no, 1,10,  6,  no,   ; Mou
-Tundra,     1,2,  1,0,0,   no,  1,10, 1,   no,  0, 0,  0,  no,   ; Tun
-Glacier,    1,2,  0,0,0,   no,  0, 0, 0,   no, 1,15,  3,  no,   ; Gla
-Swamp,      1,2,  1,0,0,   no,  0,15, 6,   no, 0,15,  0,  no,   ; Swa
-Jungle,     1,2,  1,0,0,   no,  0,15, 6,   no, 0,15,  0,  no,   ; Jun
+Hills,      1,2,  1,0,0,   no,  1,10, 0,   no,  3,10,  1,  no,    ; Hil
+Mountains,  1,2,  0,1,0,   no,  1,10, 0,   no,  1,10,  6,  no,    ; Mou
+Tundra,     1,2,  1,0,0,   no,  1,10, 1,   no,  0, 0,  0,  no,    ; Tun
+Space,      1,2,  9,1,1,   no,  0, 0, 0,   no,  1,15,  3,  no,    ; Gla
+Swamp,      1,2,  1,0,0,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Swa
+Jungle,     1,2,  1,0,0,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Jun
 Ocean,      1,2,  1,0,2,   no,  0, 0, 0,   no,  0, 0,  0,  no,    ; Oce
-Oasis,      1,2,  3,1,0,
-Buffalo,    1,2,  1,3,0,
-Grassland,  1,2,  2,1,0,
-Pheasant,   1,2,  3,2,0,
-Coal,       1,2,  1,2,0,
-Gold,       1,2,  0,1,6,
-Game,       1,2,  3,1,0,
-Ivory,      1,2,  1,1,4,
-Peat,       1,2,  1,4,0,
-Gems,       1,2,  1,0,4,
-Fish,       1,2,  3,0,2,
-Desert Oil, 1,2,  0,4,0,
-Wheat,      1,2,  3,1,0,
-Grassland,  1,2,  2,1,0,
-Silk,       1,2,  1,2,3,
-Wine,       1,2,  1,0,4,
-Iron,       1,2,  0,4,0,
-Furs,       1,2,  2,0,3,
-Glacier Oil,1,2,  0,4,0,
-Spice,      1,2,  3,0,4,
-Fruit,      1,2,  4,0,1,
-Whales,     1,2,  2,2,3,
+Oasis,      1,2,  0,4,4, ; Oasis (desert)
+Buffalo,    1,2,  0,1,1, ; Buffalo (plains)
+Grassland,  1,2,  2,1,0, ; Grassland/shield
+Pheasant,   1,2,  4,2,1, ; Pheasant (forest)
+Coal,       1,2,  1,0,0, ; Coal (hills)
+Gold,       1,2,  0,1,0, ; Gold (mountain)
+Game,       1,2,  1,0,0, ; Game (tundra)
+Space,      1,2,  0,1,1, ; ivory (glacier)
+Peat,       1,2,  1,0,0, ; Peat (swamp)
+Gems,       1,2,  1,0,0, ; Gems (jungle)
+Fish,       1,2,  1,0,2, ; Fish (ocean)
+Desert Oil, 1,2,  0,4,4, ; Desert Oil
+Wheat,      1,2,  0,1,1, ; Wheat (plains)
+Grassland,  1,2,  2,1,0, ; Grassland (shield duplicate?)
+Silk,       1,2,  4,2,1, ; Silk (forest)
+Wine,       1,2,  1,0,0, ; Wine (hills)
+Iron,       1,2,  0,1,0, ; Iron (mountain)
+Furs,       1,2,  1,0,0, ; Furs (tundra)
+Space       1,2,  0,1,1, ; glacier oil
+Spice,      1,2,  1,0,0, ; Spice (swamp)
+Fruit,      1,2,  1,0,0, ; Fruit (jungle)
+Whales,     1,2,  1,0,2, ; Whales (ocean)
 
 
 
