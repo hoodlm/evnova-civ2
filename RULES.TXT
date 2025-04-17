@@ -351,68 +351,68 @@ nil,        ; Cure for Cancer
 ;
 ;
 @UNITS
-Pegasus,      Too, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000000
-Sprite,       Gun, 0,  2.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000000
-Starbridge,   Gun,  0,  1.,0,  1a,1d,  1h,1f,  1,0,  1, nil, 000000000000000
-Abomination,  Gun,  0,  1.,0,  1a,2d,  1h,1f,  2,0,  1, Alp, 000000000000000
-Thunderforge, Gun,  0,  1.,0,  3a,2d,  1h,1f,  3,0,  1, Chi, 000000000000000
-Aur. Cruiser, Gun,  0,  1.,0,  4a,2d,  1h,1f,  4,0,  1, Ato, 000000000000000
-Aur. Carrier, Gun,  0,  1.,0,  1a,2d,  1h,1f,  2,0,  1, Bro, 000010000000000
-Musketeers,   nil, 0,  1.,0,  3a,3d,  2h,1f,  3,0,  1, no,  000000000000000
-Fanatics,     nil, 0,  1.,0,  4a,4d,  2h,1f,  2,0,  1, no,  000100000000000
-Partisans,    nil, 0,  1.,0,  4a,4d,  2h,1f,  5,0,  1, no,  000001000000010
-Enterprise,   nil, 0,  1.,0,  5a,5d,  2h,1f,  5,0,  1, Amp, 000001000000000
-Pir Starbridge,Gun, 0,  1.,0,  5a,4d,  2h,1f,  4,0,  1, Hor, 000000000000000
-Argosy,       Gun, 0,  1.,0,  8a,5d,  2h,1f,  6,0,  0, AFl, 000000000000100
-Zephyr,       Gun, 0,  1.,0,  6a,4d,  2h,1f,  6,0,  1, CA,  000000100000000
-Dart,         Gun, 0,  3.,0,  6a,6d,  3h,1f,  5,0,  1, X2,  000000000000000
-Javelin,      Gun, 0,  2.,0,  2a,1d,  1h,1f,  2,0,  0, X3,  000000000000000
-EMPTY1,       nil, 0,  2.,0,  3a,1d,  1h,1f,  3,0,  0, no,  000000000000000
-EMPTY2,       MT,  0,  2.,0,  4a,1d,  1h,1f,  4,0,  0, no,  000000000000000
-EMPTY3,       Ldr, 0,  2.,0,  5a,1d,  1h,1f,  4,0,  0, no,  000000000000000
-Knights,      nil, 0,  2.,0,  4a,2d,  1h,1f,  4,0,  0, no,  000000000000000
-EMPTY4,       Tac, 0,  2.,0,  5a,2d,  2h,1f,  5,0,  0, no,  000000000000000
-EMPTY5,       Mob, 0,  2.,0,  8a,3d,  2h,1f,  6,0,  0, no,  000000000000000
-EMPTY6,       nil, 0,  3.,0, 10a,5d,  3h,1f,  8,0,  0, no,  000000000000000
-Pirate Carrier,Gun,  0,  1.,0,  6a,1d,  1h,1f,  4,0,  0, Las, 000000000000000
-Pir Manticore,Gun,  0,  1.,0,  8a,1d,  2h,1f,  4,0,  0, Lab, 000000000000000
-Pir Valkyrie, Gun,  0,  1.,0, 10a,1d,  2h,2f,  5,0,  0, Fli, 000000000000000
-Pir Enterprise,Gun,  0,  2.,0, 12a,2d,  3h,2f,  7,0,  0, Iro, 000000001000000
-F.RAGE Gunboat,Gun,  1, 10.,1,  4a,3d,  2h,2f,  6,0,  3, NF,  000000000010001
-Fed. Destroyer,Gun,  1,  8.,2, 12a,1d,  2h,2f, 12,0,  0, X6,  000000000000001
-Fed. Carrier, Gun,  1,  6.,0, 10a,3d,  2h,2f, 10,0,  0, X7,  100000000000001
-F. Patrol Boat,Gun,  1, 14.,1,  8a,4d,  2h,2f,  8,0,  0, X4,  000000000010001
-F. Anaconda,  Gun,  1, 12.,2, 14a,5d,  2h,2f, 16,0,  0, Whe, 000000000000001
-Rebel Dragon, Gun,  2,  3.,0,  1a,1d,  1h,1f,  4,2,  4, Tac, 000000000100000
-R. IDA Frigate,Gun,  2,  3.,0,  2a,1d,  1h,1f,  4,3,  4, SE,  000000000000000
-Reb. Destroyer,Gun,  2,  4.,0,  0a,2d,  2h,1f,  4,4,  4, Stl, 000000000000000
-Reb Starbridge,Gun,  2,  4.,0,  4a,2d,  2h,1f,  5,2,  2, Sth, 000000000000000
-Rebel Valkyrie,Gun,  2,  4.,0,  4a,4d,  3h,1f,  6,0,  2, Roc, 000000000000000
-EMPTY9,       nil, 2,  6.,0,  4a,4d,  3h,1f,  6,0,  2, no,  100000000000001
-EMPTY10,      nil, 2,  5.,0,  6a,6d,  3h,2f,  8,0,  2, no,  100000000000001
-Manta,        Gun,  2,  5.,0,  8a,8d,  3h,2f, 10,0,  2, Too, 110000000000001
-Striker,      Gun,  2,  4.,0, 12a,12d, 4h,2f, 16,0,  2, Mag, 000000000000001
-Pol. Dragon,  Gun, 2,  3.,0, 10a,2d,  3h,2f,  6,0,  2, Mas, 000000000001001
-Arachnid,     Gun, 2,  5.,0,  1a,9d,  4h,2f, 16,0,  2, Min, 000000010000001
-Scarab,       Gun, 2,  5.,0,  0a,3d,  3h,1f,  5,8,  4, Nav, 000000000000000
-Raven,        Gun,  1, 12.,1, 18a,0d,  1h,3f,  6,0,  0, Phy, 001000000000000
-Nuclear Msl., nil, 1, 16.,1, 99a,0d,  1h,1f, 16,0,  0, no,  001000000000000
-Diplomat,     nil, 0,  2.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000010
-Spy,          nil, 0,  3.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000011
-Leviathan,    Too, 0,  1.,0,  0a,1d,  1h,1f,  5,0,  7, Tra, 000000000000010
-Cambrian,     Gun, 0,  2.,0,  0a,1d,  1h,1f,  5,0,  7, Too, 000000000000010
-Krypt Pod,    nil, 0,  1.,0,  0a,1d,  1h,1f,  3,0,  0, Feu,  000001000000010
-Hyperiod,     nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  0, Mob,  000000000000000
-Wraith,       nil, 2,  4.,0,  4a,2d,  2h,1f,  5,1,  2, Mob,  000000000000000
-Extra Air,    nil, 1,  8.,4,  8a,8d,  2h,2f, 10,0,  0, no,  000000000000000
-Test Unit 1,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 2,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 3,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 4,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 5,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 6,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 7,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
-Test Unit 8,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000000
+Pegasus,      Too, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
+Sprite,       Gun, 0,  2.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000001
+Starbridge,   Gun,  0,  1.,0,  1a,1d,  1h,1f,  1,0,  1, nil, 000000000000001
+Abomination,  Gun,  0,  1.,0,  1a,2d,  1h,1f,  2,0,  1, Alp, 000000000000001
+Thunderforge, Gun,  0,  1.,0,  3a,2d,  1h,1f,  3,0,  1, Chi, 000000000000001
+Aur. Cruiser, Gun,  0,  1.,0,  4a,2d,  1h,1f,  4,0,  1, Ato, 000000000000001
+Aur. Carrier, Gun,  0,  1.,0,  1a,2d,  1h,1f,  2,0,  1, Bro, 000000000000001
+Musketeers,   nil, 0,  1.,0,  3a,3d,  2h,1f,  3,0,  1, no,  000000000000001
+Fanatics,     nil, 0,  1.,0,  4a,4d,  2h,1f,  2,0,  1, no,  000000000000001
+Partisans,    nil, 0,  1.,0,  4a,4d,  2h,1f,  5,0,  1, no,  000000000000001
+Enterprise,   nil, 0,  1.,0,  5a,5d,  2h,1f,  5,0,  1, Amp, 000000000000001
+Pir Starbridge,Gun, 0,  1.,0,  5a,4d,  2h,1f,  4,0,  1, Hor, 000000000000001
+Argosy,       Gun, 0,  1.,0,  8a,5d,  2h,1f,  6,0,  0, AFl, 000000000000001
+Zephyr,       Gun, 0,  1.,0,  6a,4d,  2h,1f,  6,0,  1, CA,  000000000000001
+Dart,         Gun, 0,  3.,0,  6a,6d,  3h,1f,  5,0,  1, X2,  000000000000001
+Javelin,      Gun, 0,  2.,0,  2a,1d,  1h,1f,  2,0,  0, X3,  000000000000001
+EMPTY1,       nil, 0,  2.,0,  3a,1d,  1h,1f,  3,0,  0, no,  000000000000001
+EMPTY2,       MT,  0,  2.,0,  4a,1d,  1h,1f,  4,0,  0, no,  000000000000001
+EMPTY3,       Ldr, 0,  2.,0,  5a,1d,  1h,1f,  4,0,  0, no,  000000000000001
+Knights,      nil, 0,  2.,0,  4a,2d,  1h,1f,  4,0,  0, no,  000000000000001
+EMPTY4,       Tac, 0,  2.,0,  5a,2d,  2h,1f,  5,0,  0, no,  000000000000001
+EMPTY5,       Mob, 0,  2.,0,  8a,3d,  2h,1f,  6,0,  0, no,  000000000000001
+EMPTY6,       nil, 0,  3.,0, 10a,5d,  3h,1f,  8,0,  0, no,  000000000000001
+Pirate Carrier,Gun,  0,  1.,0,  6a,1d,  1h,1f,  4,0,  0, Las, 000000000000001
+Pir Manticore,Gun,  0,  1.,0,  8a,1d,  2h,1f,  4,0,  0, Lab, 000000000000001
+Pir Valkyrie, Gun,  0,  1.,0, 10a,1d,  2h,2f,  5,0,  0, Fli, 000000000000001
+Pir Enterprise,Gun,  0,  2.,0, 12a,2d,  3h,2f,  7,0,  0, Iro, 000000000000001
+F.RAGE Gunboat,Gun,  0, 10.,1,  4a,3d,  2h,2f,  6,0,  3, NF,  000000000000001
+Fed. Destroyer,Gun,  0,  8.,2, 12a,1d,  2h,2f, 12,0,  0, X6,  000000000000001
+Fed. Carrier, Gun,  0,  6.,0, 10a,3d,  2h,2f, 10,0,  0, X7,  000000000000001
+F. Patrol Boat,Gun,  0, 14.,1,  8a,4d,  2h,2f,  8,0,  0, X4,  000000000000001
+F. Anaconda,  Gun,  0, 12.,2, 14a,5d,  2h,2f, 16,0,  0, Whe, 000000000000001
+Rebel Dragon, Gun,  0,  3.,0,  1a,1d,  1h,1f,  4,2,  4, Tac, 000000000000001
+R. IDA Frigate,Gun,  0,  3.,0,  2a,1d,  1h,1f,  4,3,  4, SE,  000000000000001
+Reb. Destroyer,Gun,  0,  4.,0,  0a,2d,  2h,1f,  4,4,  4, Stl, 000000000000001
+Reb Starbridge,Gun,  0,  4.,0,  4a,2d,  2h,1f,  5,2,  2, Sth, 000000000000001
+Rebel Valkyrie,Gun,  0,  4.,0,  4a,4d,  3h,1f,  6,0,  2, Roc, 000000000000001
+EMPTY9,       nil, 0,  6.,0,  4a,4d,  3h,1f,  6,0,  2, no,  000000000000001
+EMPTY10,      nil, 0,  5.,0,  6a,6d,  3h,2f,  8,0,  2, no,  000000000000001
+Manta,        Gun,  0,  5.,0,  8a,8d,  3h,2f, 10,0,  2, Too, 000000000000001
+Striker,      Gun,  0,  4.,0, 12a,12d, 4h,2f, 16,0,  2, Mag, 000000000000001
+Pol. Dragon,  Gun, 0,  3.,0, 10a,2d,  3h,2f,  6,0,  2, Mas, 000000000000001
+Arachnid,     Gun, 0,  5.,0,  1a,9d,  4h,2f, 16,0,  2, Min, 000000000000001
+Scarab,       Gun, 0,  5.,0,  0a,3d,  3h,1f,  5,8,  4, Nav, 000000000000001
+Raven,        Gun,  0, 12.,1, 18a,0d,  1h,3f,  6,0,  0, Phy, 000000000000001
+Nuclear Msl., nil, 0, 16.,1, 99a,0d,  1h,1f, 16,0,  0, no,  000000000000001
+Diplomat,     nil, 0,  2.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
+Spy,          nil, 0,  3.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
+Leviathan,    Too, 0,  1.,0,  0a,1d,  1h,1f,  5,0,  7, Tra, 000000000000001
+Cambrian,     Gun, 0,  2.,0,  0a,1d,  1h,1f,  5,0,  7, Too, 000000000000001
+Krypt Pod,    nil, 0,  1.,0,  0a,1d,  1h,1f,  3,0,  0, Feu,  000000000000001
+Hyperiod,     nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  0, Mob,  000000000000001
+Wraith,       nil, 0,  4.,0,  4a,2d,  2h,1f,  5,1,  2, Mob,  000000000000001
+Extra Air,    nil, 0,  8.,4,  8a,8d,  2h,2f, 10,0,  0, no,  000000000000001
+Test Unit 1,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 2,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 3,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 4,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 5,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 6,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 7,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
+Test Unit 8,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
 
 ;
 ; Note: the above 11 unit types (extra land, ship, air, and test units) are 
