@@ -117,6 +117,9 @@ I am making the following design decisions:
 Riflemen -> Pirate Starbridge
 Artillery -> Pirate Valkyrie
 
+It seems like Guerillas and Fanatics _can_ still sometimes spawn. May need to put a duplicate
+of Pir Starbridge/Valkyrie in those slots too.
+
 (Other pirate type units will still spawn in trigger events AND can be created by the guild of fr traders)
 
 
