@@ -453,3 +453,157 @@ Manhattan            REMOVE
 SETI                 KEEP
 UnitedNations        REMOVE
 WomensSuffrage       KEEP        Democracy
+
+# Scenario setup checklist
+
+* "Start on premade map" as the Romans
+* Pick computer opponents, flat world, no randomized start locations
+
+From the cheat menu:
+
+* Reveal world map
+* Wipe goody boxes
+
+## Assoc
+
+### Starting techs
+Privateering
+Organized Crime
+Illicit Ship Mods
+Writing
+Warrior Code
+Trade
+Map Making
+Industrialization
+
+
+### Cities
+Scheall
+Set size to 3, spawn 2 Pirate Valkyrie
+
+
+## Rebel
+### Starting techs
+Privateering
+Rebellion
+Writing
+Warrior Code
+Trade
+Map Making
+Industrialization
+
+### Cities
+Koria
+Set size to 2, spawn 1 starbridge
+
+Evlei
+Set size to 2, spawn 1 starbridge and 1 leviathan
+
+
+## Federation
+### Starting techs
+Privateering
+Federation
+Writing
+Warrior Code
+Trade
+Map Making
+Industrialization
+
+
+### Cities
+Sol
+Set size to 3, spawn 1 starbridge, 1 pegasus, 1 leviathan
+
+Port Kane
+Set size to 2, spawn 1 starbridge
+
+Kerella
+size 1, spawn 1 starbridge
+
+Nesre Primus
+size 1, spawn 1 starbridge
+
+
+## Aurorans
+
+### Starting techs
+
+Privateering
+Auroran Tradition
+Writing
+Warrior Code
+Trade
+Map Making
+Industrialization
+
+### Cities
+
+Aurora
+size 2, 1 argosy + 1 starbridge + 1 pegasus
+
+Heraan
+size 2, 1 argosy
+
+Moash
+size 2, 1 argosy
+
+Tekel
+size 2, 1 argosy
+
+Dani
+size 2, 1 argosy
+
+
+## Krypt
+
+### Starting techs
+
+Alien tech
+Krypt tech
+
+### Cities
+
+Vellos - 1 krypt pod
+Korell - 1 krypt pod
+
+
+## Wraith
+
+### Starting techs
+
+Alien tech
+Wraith tech
+Wraith biology
+
+### Cities
+
+Hel'A'Forius - 1 wraith
+Hot'A'Tanius - 1 wraith
+
+Spawn a couple hyperiods around, set their home city to NONE
+
+
+## Polaris
+
+### Starting techs
+
+Advanced Biotech
+Organelles
+Organic Shipbuilding
+Writing
+Warrior Code
+Trade
+Map Making
+Industrialization
+
+### Cities
+
+Kel'ariy
+size 3, 1 manta
+
+Nil'pesetra
+size 2, 2 manta
+
+Mu'hari
+size 1, 1 starbridge, 2 cambrian, 1 sprite
