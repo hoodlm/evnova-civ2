@@ -351,8 +351,8 @@ nil,        ; Cure for Cancer
 ;
 ;
 @UNITS
-Pegasus,      Too, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
-Sprite,       Gun, 0,  2.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000001
+Pegasus,      Too, 0,  2.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
+Sprite,       Gun, 0,  3.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000001
 Starbridge,   Gun,  0,  4.,0,  2a,2d,  1h,1f,  1,0,  1, nil, 000000000000001
 Abomination,  Gun,  0,  4.,0,  3a,2d,  1h,1f,  2,0,  0, Alp, 000000000000001
 Thunderforge, Gun,  0,  3.,0,  8a,2d,  2h,1f,  8,0,  0, Chi, 000000000100001
