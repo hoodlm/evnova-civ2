@@ -561,6 +561,7 @@ size 2, 1 argosy
 
 Alien tech
 Krypt tech
+Organic Shipbuilding (blocks Pegasus)
 
 ### Cities
 
@@ -575,6 +576,7 @@ Korell - 1 krypt pod
 Alien tech
 Wraith tech
 Wraith biology
+Organic Shipbuilding (blocks Pegasus)
 
 ### Cities
 
