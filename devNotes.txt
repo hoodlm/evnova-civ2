@@ -283,7 +283,7 @@ Backchannel Diplomacy (Rebel Dragon)
 
 ### Fed tech tree (6+2)
 
-Federation Shipbuilding (Scoutship)
+Federation Shipbuilding (Anaconda)
 Missile Weapons (Patrol Boat)
 Shipbuilding Contracts (Sigma Shipyards wonder?)
 Heavy Energy Weapons (Fed. Destroyer)
