@@ -113,24 +113,24 @@ Industrialization,  6, 0,  nil, nil, 2, 1    ; Ind
 Invention,          6, 0,  Eng, CoL, 1, 4    ; Inv
 Weapons Smuggling,  5,-1,  Hor, Csc,  0, 4    ; Iro
 Adv. Embezzlement,  4,-1,  Iro, Csc,  3, 2    ; Lab
-Corporate Crime,    4, 0,  Lab,   no,   3, 3    ; Las
+Corporate Crime,    4, 0,  Lab,   nil,   3, 3    ; Las
 Advanced Biotech,   5,-1,  RR,  nil,  1, 0    ; Ldr <-- Polaris base tech
 Organelles,         5, 2,  Ldr,  nil,  0, 3    ; Lit
 Organic Shipbuilding,4,-2,  Ldr, Lit,  2, 4    ; Too
-Nil'kemorya,         4,-1,  Too,  no,  1, 3    ; Mag
+Nil'kemorya,         4,-1,  Too,  nil,  1, 3    ; Mag
 Map Making,         6,-1,  nil, nil, 0, 1    ; Map
-Etheric Wake Engine,4, 1,  Mag,  no,  0, 4    ; Mas
+Etheric Wake Engine,4, 1,  Mag,  nil,  0, 4    ; Mas
 Mass Production,    5, 0,  Rob, nil, 3, 4    ; MP
 Mathematics,        4,-1,  Wri, nil, 0, 3    ; Mat
 Medicine,           4, 0,  Sea, Tra, 1, 1    ; Med
 Capacitor Pulse Laser,6,-2,  Mag,  Lit,  1, 0    ; Met
-Organic Nuc. Fusion,    4, 1,  Met,  no,   3, 4    ; Min
+Organic Nuc. Fusion,    4, 1,  Met,  nil,   3, 4    ; Min
 Wraith Tech,        8,-1,  RR, nil, 3, 0    ; Mob <-- Wraith base tech
 Monarchy,           5, 1,  nil, nil, 0, 2    ; Mon
 Monotheism,         5, 1,  Phi, Mys,  1, 2   ; MT
 Mysticism,          4, 0,  CoL, nil, 0, 2    ; Mys
-Polaron Torpedos,   6,-1,  Min,  no,  1, 1    ; Nav
-Advanced Espionage,    6,-2,  X7,  no,   3, 3    ; NF
+Polaron Torpedos,   6,-1,  Min,  nil,  1, 1    ; Nav
+Advanced Espionage,    6,-2,  X7,  nil,   3, 3    ; NF
 Nuclear Power,      3, 0,  Rec,  E2,  3, 3    ; NP
 Philosophy,         6, 1,  Mys, Mat, 1, 2    ; Phi
 Etheric Induction,  4,-1,  Nav, Mas,  1, 3    ; Phy
