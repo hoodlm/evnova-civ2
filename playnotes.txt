@@ -11,3 +11,16 @@ Tech is too slow. Accelerate tech paradigm 2X?
 Wraith/Krypt are building Pegasusus
 
 
+8eafb0e0abfd7e904c6c51837232ad7064f28da6
+
+As Rebels:
+
+Game is just about alpha playable.
+Something's off with the rebel tech tree, couldn't get more techs
+
+
+As Aurorans:
+
+Similar issue, Auroran techs aren't available
+
+(issue is the 'once-removed/twice-removed' bug described here: https://sleague.civfanatics.com/index.php?title=Advanced_Tech%27_Tree_Design_-_Part_One )
