@@ -24,3 +24,23 @@ As Aurorans:
 Similar issue, Auroran techs aren't available
 
 (issue is the 'once-removed/twice-removed' bug described here: https://sleague.civfanatics.com/index.php?title=Advanced_Tech%27_Tree_Design_-_Part_One )
+
+
+
+e850434cea10255ed5c68cb641e6d76ccddea29b
+
+As Polaris:
+
+tech tree seems fixed
+
+Still need to disable negotiation/diplomacy with Wraith and Krypt
+Make freighters (cambrian/leviathan) ignore ZoC
+Federation got taken out by Aurorans. Maybe give civs City Walls in capital planets?
+Assoc killed by Rebellion too
+Barbarians (pirates) are actually pretty dangerous. I think this is a good thing!
+In general the map is probably too empty. The AI barely seems to settle any cities, probably becaues it doesn't see any terrain that it thinks is suitable.
+Pirate carrier might be too strong? at least needs to be more expensive
+Pol Dragon probably needs a nerf
+Increase paradrop range on zephyr
+Map feels too "big" especially to get out to vellos space. maybe add some roads for the old hypergate network.
+May even consider redoing the map as a medium map rather than a large map...
