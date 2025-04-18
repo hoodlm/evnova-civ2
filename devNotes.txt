@@ -222,9 +222,10 @@ is unlocked by Genetic Engineering and Environmentalism
 
 ### Scientific Victory tree
 
-is unlocked by TWCB and Interstellar Biology
+Apollo Program is unlocked by TWCB tech which is
+triggered by the Kont scenario event.
 
-Space Flight
+Space Flight (unlocked by Robotics + Computers)
 Plastics
 Superconductor
 Fusion Power

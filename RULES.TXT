@@ -148,7 +148,7 @@ Robotics,           5,-2,  E2,  nil, 3, 0    ; Rob
 Rebel Ship Mods,    6,-2,  PT,  nil,   3, 0    ; Roc
 Sanitation,         4, 2,  Aut, Med, 2, 1    ; San
 Seafaring,          4, 1,  Cur, nil, 0, 1    ; Sea
-Space Flight,       4, 1,  U1, U2, 3, 3    ; SFl
+Space Flight,       4, 1,  Rob, Cmp, 3, 3    ; SFl
 Rebel Engine Mods,  3,-2,  Roc,  nil,  3, 0    ; Sth
 Industr. Espionage, 4,-1,  Sth,  Roc,  2, 3    ; SE
 Federation Defectors, 4,-1,  SE,   nil,  2, 4    ; Stl
@@ -163,7 +163,7 @@ Federation,         4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
 Writing,            4, 2,  nil, nil, 0, 3    ; Wri
 Future Technology,  1, 0,  Gen, Env, 3, 3    ; ...
 Those Who Came Before,    3, 0,  RR,  nil,  0, 0    ; U1 <-- Unlocked with event
-Interstellar Biology,    3, 0,  RR, nil,  0, 0    ; U2 <-- Unlocked with event
+The Creature That Lives In Deep Space,    3, 0,  no, no,  0, 0    ; U2 <-- Spare
 Wraith Biology,    3, 0, RR, nil,  0, 0    ; U3 <-- Unlocked with event 
 Telepath Awareness,    3, 0, RR, nil,  0, 0    ; X1 <-- unlocked with event
 Telepath Indoctrination,    3, 0, X1, nil,  0, 0    ; X2
@@ -253,7 +253,7 @@ Women's Suffrage,         60, 0,    Dem,
 Hoover Dam,               60, 0,    E2,
 Manhattan Project,        60, 0,    Plu,
 United Nations,           60, 0,    Plu,
-Apollo Program,           60, 0,    SFl,
+Apollo Program,           60, 0,    U1,
 SETI Program,             60, 0,    Cmp,
 Cure for Cancer,          60, 0,    Gen,
 
