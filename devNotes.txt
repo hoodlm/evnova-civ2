@@ -458,12 +458,29 @@ WomensSuffrage       KEEP        Democracy
 # Scenario setup checklist
 
 * "Start on premade map" as the Romans
-* Pick computer opponents, flat world, no randomized start locations
+* Pick computer opponents, flat world, no randomized start locations, no restart defeated opponents
 
+## 'World Setup'
 From the cheat menu:
 
 * Reveal world map
-* Wipe goody boxes
+* Edit Scn
+* -> wipe goody boxes
+* -> tech paradigm 5/10
+* -> set Scn Name 'EV Nova'
+
+## Factions setup
+
+"Edit King"
+Toggle female flags...
+
+Assoc - 0
+Rebels - 0
+Federation - 1
+Krypt - 1
+Wraith - 0
+Polaris - 0
+Aurorans - 0
 
 ## Assoc
 
@@ -480,7 +497,8 @@ Industrialization
 
 ### Cities
 Scheall
-Set size to 3, spawn 2 Pirate Valkyrie
+Cheat-build 1 Pirate Valkyrie, 1 Starbridge, City Walls
+Set size to 3
 
 
 ## Rebel
@@ -495,10 +513,12 @@ Industrialization
 
 ### Cities
 Koria
-Set size to 2, spawn 1 starbridge
+Cheat-build 1 Starbridge, City Walls
+Set size to 2
 
 Evlei
-Set size to 2, spawn 1 starbridge and 1 leviathan
+Cheat-build 1 Starbridge, 1 Leviathan
+Set size to 2
 
 
 ## Federation
@@ -514,16 +534,20 @@ Industrialization
 
 ### Cities
 Sol
-Set size to 3, spawn 1 starbridge, 1 pegasus, 1 leviathan
+Cheat-build 1 anaconda, 1 pegasus, 1 leviathan, city walls
+Set size to 3
 
 Port Kane
-Set size to 2, spawn 1 starbridge
+1 starbridge
+Set size to 2
 
 Kerella
-size 1, spawn 1 starbridge
+1 starbridge
+size 1
 
 Nesre Primus
-size 1, spawn 1 starbridge
+1 starbridge
+size 1
 
 
 ## Aurorans
@@ -541,7 +565,8 @@ Industrialization
 ### Cities
 
 Aurora
-size 2, 1 argosy + 1 starbridge + 1 pegasus
+1 argosy + 1 starbridge + 1 pegasus
+size 2
 
 Heraan
 size 2, 1 argosy
@@ -566,8 +591,8 @@ Organic Shipbuilding (blocks Pegasus)
 
 ### Cities
 
-Vellos - 1 krypt pod
-Korell - 1 krypt pod
+Vellos - 2 krypt pod
+Korell - 2 krypt pod
 
 
 ## Wraith
@@ -581,8 +606,8 @@ Organic Shipbuilding (blocks Pegasus)
 
 ### Cities
 
-Hel'A'Forius - 1 wraith
-Hot'A'Tanius - 1 wraith
+Hel'A'Forius - 2 wraith
+Hot'A'Tanius - 2 wraith
 
 Spawn a couple hyperiods around, set their home city to NONE
 
@@ -603,10 +628,18 @@ Industrialization
 ### Cities
 
 Kel'ariy
-size 3, 1 manta
+1 manta, 1 sprite
+size 3
 
 Nil'pesetra
-size 2, 2 manta
+2 manta
+size 2
 
 Mu'hari
-size 1, 1 starbridge, 2 cambrian, 1 sprite
+1 starbridge, 1 cambrian
+size 1
+
+
+## Kont
+
+Create a "Kont" barbarian unit on top of the kont planet

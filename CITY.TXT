@@ -11,6 +11,7 @@
 ;
 
 @ASSOCIATION
+Scheall
 Harbor
 Outbound
 Mallereth
@@ -22,14 +23,19 @@ Tenetria
 @STOP
 
 @REBELLION
+Koria
+Evlei
 Misfire
 Luminary
 Egiht
-Pipeline
 Soth
 @STOP
 
 @FEDERATION
+Sol
+Port Kane
+Kerella
+Nesre Primus
 Alphara
 Tichel
 Fomalhaut
@@ -47,6 +53,11 @@ Rautherion
 @STOP
 
 @AURORANS
+Aurora
+Heraan
+Moash
+Tekel
+Dani
 Vella
 Issar
 Kin
@@ -71,6 +82,8 @@ Kanto
 @STOP
 
 @KRYPT
+Vellos
+Korell
 Telluer
 Qellan
 Pontoll
@@ -81,6 +94,8 @@ Yllar
 @STOP
 
 @WRAITH
+Hel'A'Forius
+Hot'A'Tanius
 Mes'E'Ruma
 Vyl'E'Tini
 Ran'E'Shepos
@@ -88,12 +103,15 @@ Far'E'Bunor
 @STOP
 
 @POLARIS
-Nil'kvee
+Kel'ariy
+Nil'pesetra
+Mu'hari
 Tri'niphu
 P'napna
 Ver'ashan
 P'aedt
 Kel'fella
+Nil'kvee
 Ver'asplast
 P'ecksa
 Bis'usoca
@@ -101,7 +119,6 @@ Ver'roqi
 Tre'petaka
 K'a Vi
 Tre'minor
-Nil'Kvee
 Mjolnir
 @STOP
 
