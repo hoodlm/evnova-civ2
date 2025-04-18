@@ -44,3 +44,16 @@ Pol Dragon probably needs a nerf
 Increase paradrop range on zephyr
 Map feels too "big" especially to get out to vellos space. maybe add some roads for the old hypergate network.
 May even consider redoing the map as a medium map rather than a large map...
+
+
+
+# 2025-04-18
+
+c330526977a12f260440a35b4ae320a657ce3b78
+
+"Alpha v0.1"
+
+As Federation
+* Anaconda has a Range attribute
+* A wraith immediately wrecked me... maybe need to make the wraith unit types Defender
+* Got the krypt popup because the Wraith and the Krypt were fighting...

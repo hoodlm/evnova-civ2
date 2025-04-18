@@ -39,16 +39,82 @@ listenertype=HumanOrComputer
 @IF
 UNITKILLED
 unit=Krypt Pod
-attacker=ANYBODY
+attacker=Association
 defender=ANYBODY
 @THEN
 TEXT
-As the Krypt Pod attacked the ship's shields, it also assaulted the minds of the men and
-women on the ship. Nothing in their military training specifically prepared them for what
-you have now learned was a telepathic attack; but with their disciplined minds they
-nonetheless prevailed. A group of xenobiologists, studying the crew of the ships, now
-theorize that there is a latent telepathic ability in some subset of your population.
-(Telepathic Awareness unlocked!)
+Association pilots, with their disciplined minds, manage to withstand a telepathic attack
+from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ability in
+some subset of the Association population...
+(Telepathic Awareness advance unlocked by Association!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=93
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Krypt Pod
+attacker=Aurorans
+defender=ANYBODY
+@THEN
+TEXT
+Auroran pilots, with their disciplined minds, manage to withstand a telepathic attack
+from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ability in
+some subset of the Auroran population...
+(Telepathic Awareness advance unlocked by Aurorans!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=93
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Krypt Pod
+attacker=Polaris
+defender=ANYBODY
+@THEN
+TEXT
+Polaris pilots, with their disciplined minds, manage to withstand a telepathic attack
+from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ability in
+some subset of the Polaris population...
+(Telepathic Awareness advance unlocked by Polaris!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=93
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Krypt Pod
+attacker=Federation
+defender=ANYBODY
+@THEN
+TEXT
+Federation pilots, with their disciplined minds, manage to withstand a telepathic attack
+from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ability in
+some subset of the Federation population...
+(Telepathic Awareness advance unlocked by Federation!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=93
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Krypt Pod
+attacker=Rebellion
+defender=ANYBODY
+@THEN
+TEXT
+Rebel pilots, with their disciplined minds, manage to withstand a telepathic attack
+from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ability in
+some subset of the Rebellion population...
+(Telepathic Awareness advance unlocked by Rebellion!)
 ENDTEXT
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
@@ -58,15 +124,82 @@ technology=93
 @IF
 UNITKILLED
 unit=Wraith
-attacker=ANYBODY
+attacker=Federation
 defender=ANYBODY
 @THEN
 TEXT
-All attempts at communication with the Wraith have failed; and unfortunately all
-encounters have been hostile. In spite of significant ethical considerations, a military
-science team performed an unauthorized autopsy of a dead Wraith. The officer in charge of
-that team has been disciplined, but what's done is done - the study of novel alien biology is,
-after all, the most significant biological discovery in centuries. (Wraith Biology unlocked!)
+A Federation military science team have captured a dead Wraith specimen for study.
+While philosophers raise ethical objections to dissecting what may be an intelligent
+species, biologists are busy poring over the most novel biological discovery in centuries.
+(Wraith Biology advance unlocked by Federation!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=92
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Wraith
+attacker=Polaris
+defender=ANYBODY
+@THEN
+TEXT
+A Polaris military science team have captured a dead Wraith specimen for study.
+While philosophers raise ethical objections to dissecting what may be an intelligent
+species, biologists are busy poring over the most novel biological discovery in centuries.
+(Wraith Biology advance unlocked by Polaris!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=92
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Wraith
+attacker=Aurorans
+defender=ANYBODY
+@THEN
+TEXT
+An Auroran military science team have captured a dead Wraith specimen for study.
+While philosophers raise ethical objections to dissecting what may be an intelligent
+species, biologists are busy poring over the most novel biological discovery in centuries.
+(Wraith Biology advance unlocked by Aurorans!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=92
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Wraith
+attacker=Rebellion
+defender=ANYBODY
+@THEN
+TEXT
+An Rebel military science team have captured a dead Wraith specimen for study.
+While philosophers raise ethical objections to dissecting what may be an intelligent
+species, biologists are busy poring over the most novel biological discovery in centuries.
+(Wraith Biology advance unlocked by Rebellion!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=92
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Wraith
+attacker=Association
+defender=ANYBODY
+@THEN
+TEXT
+An Association crew have captured a dead Wraith specimen for study.
+While philosophers raise ethical objections to dissecting what may be an intelligent
+species, biologists are busy poring over the most novel biological discovery in centuries.
+(Wraith Biology advance unlocked by Association!)
 ENDTEXT
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
