@@ -36,4 +36,41 @@ listenertype=HumanOrComputer
 @THEN
 @ENDIF
 
+@IF
+UNITKILLED
+unit=Krypt Pod
+attacker=ANYBODY
+defender=ANYBODY
+@THEN
+TEXT
+As the Krypt Pod attacked the ship's shields, it also assaulted the minds of the men and 
+women on the ship. Nothing in their military training specifically prepared them for what 
+you have now learned was a telepathic attack; but with their disciplined minds they 
+nonetheless prevailed. A group of xenobiologists, studying the crew of the ships, now 
+theorize that there is a latent telepathic ability in some subset of your population. 
+(Telepathic Awareness unlocked!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=93
+@ENDIF
+
+@IF
+UNITKILLED
+unit=Wraith
+attacker=ANYBODY
+defender=ANYBODY
+@THEN
+TEXT
+All attempts at communication with the Wraith have failed; and unfortunately all 
+encounters have been hostile. In spite of significant ethical considerations, a military 
+science team performed an unauthorized autopsy of a dead Wraith. The officer in charge of 
+that team has been disciplined, but what's done is done - the study of novel alien biology is, 
+after all, the most significant biological discovery in centuries. (Wraith Biology unlocked!)
+ENDTEXT
+GIVETECHNOLOGY
+receiver=TRIGGERATTACKER
+technology=92
+@ENDIF
+
 @ENDEVENTS
