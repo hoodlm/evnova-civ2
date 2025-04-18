@@ -1,0 +1,34 @@
+@SCENARIO
+@width=500
+@title=%STRING0
+^^Length: %STRING1 to %STRING2
+^
+^After the cataclysmic destruction of the hypergate system, humanity was abruptly
+^isolated in different parts of the galaxy. Now, centuries later, pockets of human
+^settlements have developed new hyperspace-capable spaceships.
+^
+^Three major factions have formed: the Federation, the Aurorans, and the Polaris.
+^Reunification is inevitable... but will it happen peacefully?
+^
+^^FACTIONS
+^Recommended: Polaris (easiest), Federation, Aurorans
+^Challenging: Rebellion, Association of Free Traders
+^Not for human play: Wraith, Krypt
+^
+^Polaris, Federation, Aurorans, and Rebels all have special tech trees and units.
+^The Polaris have stronger ships, but their technology can be stolen!
+^
+^All civilizations except the Polaris can build Pirate tech.
+^The Association have a head-start on the Pirate tree.
+^
+^^OBJECT
+^You can win by military victory (conquer the galaxy) or by scientific victory
+^(build an inter-galactic spaceship).
+^HINT: On either victory path, exploring the far reaches of the galaxy will help!
+^
+^^THANKS FOR ALPHA TESTING!
+^You are playing Alpha v0.1 of this scenario (built approx 18 April 2025).
+^It is playable - and hopefully fun! - but some parts are incomplete.
+^Please report balance issues and bugs!
+^
+@end -- this line must be here!
