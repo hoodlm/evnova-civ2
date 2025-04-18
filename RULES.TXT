@@ -479,7 +479,7 @@ Nebula,     2,4,  0,2,2,   no,  1,10, 0,   no,  1,10,  6,  no,    ; Mou
 _Tundra_,   1,2,  1,0,0,   no,  1,10, 1,   no,  0, 0,  0,  no,    ; Tun
 Space,      1,2,  0,1,0,   no,  0, 0, 0,   no,  1,15,  3,  no,    ; Gla
 Gas Giant,  1,2,  2,2,4,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Swa
-_Jungle_,   1,2,  1,0,0,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Jun
+Kont,       1,2,  2,3,4,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Jun
 _Ocean_,    1,2,  1,0,2,   no,  0, 0, 0,   no,  0, 0,  0,  no,    ; Oce
 Star,       1,2,  4,1,6, ; Oasis (desert)
 Rocky Planet,1,2, 2,3,1, ; Buffalo (plains)
@@ -490,7 +490,7 @@ Nebula,     2,4,  0,2,2, ; Gold (mountain)
 _Game_,     1,2,  1,0,0, ; Game (tundra)
 Space,      1,2,  0,1,0, ; ivory (glacier)
 Gas Giant,  1,2,  2,2,4, ; Peat (swamp)
-_Gems_,     1,2,  1,0,0, ; Gems (jungle)
+Kont,       1,2,  2,3,4, ; Gems (jungle)
 _Fish_,     1,2,  1,0,2, ; Fish (ocean)
 Star,       1,2,  4,1,6, ; Desert Oil
 Rocky Planet,1,2, 2,3,1, ; Wheat (plains)
@@ -501,7 +501,7 @@ Nebula,     1,2,  0,2,2, ; Iron (mountain)
 _Furs_,     1,2,  1,0,0, ; Furs (tundra)
 Space,      1,2,  0,1,0, ; glacier oil
 Gas Giant,  1,2,  2,2,4, ; Spice (swamp)
-_Fruit_,    1,2,  1,0,0, ; Fruit (jungle)
+Kont,       1,2,  2,3,4, ; Fruit (jungle)
 _Whales_,   1,2,  1,0,2, ; Whales (ocean)
 
 
