@@ -69,11 +69,8 @@ Every system includes a star and at least one planet.
 
 ## Governments
 
-Polaris: Republic
-Wraith/Krypt: Despotism
-Others: Monarchy
-
-Communism and Democracy can be researched
+Similar scheme to vanilla; Monarchy and Republic are available fairly early.
+Communism and Democracy can be researched later.
 Fundamentalism is not available
 Make sure to remove Statue of Liberty from play
 
@@ -91,16 +88,14 @@ Name...          Maps to...   Yield (f/sh/tr)   other notes
 Space            Glacier      0/1/0             
 Star             Desert       2/1/6
 Gas Giant        Swamp        0/2/4
-Rocky planet     Plains       1/3/1             Can be mined
-Green planet     Grassland    6/2/1             Can be mined
+Rocky planet     Plains       1/3/1
+Green planet     Grassland    6/2/1
 Asteroids        Forest       0/3/1
 Nebula           Mountain     0/2/2             Costs 2 movement, 200% defense
-?                Hills
-?                Jungle
-?                Tundra
 
+Jungle is used for Kont
 
-Can use hills/jungle/tundra for kont or other special map features? wormholes?
+Tundra/Hills are still unused
 
 # Pirates (Barbarians)
 
@@ -116,9 +111,6 @@ I am making the following design decisions:
 
 Riflemen -> Pirate Starbridge
 Artillery -> Pirate Valkyrie
-
-It seems like Guerillas and Fanatics _can_ still sometimes spawn. May need to put a duplicate
-of Pir Starbridge/Valkyrie in those slots too.
 
 (Other pirate type units will still spawn in trigger events AND can be created by the guild of fr traders)
 
@@ -147,11 +139,10 @@ Barbarian L. Pirate Argosy
 
 ## "event techs"
 
-There are four "event" technologies that can be unlocked as a reward for exploring deep space:
+There are three "event" technologies that can be unlocked as a reward for exploring deep space:
 
 * "Wraith Biology" in Wraith space (north corner of space)
 * "Telepathic Awareness" in Krypt space (northwest corner of space)
-* "Interstellar Biology" from discovering The Creature That Lives In Deep Space
 * "Those Who Came Before" from exploring Kont
 
 The Wraith/Telepathic techs unlock some special tech trees for other civs.
@@ -169,7 +160,6 @@ Monarchy
 The Republic
 Warrior Code (Starbridge)
 Industrialization
-Mobile Warfare
 
 ### Economic Tree
 
@@ -242,82 +232,110 @@ While certain civs start out with technologies that the other civs don't have, t
 * Auroran tech
 * Polaris tech
 
+
 The Polaris tech tree is significantly stronger than the other civs.
 
-The Rebels, Federation, and Aurorans all have the ability to "naturally" research Pirate tech, but the Assoc gets a head start.
+The Rebels, Federation, and Aurorans all have the ability to "naturally" research Pirate tech, but the Assoc gets a head start
 
-### Pirate tech tree (7)
+(If only one prereq is specified, asusme the previous tech in the table is the prereq.)
+("RR" is the "twice removed" tech to prevent techs from being researchable, but keep them in the civilipedia)
 
-Privateering
-Organized Crime
-Illicit Ship Mods (Pirate Valkyrie)
-Aftermarket Engines (Pirate Starbridge)
-Weapons Smuggling (Pirate Enterprise)
-Advanced Embezzlement (Manticore)
-Corporate Crime Syndicate (Pirate Carrier)
+### Pirate tech tree
+
+Pirate Tech Tree has tie-ins mostly to the economic tree, so a civ doing a "pirate build" would emphasize economic technologies.
 
 
-### Polaris tech tree (10+1)
+Tech Name                 | Tech Code |   Prereqs          | Allows
+--------------------------|-----------|--------------------|---------------------
+Privateering*             | Cmb       | RR                 |
+Organized Crime**         | Csc       | Currency           | 
+Illicit Ship Mods**       | Fli       | Engineering        | Pirate Starbridge
+Aftermarket Engines       | Hor       | Ill.Ship + Org.Cri | Pirate Valkyrie
+Weapons Smuggling         | Iro       | Seafaring          | Pirate Enterprise
+Advanced Embezzlement     | Lab       | Economics          | Manticore
+Corporate Crime           | Las       | The Corporation    | Pirate Carrier
 
-Advanced Biotech
-Organelles
-Organic Shipbuilding (Sprite, Cambrian)
-Bio-organic Lasers (Manta)
-Nil'kemorya (Striker)
-Etheric Wake (Dragon)
-Capacitor Pulse Laser
-Fusion Generators (Arachnid)
-POlaron Torpedos (Scarab)
-Etheric Induction (Raven)
+* Aurorans, Rebels, Federation, and Assoc start with this tech
+** Assoc starts with this tech
 
 
+### Polaris tech tree
+
+The Polaris Tech Tree ties primarily into Science.
 The Polaris have a bonus tech Tunneling Organ that unlocks the Zephyr (paratrooper).
 Its prerequisites are Etheric Wake + "Wraith Biology"
 
+Tech Name                | Tech Code |   Prereqs           | Allows
+-------------------------|-----------|---------------------|--------------------
+Macro-organelles*        | Ldr       | RR                  |
+Organic Shipbuilding*    | Too       | RR                  | Sprite, Cambrian
+Bio-organic Lasers       | Lit       | Organel., Org. Ship | Manta
+Nil'kemorya              | Mag       | Mysticism           | Striker
+Etheric Wake             | Mas       | University          | Dragon
+Capacitor Pulse Laser    | Met       | Astronomy           |        
+Organic Nuc. Fusion      | Min       | Theo. Gravity       | Arachnid
+Polaron Torpedos         | Nav       | Electronics         | Scarab
+Etheric Induction        | Phy       | Gen. Eng.           | Raven
+
+* Polaris start with this tech
 
 ### Rebel Tech Tree (6)
 
-Rebel Tech
-Rebel Ship Mods (Rebel Valkyrie)
-Rebel Engine Mods (Rebel Starbridge)
-Industrial Espionage (Rebel IDA Frigate)
-Federation Defecters (Rebel Destroyer)
-Backchannel Diplomacy (Rebel Dragon)
+The Rebel Tech tree ties primarily into to social policies.
+
+Tech Name                | Tech Code |   Prereqs           | Allows
+-------------------------|-----------|---------------------|--------------------
+Rebellion*               | PT        | RR                  |
+Rebel ship mods*         | Roc       | RR                  | Rebel Starbridge
+Rebel engine mods        | Sth       | Engineering         | Rebel Valkyrie
+Industrial Espionage     | SE        | Mysticism           | Rebel IDA Frigate
+Federation Defectors     | Stl       | Monotheism          | Rebel Destroyer
+Backchannel Diplomacy    | Tac       | Fed Def, Rebellion  | Rebel Dragon
 
 
 ### Fed tech tree (6+2)
 
-Federation Shipbuilding (Anaconda)
-Missile Weapons (Patrol Boat)
-Shipbuilding Contracts (Sigma Shipyards wonder?)
-Heavy Energy Weapons (Fed. Destroyer)
-Heavy Turret Platforms (Fed. Carrier)
-Advanced Espionage (RAGE Gunboat)
+The Federation Tech tree ties into all trees, required a balanced and broad research strategy.
 
-
-The Federation have a bonus tech tree unlocked with
-the combination of "Telepathic Awareness" (from discovering
-with Krypt) and Advanced Espionage
-
-Telepath Indoctrination (Dart)
-Telepath Enslavement (Javelin)
-
+Tech Name                | Tech Code |   Prereqs           | Allows
+-------------------------|-----------|---------------------|--------------------
+Federation Constitution* | Whe       | RR                  | Anaconda
+Missile Weapons          | X4        | Mathematics         | Patrol Boat
+Shipbuilding contracts   | X5        | Seafaring           |
+Heavy Energy Weapons     | X6        | Robotics            | Fed. Destroyer
+Heavy Turret Platforms   | X7        | Astronomy           | Fed. Carrier
+Advanced Espionage       | NF        | Theology            | RAGE Gunboat
 
 
 
 ### Auroran Tech Tree (5+2)
 
-Auroran Shipbuilding (Argosy)
-Fusion Pulse Cannons (Abomination)
-Freighter Militia (Enterprise)
-Railguns (Cruiser)
-Planetary Shipyards (Carrier)
+The Auroran tech tree ties primarily into the energy/production tree, with a bonus tree unlocked with Telepathic Awareness.
 
 
-The Aurorans have an extension tech tree that is unlocked with "Telepathic Awareness".
+Tech Name                | Tech Code |   Prereqs           | Allows
+-------------------------|-----------|---------------------|--------------------
+Auroran Tradition*       | Afl       | RR                  | Argosy
+Fusion Pulse Cannons     | Alp       | Refining            | Abomination
+Freighter Militia        | Amp       | Currency            | Enterprise
+Railguns                 | Ato       | Robotics            | A. Cruiser
+Planetary Shipyards      | Bro       | Recycling           | A. Carrier
+Telepathic Martial Arts  | Che       | Telep. Aware, Philo | 
+Auroran Energy Weapons   | Chi       | Tele M.A., Plan.Shp | Thunderforge
 
-Telepathic Martial Arts
-Auroran Energy Weapons (Thunderforge)
+### Vell-os tech tree
+
+There is a mini Vell-os tech tree unlocked by Telepathic awareness. *Any* civ can unlock it, not just the federation.
+
+Tech Name                | Tech Code |   Prereqs           | Allows
+-------------------------|-----------|---------------------|--------------------
+Telepathic Awareness*    | X1        | RR                  |
+Telepathic Indoctrination| X2        | Code Of Laws        |
+Telepathic Enslavement   | X3        | Theology            |
+
+
+
+* Unlocked by event, not researchable
 
 
 ## Special techs

@@ -55,5 +55,24 @@ c330526977a12f260440a35b4ae320a657ce3b78
 
 As Federation
 * Anaconda has a Range attribute
-* A wraith immediately wrecked me... maybe need to make the wraith unit types Defender
+* A wraith immediately wrecked me...
 * Got the krypt popup because the Wraith and the Krypt were fighting...
+
+
+3e52716de4d72cb348b8c7fb3ad4e62d56fe0c62
+
+"Alpha v0.2"
+
+As Federation
+
+* Made peace and started trading with Rebellion immediately (maybe should disable negotiation between Rebels/Fed?)
+* Pirate Valk and Rebel Valk have the exact same stats but Pirate Valk costs 2x as much
+* Similar issue with anaconda vs fed patrol boat
+* Duplicate wraith/krypt pop-ups after the first event (need to make the event trigger only once)
+
+As Assoc
+
+* Pirate Valk is better than Pirate Starbridge?
+
+In general: unit costs / tiers need to be realigned and intentionally balanced for alpha0.3
+Also going to "spread out" the tech trees so that auroran cruisers and scarabs aren't flying around so early in the game.

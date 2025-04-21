@@ -73,23 +73,23 @@
 ;
 @CIVILIZE
 Auroran Tradition,  4,-2,  RR,  nil,  3, 4    ; AFl <-- Auroran base tech
-Fusion Pulse Cannon,5, 1,  AFl,  nil, 0, 3     ; Alp
-Freighter Militia,  3,-2,  Alp,  nil,  3, 0    ; Amp
+Fusion Pulse Cannon,5, 1,  AFl,  Ref, 0, 3     ; Alp
+Freighter Militia,  3,-2,  Alp,  Cur,  3, 0    ; Amp
 Astronomy,          4, 1,  Uni, Mat, 1, 3    ; Ast
-Railguns,           4,-1,  Amp,  nil,  2, 3    ; Ato
+Railguns,           4,-1,  Amp,  Rob,  2, 3    ; Ato
 Automobile,         6,-1,  Cor, Eco, 3, 4    ; Aut
 Banking,            4, 1,  Cur, Med, 1, 1    ; Ban
 Bridge Building,    4, 0,  no,  no,  0, 4    ; Bri <-- DO NOT USE
-Planetary Shipyards,6,-1,  Ato,  nil,  0, 4    ; Bro
+Planetary Shipyards,6,-1,  Ato,  Rec,  0, 4    ; Bro
 Ceremonial Burial,  5, 0,  nil, nil, 0, 2    ; Cer
-Telepth Mart. Arts, 5,-1,  X1,  nil,  1, 3    ; Che
+Telepth Mart. Arts, 5,-1,  X1,  Phi,  1, 3    ; Che
 Auroran Energy Wpns,4,-2,  Che, Bro,  1, 0    ; Chi
 Code of Laws,       4, 1,  Cer, nil, 0, 2    ; CoL
 Tunneling Organ,      5,-1,  Mas,  U3,  3, 0    ; CA 
 Privateering,        5,-1,  RR,  nil,  2, 4    ; Cmb <-- Pirate base tech (also given to some other civs)
 Communism,          5, 0,  The,  nil,  2, 2    ; Cmn
 Computers,          4, 1,  ToG, nil,  3, 4    ; Cmp
-Organized Crime,    7,-1,  Cmb,  nil,  2, 0    ; Csc
+Organized Crime,    7,-1,  Cmb,  Cur,  2, 0    ; Csc
 Construction,       4, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
 The Corporation,    4, 0,  Eco, nil, 2, 1    ; Cor
 Currency,           4, 1,  Pot, nil, 0, 1    ; Cur
@@ -102,38 +102,38 @@ Environmentalism,   3, 1,  Rec, NP, 3, 2    ; Env
 Espionage,          2,-1,  no,  no,  3, 0    ; Esp <-- DO NOT USE
 Explosives,         5, 0,  no,  no,  2, 4    ; Exp <-- DO NOT USE
 Krypt Tech,          4,-1,  RR,  no,  0, 0    ; Feu <-- Krypt base tech
-Illicit Ship Mods,  4,-1,  Cmb, nil,  2, 4    ; Fli
+Illicit Ship Mods,  4,-1,  Cmb, Eng,  2, 4    ; Fli
 Fundamentalism,     3,-2,  no,   no,  2, 2    ; Fun  <-- DO NOT USE
 Fusion Power,       3, 0,  NP,  Sup, 3, 3    ; FP
 Genetic Engineering,3, 2,  Cmp, nil, 3, 3    ; Gen
 Guerrilla Warfare,  4, 1,  no,  no,  3, 0    ; Gue   <-- DO NOT USE
 Alien Tech,          8,-2,  RR,  no,  1, 0    ; Gun   <-- Prevent krypt/wraith from building ships
-Aftermarket Engines,4,-1,  Fli,  nil,  0, 0    ; Hor
+Aftermarket Engines,4,-1,  Fli,  Csc,  0, 0    ; Hor
 Industrialization,  6, 0,  nil, nil, 2, 1    ; Ind
 Invention,          6, 0,  Eng, CoL, 1, 4    ; Inv
-Weapons Smuggling,  5,-1,  Hor, Csc,  0, 4    ; Iro
-Adv. Embezzlement,  4,-1,  Iro, Csc,  3, 2    ; Lab
-Corporate Crime,    4, 0,  Lab,   nil,   3, 3    ; Las
-Advanced Biotech,   5,-1,  RR,  nil,  1, 0    ; Ldr <-- Polaris base tech
-Organelles,         5, 2,  Ldr,  nil,  0, 3    ; Lit
-Organic Shipbuilding,4,-2,  Ldr, Lit,  2, 4    ; Too
-Nil'kemorya,         4,-1,  Too,  nil,  1, 3    ; Mag
+Weapons Smuggling,  5,-1,  Hor, Sea,  0, 4    ; Iro
+Adv. Embezzlement,  4,-1,  Iro, Eco,  3, 2    ; Lab
+Corporate Crime,    4, 0,  Lab, Cor,   3, 3    ; Las
+Macro-organelles,   5,-1,  RR,  nil,  1, 0    ; Ldr <-- Polaris base tech
+Bio-organic Lasers, 5, 2,  Too,  Ldr,  0, 3    ; Lit
+Organic Shipbuilding,4,-2,  RR, nil,  2, 4    ; Too
+Nil'kemorya,         4,-1,  Lit,  Mys,  1, 3    ; Mag
 Map Making,         6,-1,  nil, nil, 0, 1    ; Map
-Etheric Wake Engine,4, 1,  Mag,  nil,  0, 4    ; Mas
+Etheric Wake Engine,4, 1,  Mag,  Uni,  0, 4    ; Mas
 Mass Production,    5, 0,  Rob, nil, 3, 4    ; MP
 Mathematics,        4,-1,  Wri, nil, 0, 3    ; Mat
 Medicine,           4, 0,  Sea, Tra, 1, 1    ; Med
-Capacitor Pulse Laser,6,-2,  Mag,  Lit,  1, 0    ; Met
-Organic Nuc. Fusion,    4, 1,  Met,  nil,   3, 4    ; Min
+Capacitor Pulse Laser,6,-2,  Mas,  Ast,  1, 0    ; Met
+Organic Nuc. Fusion,    4, 1,  Met,  ToG,   3, 4    ; Min
 Wraith Tech,        8,-1,  RR, nil, 3, 0    ; Mob <-- Wraith base tech
 Monarchy,           5, 1,  nil, nil, 0, 2    ; Mon
 Monotheism,         5, 1,  Phi, Mys,  1, 2   ; MT
 Mysticism,          4, 0,  CoL, nil, 0, 2    ; Mys
-Polaron Torpedos,   6,-1,  Min,  nil,  1, 1    ; Nav
-Advanced Espionage,    6,-2,  X7,  nil,   3, 3    ; NF
+Polaron Torpedos,   6,-1,  Min,  E2,  1, 1    ; Nav
+Advanced Espionage,    6,-2,  X7,  The,   3, 3    ; NF
 Nuclear Power,      3, 0,  Rec,  E2,  3, 3    ; NP
 Philosophy,         6, 1,  Mys, Mat, 1, 2    ; Phi
-Etheric Induction,  4,-1,  Nav, Mas,  1, 3    ; Phy
+Etheric Induction,  4,-1,  Nav, Gen,  1, 3    ; Phy
 Plastics,           4, 1,  Ref, SFl, 3, 4    ; Pla
 Plumbing,           4, 0,  no,  no,  1, 4    ; Plu  <-- DO NOT USE
 Rebellion,         4, 0,  RR,  nil,  0, 2    ; PT <-- Rebel base tech
@@ -145,33 +145,33 @@ Refining,           4, 0,  Inv, nil, 2, 4    ; Ref
 Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
 The Republic,       5, 1,  nil, nil, 0, 2    ; Rep
 Robotics,           5,-2,  E2,  nil, 3, 0    ; Rob
-Rebel Ship Mods,    6,-2,  PT,  nil,   3, 0    ; Roc
+Rebel Ship Mods,    6,-2,  RR,  nil,   3, 0    ; Roc
 Sanitation,         4, 2,  Aut, Med, 2, 1    ; San
 Seafaring,          4, 1,  Cur, nil, 0, 1    ; Sea
 Space Flight,       4, 1,  Rob, Cmp, 3, 3    ; SFl
-Rebel Engine Mods,  3,-2,  Roc,  nil,  3, 0    ; Sth
-Industr. Espionage, 4,-1,  Sth,  Roc,  2, 3    ; SE
-Federation Defectors, 4,-1,  SE,   nil,  2, 4    ; Stl
+Rebel Engine Mods,  3,-2,  Roc,  Eng,  3, 0    ; Sth
+Industr. Espionage, 4,-1,  Sth,  Mys,  2, 3    ; SE
+Federation Defectors, 4,-1,  SE,   MT,  2, 4    ; Stl
 Superconductor,     4, 1,  Pla, NP, 3, 3    ; Sup
-Backchannel Diplomacy, 6,-1,  Stl,  nil,  2, 0    ; Tac
+Backchannel Diplomacy, 6,-1,  Stl,  PT,  2, 0    ; Tac
 Theology,           3, 2,  MT,  nil, 1, 2    ; The
 Theory of Gravity,  4, 0,  Ast, Uni, 1, 3    ; ToG
 Trade,              4, 2,  nil, nil, 0, 1    ; Tra
 University,         5, 1,  Mat, nil, 1, 3    ; Uni
 Warrior Code,       4,-1,  nil, nil, 0, 0    ; War
-Federation,         4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
+Federation Constitution, 4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
 Writing,            4, 2,  nil, nil, 0, 3    ; Wri
 Future Technology,  1, 0,  Gen, Env, 3, 3    ; ...
 Those Who Came Before,    3, 0,  RR,  nil,  0, 0    ; U1 <-- Unlocked with event
 The Creature That Lives In Deep Space,    3, 0,  no, no,  0, 0    ; U2 <-- Spare
 Wraith Biology,    3, 0, RR, nil,  0, 0    ; U3 <-- Unlocked with event 
 Telepath Awareness,    3, 0, RR, nil,  0, 0    ; X1 <-- unlocked with event
-Telepath Indoctrination,    3, 0, X1, nil,  0, 0    ; X2
-Telepath Enslavement,    3, 0, X2, nil,  0, 0    ; X3
-Missile Weapons,    3, 0,  Whe,  nil,  0, 0    ; X4
-Shipbuilding Constracts,    3, 0,  X4,  nil,  0, 0    ; X5
-Hvy Energy Weapons,    3, 0,  X5,  nil,  0, 0    ; X6
-Hvy Turret Platforms,    3, 0,  X6,  nil,  0, 0    ; X7
+Telepath Indoctrination,    3, 0, X1, CoL,  0, 0    ; X2
+Telepath Enslavement,    3, 0, X2, The,  0, 0    ; X3
+Missile Weapons,    3, 0,  Whe,  Mat,  0, 0    ; X4
+Shipbuilding Contracts,    3, 0,  X4,  Sea,  0, 0    ; X5
+Hvy Energy Weapons,    3, 0,  X5,  Rob,  0, 0    ; X6
+Hvy Turret Platforms,    3, 0,  X6,  Ast,  0, 0    ; X7
 
 ;
 ; Above 11 tech slots (U1 to X8) allow you to define your own 
@@ -362,7 +362,7 @@ Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
 Enterprise,   nil, 0,  2.,0,  2a,3d,  2h,1f,  2,0,  1, Amp, 000000000000001
-Pir Starbridge,Gun, 0,  5.,0,  3a,2d,  1h,1f,  2,0,  0, Hor, 000000000000001
+Pir Starbridge,Gun, 0,  5.,0,  3a,2d,  1h,1f,  2,0,  0, Fli, 000000000000001
 Argosy,       Gun, 0,  3.,0,  2a,2d,  2h,1f,  1,0,  0, AFl, 000000000000001
 Zephyr,       Gun, 0,  2.,0,  5a,2d,  1h,1f,  6,0,  0, CA,  000001100000001
 Dart,         Gun, 0,  3.,0,  3a,1d,  1h,1f,  3,0,  0, X2,  000001000000001
@@ -376,7 +376,7 @@ EMPTY5,       Mob, 0,  2.,0,  1a,1d,  1h,1f,  6,0,  0, no,  000000000000001
 EMPTY6,       nil, 0,  3.,0,  1a,1d,  1h,1f,  8,0,  0, no,  000000000000001
 Pirate Carrier,Gun,  0,  2.,0,  5a,7d,  2h,2f,  8,0,  0, Las, 000000000000001
 Pir Manticore,Gun,  0,  2.,0,  4a,5d,  2h,2f,  6,0,  0, Lab, 000000000000001
-Pir Valkyrie, Gun,  0,  3.,0, 4a,2d,  2h,1f,  4,0,  1, Fli, 000000000000001
+Pir Valkyrie, Gun,  0,  3.,0, 4a,2d,  2h,1f,  4,0,  1, Hor, 000000000000001
 Pir Enterprise,Gun,  0,  2.,0, 4a,3d,  2h,1f,  4,0,  1, Iro, 000000000000001
 F.RAGE Gunboat,Gun,  0, 5.,1,  7a,2d,  1h,2f,  6,0,  0, NF,  000000000000001
 Fed. Destroyer,Gun,  0,  2.,2, 5a,7d,  2h,1f, 7,0,  1, X6,  000000000000001
@@ -386,11 +386,11 @@ F. Anaconda,  Gun,  0, 6.,2, 1a,2d,  1h,1f, 1,0,  1, Whe, 000000000000001
 Rebel Dragon, Gun,  0,  5.,0,  5a,2d,  1h,1f,  4,0,  0, Tac, 000000000000001
 R. IDA Frigate,Gun,  0,  2.,0,  4a,3d,  2h,1f,  5,0,  0, SE,  000000000000001
 Reb. Destroyer,Gun,  0,  2.,0,  6a,6d,  2h,1f,  7,0,  1, Stl, 000000000000001
-Reb Starbridge,Gun,  0,  5.,0,  3a,2d,  1h,1f,  2,0,  0, Sth, 000000000000001
-Rebel Valkyrie,Gun,  0,  3.,0,  4a,2d,  2h,1f,  2,0,  0, Roc, 000000000000001
+Reb Starbridge,Gun,  0,  5.,0,  3a,2d,  1h,1f,  2,0,  0, Roc, 000000000000001
+Rebel Valkyrie,Gun,  0,  3.,0,  4a,2d,  2h,1f,  2,0,  0, Sth, 000000000000001
 EMPTY9,       nil, 0,  6.,0,  1a,1d,  1h,1f,  6,0,  2, no,  000000000000001
 EMPTY10,      nil, 0,  5.,0,  1a,1d,  1h,1f,  8,0,  2, no,  000000000000001
-Manta,        Gun,  0,  7.,0,  3a,1d,  1h,1f, 2,0,  0, Too, 000000000000001
+Manta,        Gun,  0,  7.,0,  3a,1d,  1h,1f, 2,0,  0, Lit, 000000000000001
 Striker,      Gun,  0,  3.,0, 4a,2d, 1h,1f, 3,0,  1, Mag, 000000000000001
 Pol. Dragon,  Gun, 0,  5.,0, 6a,2d,  1h,1f,  4,0,  0, Mas, 000000000000001
 Arachnid,     Gun, 0,  4.,0,  6a,3d,  2h,2f, 8,0,  0, Min, 000000000000001
