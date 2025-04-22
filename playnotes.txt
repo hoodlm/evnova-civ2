@@ -76,3 +76,27 @@ As Assoc
 
 In general: unit costs / tiers need to be realigned and intentionally balanced for alpha0.3
 Also going to "spread out" the tech trees so that auroran cruisers and scarabs aren't flying around so early in the game.
+
+
+Units with hidden shields that need to be fixed:
+
+Pegasus
+Sprite
+Thunderforge
+Starbridge
+Javelin
+Pirate Starbridge
+Pirate Carrier
+Pirate Valkyrie
+Fed Destroyer
+Fed Patrol boat
+Rebel Dragon
+Rebel Starbridge
+Rebel Valkyrie
+Manta
+Scarab
+Raven
+Leviathan
+Cambrian
+Krypt Pod
+
