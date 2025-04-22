@@ -48,6 +48,7 @@ from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ab
 some subset of the Association population...
 (Telepathic Awareness advance unlocked by Association!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=93
@@ -65,6 +66,7 @@ from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ab
 some subset of the Auroran population...
 (Telepathic Awareness advance unlocked by Aurorans!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=93
@@ -82,6 +84,7 @@ from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ab
 some subset of the Polaris population...
 (Telepathic Awareness advance unlocked by Polaris!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=93
@@ -99,6 +102,7 @@ from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ab
 some subset of the Federation population...
 (Telepathic Awareness advance unlocked by Federation!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=93
@@ -116,6 +120,7 @@ from a hostile Krypt Pod. Xenobiologists believe there is a latent telepathic ab
 some subset of the Rebellion population...
 (Telepathic Awareness advance unlocked by Rebellion!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=93
@@ -133,6 +138,7 @@ While philosophers raise ethical objections to dissecting what may be an intelli
 species, biologists are busy poring over the most novel biological discovery in centuries.
 (Wraith Biology advance unlocked by Federation!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=92
@@ -150,6 +156,7 @@ While philosophers raise ethical objections to dissecting what may be an intelli
 species, biologists are busy poring over the most novel biological discovery in centuries.
 (Wraith Biology advance unlocked by Polaris!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=92
@@ -167,6 +174,7 @@ While philosophers raise ethical objections to dissecting what may be an intelli
 species, biologists are busy poring over the most novel biological discovery in centuries.
 (Wraith Biology advance unlocked by Aurorans!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=92
@@ -184,6 +192,7 @@ While philosophers raise ethical objections to dissecting what may be an intelli
 species, biologists are busy poring over the most novel biological discovery in centuries.
 (Wraith Biology advance unlocked by Rebellion!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=92
@@ -201,6 +210,7 @@ While philosophers raise ethical objections to dissecting what may be an intelli
 species, biologists are busy poring over the most novel biological discovery in centuries.
 (Wraith Biology advance unlocked by Association!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=TRIGGERATTACKER
 technology=92
@@ -213,14 +223,15 @@ attacker=Association
 defender=ANYBODY
 @THEN
 TEXT
-As humanity has expanded into the Milky Way, there are some traces of a past civilization 
-- what the xenohistorian community calls Those Who Came Before. But, the artifical ring 
-constructed around this planet is the most intact example discovered so far. The structure is 
-ancient, but far beyond the capabilities of even Polaris technology. Your physicists believe 
+As humanity has expanded into the Milky Way, there are some traces of a past civilization
+- what the xenohistorian community calls Those Who Came Before. But, the artifical ring
+constructed around this planet is the most intact example discovered so far. The structure is
+ancient, but far beyond the capabilities of even Polaris technology. Your physicists believe
 the ring may have been part of a transportation device, with the ability to travel orders
 of magnitude further than hyperspace drives or hypergates. Perhaps even to another galaxy...
 (Those Who Came Before advance unlocked by Association!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=Association
 technology=90
@@ -233,14 +244,15 @@ attacker=Polaris
 defender=ANYBODY
 @THEN
 TEXT
-As humanity has expanded into the Milky Way, there are some traces of a past civilization 
-- what the xenohistorian community calls Those Who Came Before. But, the artifical ring 
-constructed around this planet is the most intact example discovered so far. The structure is 
-ancient, but far beyond the capabilities of even Polaris technology. Your physicists believe 
+As humanity has expanded into the Milky Way, there are some traces of a past civilization
+- what the xenohistorian community calls Those Who Came Before. But, the artifical ring
+constructed around this planet is the most intact example discovered so far. The structure is
+ancient, but far beyond the capabilities of even Polaris technology. Your physicists believe
 the ring may have been part of a transportation device, with the ability to travel orders
 of magnitude further than hyperspace drives or hypergates. Perhaps even to another galaxy...
 (Those Who Came Before advance unlocked by Polaris!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=Polaris
 technology=90
@@ -253,14 +265,15 @@ attacker=Federation
 defender=ANYBODY
 @THEN
 TEXT
-As humanity has expanded into the Milky Way, there are some traces of a past civilization 
-- what the xenohistorian community calls Those Who Came Before. But, the artifical ring 
-constructed around this planet is the most intact example discovered so far. The structure is 
-ancient, but far beyond the capabilities of even Federation technology. Your physicists believe 
+As humanity has expanded into the Milky Way, there are some traces of a past civilization
+- what the xenohistorian community calls Those Who Came Before. But, the artifical ring
+constructed around this planet is the most intact example discovered so far. The structure is
+ancient, but far beyond the capabilities of even Federation technology. Your physicists believe
 the ring may have been part of a transportation device, with the ability to travel orders
 of magnitude further than hyperspace drives or hypergates. Perhaps even to another galaxy...
 (Those Who Came Before advance unlocked by Federation!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=Federation
 technology=90
@@ -273,14 +286,15 @@ attacker=Aurorans
 defender=ANYBODY
 @THEN
 TEXT
-As humanity has expanded into the Milky Way, there are some traces of a past civilization 
-- what the xenohistorian community calls Those Who Came Before. But, the artifical ring 
-constructed around this planet is the most intact example discovered so far. The structure is 
-ancient, but far beyond the capabilities of even Aurorans technology. Your physicists believe 
+As humanity has expanded into the Milky Way, there are some traces of a past civilization
+- what the xenohistorian community calls Those Who Came Before. But, the artifical ring
+constructed around this planet is the most intact example discovered so far. The structure is
+ancient, but far beyond the capabilities of even Aurorans technology. Your physicists believe
 the ring may have been part of a transportation device, with the ability to travel orders
 of magnitude further than hyperspace drives or hypergates. Perhaps even to another galaxy...
 (Those Who Came Before advance unlocked by Aurorans!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=Aurorans
 technology=90
@@ -293,14 +307,15 @@ attacker=Rebellion
 defender=ANYBODY
 @THEN
 TEXT
-As humanity has expanded into the Milky Way, there are some traces of a past civilization 
-- what the xenohistorian community calls Those Who Came Before. But, the artifical ring 
-constructed around this planet is the most intact example discovered so far. The structure is 
-ancient, but far beyond the capabilities of even Rebellion technology. Your physicists believe 
+As humanity has expanded into the Milky Way, there are some traces of a past civilization
+- what the xenohistorian community calls Those Who Came Before. But, the artifical ring
+constructed around this planet is the most intact example discovered so far. The structure is
+ancient, but far beyond the capabilities of even Rebellion technology. Your physicists believe
 the ring may have been part of a transportation device, with the ability to travel orders
 of magnitude further than hyperspace drives or hypergates. Perhaps even to another galaxy...
 (Those Who Came Before advance unlocked by Rebellion!)
 ENDTEXT
+JUSTONCE
 GIVETECHNOLOGY
 receiver=Rebellion
 technology=90
