@@ -1,3 +1,5 @@
 *.SAV
 *.sav
 .\~lock*.ods\#
+build/
+EVN.7z
