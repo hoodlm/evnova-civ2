@@ -100,3 +100,23 @@ Leviathan
 Cambrian
 Krypt Pod
 
+
+04cd893661b6f0ea5b7bc2851276577edc0d1cf3
+
+As aurorans:
+* BUG: Factory is still not buildable for some reason
+* Balance: Abomination is too hard to research (you get Pir Starbridge must faster and with fewer techs). Needs a buff, maybe 3a/2d?
+* BUG: Other civs can build Wraith. need a "human tech" or something to prevent alien units from being buildable by human civs.
+* BUG: Shield on pirate carrier is still too far to the right (tears when the unit moves)
+* Fun: Should adjust civs to be more hostile at beginning of the game
+* Fun: Consider playtesting a SMALL map! or make less of the map able to be settled. too much open space as-is.
+* Fun/Balance: Units are too "same-y" by end of the game. Pretty much no reason to use cruiser/destroyers when carriers are available.
+  Consider making all carriers strong offense units? That lines up with the usage in the game, their role is to launch long range attacks
+  and fighters, but require destroyer escorts. A couple loose gunships (a few abominations / patrol boats / dragon) should be able take out an
+  unguarded carrier.
+* BUG: What happens if there's global warming? maybe just turn off pollution, and get rid of the some of the pollution improvements
+  (mass transit, recycling, etc.) to prune the tech tree a bit.
+* BUG: rebel tech tree seems screwed up again
+* FUN: Takes too long to move big warships to the front line. Maybe bring AIrport back (for airlifts) and call it Hypergate?
+* FUN: If whoever discovers TWCB gets eliminated, it's impossible for anyone to get a sciecne victory. Maybe make TWCB a late-game researchable technology too?
+* FUN: Rebels built a base way out in the middle of nowhere at the edges of the map. kind of frustrating when i can't build apollo program! definitely need a fix for that.
