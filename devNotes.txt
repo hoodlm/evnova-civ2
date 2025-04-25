@@ -33,6 +33,18 @@ constrained territory.
 * Wraith
 * Krypt
 
+# Balance/Flavor
+
+* Auroran units are cheaper than their counterparts. And if they can manage to unlock it, the Thunderforge is very powerful.
+* Rebels advance quickly and are attack-oriented. Have favorable diplomatic relations with the Polaris and the Aurorans.
+* Pirate units are mobile and attack-oriented
+* Polaris units are expensive but powerful (Their end-game carrier, the Raven, has the strongest Attack rating in the game)
+* Vell-os ships are fast (have alpine bonus; the dart moves 9 spaces per turn!)
+* Federation is well-balanced overall
+
+In some cases there are units in each "tier" that are objectively better than others. For example, the rebel valkyrie and
+pirate valkyrie have all the same stats/cost except pirate valkyrie has 1 extra movement. This is intentional!
+
 # Starting configuration
 
 The primary factions each start with a handful of cities, a small fleet of ships, and some settlers.
