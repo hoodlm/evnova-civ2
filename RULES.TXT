@@ -162,7 +162,7 @@ Warrior Code,       4,-1,  nil, nil, 0, 0    ; War
 Federation Constitution, 4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
 Writing,            4, 2,  nil, nil, 0, 3    ; Wri
 Future Technology,  1, 0,  Gen, Env, 3, 3    ; ...
-Those Who Came Before,    3, 0,  RR,  nil,  0, 0    ; U1 <-- Unlocked with event
+Those Who Came Before,    3, 0,  Env,  Sup,  0, 0    ; U1 <-- also unlockable with event
 The Creature That Lives In Deep Space,    3, 0,  no, no,  0, 0    ; U2 <-- Spare
 Wraith Biology,    3, 0, RR, nil,  0, 0    ; U3 <-- Unlocked with event 
 Telepath Awareness,    3, 0, RR, nil,  0, 0    ; X1 <-- unlocked with event

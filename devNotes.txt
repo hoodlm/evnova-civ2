@@ -224,8 +224,9 @@ is unlocked by Genetic Engineering and Environmentalism
 
 ### Scientific Victory tree
 
-Apollo Program is unlocked by TWCB tech which is
-triggered by the Kont scenario event.
+Apollo Program is unlocked by "Those Who Came Before" tech.
+This can be unlocked with the Kont scenario event,
+OR researched as an end-game technology (Superconductor + Environmentalism)
 
 Space Flight (unlocked by Robotics + Computers)
 Plastics
