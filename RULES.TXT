@@ -354,19 +354,19 @@ nil,        ; Cure for Cancer
 Pegasus,      Too, 0,  2.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
 Sprite,       Gun, 0,  3.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000001
 Starbridge,   Gun,  0,  4.,0,  2a,2d,  1h,1f,  1,0,  1, nil, 000000000000001
-Abomination,  Gun,  0,  4.,0,  3a,1d,  1h,1f,  2,0,  0, Alp, 000000000000001
-Thunderforge, Gun,  0,  4.,0,  8a,2d,  2h,2f, 10,0,  0, Chi, 000000000000001
-Aur. Cruiser, Gun,  0,  3.,0,  4a,4d,  2h,1f,  5,0,  0, Ato, 000000000000001
-Aur. Carrier, Gun,  0,  1.,0,  4a,6d,  3h,1f,  8,0,  1, Bro, 000000000000001
+Abomination,  Gun,  0,  3.,0,  4a,1d,  1h,1f,  3,0,  0, Alp, 000000000000001
+Thunderforge, Gun,  0,  4.,0,  7a,2d,  2h,2f,  8,0,  0, Chi, 000000000000001
+Aur. Cruiser, Gun,  0,  2.,0,  2a,6d,  2h,1f,  6,0,  0, Ato, 000000000000001
+Aur. Carrier, Gun,  0,  1.,0,  7a,2d,  2h,2f,  8,0,  1, Bro, 000000000000001
 Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
-Enterprise,   nil, 0,  2.,0,  1a,3d,  2h,1f,  2,0,  1, Amp, 000000000000001
-Pir Starbridge,Gun, 0,  4.,0,  3a,1d,  1h,1f,  1,0,  0, Fli, 000000000000001
-Argosy,       Gun, 0,  2.,0,  2a,2d,  2h,1f,  1,0,  0, AFl, 000000000000001
-Zephyr,       Gun, 0,  2.,0,  5a,2d,  1h,1f,  6,0,  0, CA,  000001100000001
+Enterprise,   nil, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Amp, 000000000000001
+Pir Starbridge,Gun, 0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, Fli, 000000000000001
+Argosy,       Gun, 0,  1.,0,  1a,2d,  2h,1f,  1,0,  0, AFl, 000000000000001
+Zephyr,       Gun, 0,  2.,0,  6a,1d,  1h,1f,  8,0,  0, CA,  000001100000001
 Dart,         Gun, 0,  3.,0,  3a,1d,  1h,1f,  3,0,  0, X2,  000001000000001
-Javelin,      Gun, 0,  2.,0,  5a,1d,  1h,2f,  6,0,  0, X3,  000001000000001
+Javelin,      Gun, 0,  2.,0,  5a,1d,  1h,2f,  8,0,  0, X3,  000001000000001
 Kont,         nil, 0,  0.,0,  0a,0d,  1h,1f,  3,0,  1, no,  000000000000001
 EMPTY2,       MT,  0,  2.,0,  1a,1d,  1h,1f,  4,0,  0, no,  000000000000001
 EMPTY3,       Ldr, 0,  2.,0,  1a,1d,  1h,1f,  4,0,  0, no,  000000000000001
@@ -374,28 +374,28 @@ Knights,      nil, 0,  2.,0,  1a,1d,  1h,1f,  4,0,  0, no,  000000000000001
 EMPTY4,       Tac, 0,  2.,0,  1a,1d,  1h,1f,  5,0,  0, no,  000000000000001
 EMPTY5,       Mob, 0,  2.,0,  1a,1d,  1h,1f,  6,0,  0, no,  000000000000001
 EMPTY6,       nil, 0,  3.,0,  1a,1d,  1h,1f,  8,0,  0, no,  000000000000001
-Pirate Carrier,Gun,  0,  2.,0,  8a,5d,  2h,2f, 12,0,  0, Las, 000000000000001
-Pir Manticore,Gun,  0,  2.,0,  6a,5d,  2h,2f,  8,0,  0, Lab, 000000000000001
-Pir Valkyrie, Gun,  0,  3.,0, 4a,2d,  2h,1f,  2,0,  0, Hor, 000000000000001
-Pir Enterprise,Gun,  0,  2.,0, 2a,4d,  2h,1f,  3,0,  1, Iro, 000000000000001
-F.RAGE Gunboat,Gun,  0, 4.,0,  7a,1d,  1h,2f,  8,0,  0, NF,  000000000000001
-Fed. Destroyer,Gun,  0,  2.,0, 4a,5d,  2h,1f, 7,0,  1, X6,  000000000000001
-Fed. Carrier, Gun,  0,  1.,0, 4a,8d,  3h,1f,10,0,  1, X7,  000000000000001
-F. Patrol Boat,Gun,  0, 3.,0,  3a,2d,  1h,1f,  3,0,  0, X4,  000000000000001
-F. Anaconda,  Gun,  0, 5.,0, 1a,2d,  1h,1f, 1,0,  1, Whe, 000000000000001
-Rebel Dragon, Gun,  0,  5.,0,  6a,2d,  1h,1f,  6,0,  0, Tac, 000000000000001
-R. IDA Frigate,Gun,  0,  2.,0,  2a,4d,  2h,1f,  4,0,  1, SE,  000000000000001
-Reb. Destroyer,Gun,  0,  2.,0,  5a,5d,  2h,1f,  7,0,  1, Stl, 000000000000001
-Reb Starbridge,Gun,  0,  4.,0,  3a,1d,  1h,1f,  2,0,  0, Roc, 000000000000001
-Rebel Valkyrie,Gun,  0,  3.,0,  4a,2d,  2h,1f,  4,0,  0, Sth, 000000000000001
+Pirate Carrier,Gun,  0,  2.,0,  8a,2d,  2h,2f, 12,0,  0, Las, 000000000000001
+Pir Manticore,Gun,  0,  2.,0,  5a,5d,  2h,2f, 10,0,  0, Lab, 000000000000001
+Pir Valkyrie, Gun,  0,  4.,0, 3a,2d,  2h,1f,  4,0,  0, Hor, 000000000000001
+Pir Enterprise,Gun,  0,  2.,0, 1a,3d,  2h,1f,  4,0,  1, Iro, 000000000000001
+F.RAGE Gunboat,Gun,  0, 3.,0,  6a,1d,  1h,3f,  8,0,  0, NF,  000000000000001
+Fed. Destroyer,Gun,  0,  2.,0, 3a,6d,  2h,2f, 8,0,  1, X6,  000000000000001
+Fed. Carrier, Gun,  0,  1.,0, 8a,2d,  2h,3f,10,0,  1, X7,  000000000000001
+F. Patrol Boat,Gun,  0, 3.,0,  3a,2d,  1h,1f,  4,0,  0, X4,  000000000000001
+F. Anaconda,  Gun,  0, 4.,0, 1a,2d,  1h,1f, 1,0,  1, Whe, 000000000000001
+Rebel Dragon, Gun,  0,  3.,0,  5a,2d,  1h,1f,  6,0,  0, Tac, 000000000000001
+R. IDA Frigate,Gun,  0,  2.,0,  5a,1d,  2h,1f,  5,0,  1, SE,  000000000000001
+Reb Destroyer,Gun,  0,  2.,0,  3a,6d,  2h,2f,  8,0,  1, Stl, 000000000000001
+Reb Starbridge,Gun,  0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, Roc, 000000000000001
+Rebel Valkyrie,Gun,  0,  3.,0,  3a,2d,  2h,1f,  4,0,  0, Sth, 000000000000001
 EMPTY9,       nil, 0,  6.,0,  1a,1d,  1h,1f,  6,0,  2, no,  000000000000001
 EMPTY10,      nil, 0,  5.,0,  1a,1d,  1h,1f,  8,0,  2, no,  000000000000001
-Manta,        Gun,  0,  5.,0,  3a,1d,  1h,1f, 2,0,  0, Lit, 000000000000001
-Striker,      Gun,  0,  3.,0, 3a,3d, 1h,1f, 4,0,  1, Mag, 000000000000001
-Pol. Dragon,  Gun, 0,  5.,0, 6a,2d,  1h,1f,  6,0,  0, Mas, 000000000000001
-Arachnid,     Gun, 0,  3.,0,  6a,2d,  2h,2f, 8,0,  0, Min, 000000000000001
-Scarab,       Gun, 0,  3.,0,  7a,5d,  2h,2f,  10,0,  1, Nav, 000000000000001
-Raven,        Gun,  0, 1.,0, 8a,8d,  3h,3f,  14,0,  0, Phy, 000000000000001
+Manta,        Gun,  0,  4.,0,  3a,1d,  1h,1f, 3,0,  0, Lit, 000000000000001
+Striker,      Gun,  0,  3.,0, 3a,3d, 1h,1f, 5,0,  1, Mag, 000000000000001
+Pol. Dragon,  Gun, 0,  3.,0, 5a,2d,  1h,1f,  6,0,  0, Mas, 000000000000001
+Arachnid,     Gun, 0,  3.,0,  6a,1d,  2h,2f, 8,0,  0, Min, 000000000000001
+Scarab,       Gun, 0,  3.,0,  3a,7d,  2h,2f,  10,0,  1, Nav, 000000000000001
+Raven,        Gun,  0, 1.,0,10a,2d,  3h,3f,  14,0,  0, Phy, 000000000000001
 Nuclear Msl., nil, 0, 16.,0, 99a,0d,  1h,1f, 16,0,  0, no,  000000000000001
 Diplomat,     nil, 0,  2.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
 Spy,          nil, 0,  3.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
