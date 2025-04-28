@@ -254,16 +254,13 @@ Pirate Tech Tree has tie-ins mostly to the economic tree, so a civ doing a "pira
 
 Tech Name                 | Tech Code |   Prereqs          | Allows
 --------------------------|-----------|--------------------|---------------------
-Privateering*             | Cmb       | RR                 |
-Organized Crime**         | Csc       | Currency           | 
-Illicit Ship Mods**       | Fli       | Engineering        | Pirate Starbridge
-Aftermarket Engines       | Hor       | Ill.Ship + Org.Cri | Pirate Valkyrie
+Illicit Ship Mods*        | Fli       | Ban + Inv          | Pirate Starbridge
+Aftermarket Engines       | Hor       | Ill.Ship + Cur.    | Pirate Valkyrie
 Weapons Smuggling         | Iro       | Seafaring          | Pirate Enterprise
 Advanced Embezzlement     | Lab       | Economics          | Manticore
 Corporate Crime           | Las       | The Corporation    | Pirate Carrier
 
-* Aurorans, Rebels, Federation, and Assoc start with this tech
-** Assoc starts with this tech
+* Assoc starts with this tech, can be researched by other civs after discovering Banking + Invention
 
 
 ### Polaris tech tree
@@ -327,7 +324,7 @@ Fusion Pulse Cannons     | Alp       | Refining            | Abomination
 Freighter Militia        | Amp       | Currency            | Enterprise
 Railguns                 | Ato       | Robotics            | A. Cruiser
 Planetary Shipyards      | Bro       | Recycling           | A. Carrier
-Telepathic Martial Arts  | Che       | Telep. Aware, Philo | 
+Telepathic Martial Arts  | Che       | Tel. Aw., Aur. Trd. |
 Auroran Energy Weapons   | Chi       | Tele M.A., Plan.Shp | Thunderforge
 
 ### Vell-os tech tree
