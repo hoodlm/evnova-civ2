@@ -140,7 +140,7 @@ Rebellion,         4, 0,  RR,  nil,  0, 2    ; PT <-- Rebel base tech
 Pottery,            4, 1,  nil, nil, 0, 1    ; Pot
 Radio,              5,-1,  no,  no,   3, 4    ; Rad <-- DO NOT USE
 TwiceRemoved,       6, 0,  no, no,   2, 1    ; RR  <-- DO NOT USE
-Recycling,          2, 1,  Rob, nil,  3, 2    ; Rec <-- Spare
+Recycling,          2, 1,  no, no,  3, 2    ; Rec <-- Spare
 Refining,           4, 0,  no, no, 2, 4    ; Ref <-- spare
 Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
 The Republic,       5, 1,  nil, nil, 0, 2    ; Rep
@@ -221,7 +221,7 @@ Coastal Fortress,          8, 1,    Bri,
 Solar Plant,              32, 4,    Bri,
 Harbor,                   6,  1,    Bri,
 Offshore Platform,        16, 3,    Bri,
-Hypergate,                16, 2,    Rec, ; airport
+Hypergate,                16, 2,    Cmb, ; airport
 Police Station,           6,  2,    Dem,
 Port Facility,            8,  3,    Bri,
 SS Structural,            8,  0,    SFl,
