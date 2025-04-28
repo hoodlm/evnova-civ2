@@ -168,9 +168,8 @@ All non-alien civs start with:
 Writing
 Map Making
 Trade
-Monarchy
-The Republic
-Warrior Code (Starbridge)
+Hyperspace Engines
+Warrior Code
 Industrialization
 
 ### Economic Tree
@@ -178,27 +177,26 @@ Industrialization
 Pottery
 Currency
 Seafaring
-Medicine
 Banking
-Economics
+Medicine
+Economics (with uni/banking)
 The Corporation
-Automobile
-Sanitation
+Automobile (with cor/inv)
+Sanitation (med+aut)
 
 ### Social Tree
 
 Ceremonial Burial
 Code Of laws
 Mysticism
-Philosophy
-Monotheism
-Theology
-Democracy (make sure to remove Statue of Liberty)
-Communism
+Monotheism (Mysticism)
+Philosophy (Mysticism + Math)
+Democracy (Philosophy + University)
+Communism (Philosophy + Banking)
+Theology (Mt+Phil)
 
 ### Science Tree
 
-Writing
 Mathematics
 University
 Astronomy
@@ -209,24 +207,20 @@ Genetic Engineering
 ### Energy/Production Tree
 
 Engineering
-Invention
-Refining
+Invention (+CoL)
 Electronics
 Robotics
-Mass Production
-Recycling
-Nuclear Power
-Environmentalism
+Hypergates (Rec)
 
 ### Future Technology
 
-is unlocked by Genetic Engineering and Environmentalism
+is unlocked by Fusion Power and Theology
 
 ### Scientific Victory tree
 
 Apollo Program is unlocked by "Those Who Came Before" tech.
 This can be unlocked with the Kont scenario event,
-OR researched as an end-game technology (Superconductor + Environmentalism)
+OR researched as an end-game technology (Superconductor + Hypergates)
 
 Space Flight (unlocked by Robotics + Computers)
 Plastics
