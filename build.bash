@@ -34,6 +34,7 @@ FILES="
     TERRAIN1.GIF
     TERRAIN2.GIF
     UNITS.GIF
+    ICONS.GIF
 "
 for FILE in $FILES; do
   install --preserve-timestamps --target-directory="$BUILDDIR" --verbose "$FILE"
