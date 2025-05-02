@@ -73,7 +73,7 @@
 ;
 @CIVILIZE
 Auroran Tradition,  4,-2,  RR,  nil,  3, 4    ; AFl <-- Auroran base tech
-Fusion Pulse Cannon,5, 1,  AFl,  Ref, 0, 3     ; Alp
+Fusion Pulse Cannon,5, 1,  AFl,  nil, 0, 3     ; Alp
 Freighter Militia,  3,-2,  Alp,  Cur,  3, 0    ; Amp
 Astronomy,          4, 1,  Uni, nil, 1, 3    ; Ast
 Railguns,           4,-1,  Amp,  Rob,  2, 3    ; Ato
@@ -145,13 +145,13 @@ Refining,           4, 0,  no, no, 2, 4    ; Ref <-- spare
 Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
 The Republic,       5, 1,  nil, nil, 0, 2    ; Rep
 Robotics,           5,-2,  E2,  nil, 3, 0    ; Rob
-Rebel Ship Mods,    6,-2,  RR,  nil,   3, 0    ; Roc
+Rebel Ship Mods,    6,-2,  PT,  nil,   3, 0    ; Roc
 Sanitation,         4, 2,  Aut, Med, 2, 1    ; San
 Seafaring,          4, 1,  Cur, nil, 0, 1    ; Sea
 Space Flight,       4, 1,  Rob, Cmp, 3, 3    ; SFl
 Rebel Engine Mods,  3,-2,  Roc,  Eng,  3, 0    ; Sth
 Industr. Espionage, 4,-1,  Sth,  Mys,  2, 3    ; SE
-Federation Defectors, 4,-1,  SE,   MT,  2, 4    ; Stl
+Federation Defectors, 4,-1,  SE,   The,  2, 4    ; Stl
 Superconductor,     4, 1,  Pla, nil, 3, 3    ; Sup
 Backchannel Diplomacy, 6,-1,  Stl,  PT,  2, 0    ; Tac
 Theology,           3, 2,  MT,  Phi, 1, 2    ; The
@@ -170,7 +170,7 @@ Telepath Indoctrination,    3, 0, X1, CoL,  0, 0    ; X2
 Telepath Enslavement,    3, 0, X2, The,  0, 0    ; X3
 Missile Weapons,    3, 0,  Whe,  Mat,  0, 0    ; X4
 Shipbuilding Contracts,    3, 0,  X4,  Sea,  0, 0    ; X5
-Hvy Energy Weapons,    3, 0,  X5,  Rob,  0, 0    ; X6
+Hvy Energy Weapons,    3, 0,  X5,  E2,  0, 0    ; X6
 Hvy Turret Platforms,    3, 0,  X6,  Ast,  0, 0    ; X7
 
 ;
