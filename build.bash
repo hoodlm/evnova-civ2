@@ -23,7 +23,7 @@ check_dependency "7z"
 BASEDIR=$(dirname $0)
 BUILDDIR="$BASEDIR/build"
 
-mkdir --parents --verbose "$BUILDDIR"
+mkdir --parents --verbose "$BUILDDIR/EVN"
 
 FILES="
     CITY.TXT
@@ -35,9 +35,12 @@ FILES="
     TERRAIN2.GIF
     UNITS.GIF
     ICONS.GIF
+    NOVA_SMALL.MP
 "
 for FILE in $FILES; do
-  install --preserve-timestamps --target-directory="$BUILDDIR" --verbose "$FILE"
+  install --preserve-timestamps --target-directory="$BUILDDIR/EVN" --verbose "$FILE"
 done
 
-7z a "EVN.7z" "$BUILDDIR/*"
+pushd $BUILDDIR
+7z a "EVN.7z" "EVN/*"
+popd

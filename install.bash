@@ -25,10 +25,10 @@ check_dependency "7z"
 test -d "$CIV2_PATH" || fail "CIV2_PATH is not a valid directory: $CIV2_PATH"
 test -d "$CIV2_PATH/SCENARIO" || fail "Could not find SCENARIO subdirectory at $CIV2_PATH"
 
-OUTDIR="$CIV2_PATH/SCENARIO/EVN"
+OUTDIR="$CIV2_PATH/SCENARIO"
 mkdir --parents --verbose "$OUTDIR"
 
-7z e -o"$OUTDIR" "EVN.7z"
+7z x -o"$OUTDIR" "EVN.7z"
 
 set -x
 ls -l "$OUTDIR"
