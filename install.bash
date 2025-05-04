@@ -28,7 +28,7 @@ test -d "$CIV2_PATH/SCENARIO" || fail "Could not find SCENARIO subdirectory at $
 OUTDIR="$CIV2_PATH/SCENARIO"
 mkdir --parents --verbose "$OUTDIR"
 
-7z x -o"$OUTDIR" "EVN.7z"
+7z x -o"$OUTDIR" "build/EVN.7z"
 
 set -x
 ls -l "$OUTDIR"
