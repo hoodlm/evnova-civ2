@@ -480,7 +480,9 @@ WomensSuffrage       KEEP        Democracy
 # Scenario setup checklist
 
 * "Start on premade map" as the Romans
+* Set your name to Greyshoulders (other kings should pick the right names after reload with assets)
 * Pick computer opponents, flat world, no randomized start locations, no restart defeated opponents
+* Save the game immediately (in the EVN directory) as PRE_SETUP.TEMPLATE.SAV, leave the game, reopen it. (So it loads all the assets)
 
 ## 'World Setup'
 From the cheat menu:
@@ -490,6 +492,7 @@ From the cheat menu:
 * -> wipe goody boxes
 * -> tech paradigm 5/10
 * -> set Scn Name 'EV Nova'
+* -> edit special rules, eliminate pollution
 
 ## Factions setup
 
@@ -504,11 +507,39 @@ Wraith - 0
 Polaris - 0
 Aurorans - 0
 
+Set attitudes...
+
+* Rebels -> Federation: 100
+* Rebels -> Assoc: 50
+* Rebels -> Polaris: 13
+* Rebels -> Aurorans: 13
+
+* Assoc -> Rebels: 50
+* Assoc -> Polaris: 50
+* Assoc -> Aurorans: 50
+* Assoc -> Federation: 75
+
+* Federation -> Rebels: 100
+* Federation -> Aurorans: 100
+* Federation -> Polaris: 75
+* Federation -> Assoc: 75
+
+* Aurorans -> Rebels: 13
+* Aurorans -> Assoc: 50
+* Aurorans -> Federation: 100
+* Aurorans -> Polaris: 75
+
+* Polaris -> Rebels: 13
+* Polaris -> Federation: 75
+* Polaris -> Aurorans: 75
+* Polaris -> Assoc: 50
+
+Per-civ setup. Give tech, setup cities, explore a bit around each civ's starting city/cities
+
 ## Assoc
 
 ### Starting techs
-Privateering
-Organized Crime
+Hyperspace Engines
 Illicit Ship Mods
 Writing
 Warrior Code
@@ -519,14 +550,15 @@ Industrialization
 
 ### Cities
 Scheall
-Cheat-build 1 Pirate Valkyrie, 1 Starbridge, City Walls
+Cheat-build 1 Pirate Starbridge, 1 Starbridge, City Walls
 Set size to 3
 
 
 ## Rebel
 ### Starting techs
-Privateering
+Hyperspace Engines
 Rebellion
+Rebel Ship Mods
 Writing
 Warrior Code
 Trade
@@ -535,7 +567,7 @@ Industrialization
 
 ### Cities
 Koria
-Cheat-build 1 Starbridge, City Walls
+Cheat-build 1 Rebel Starbridge, City Walls
 Set size to 2
 
 Evlei
@@ -545,8 +577,8 @@ Set size to 2
 
 ## Federation
 ### Starting techs
-Privateering
-Federation
+Hyperspace Engines
+Federation Constitution
 Writing
 Warrior Code
 Trade
@@ -556,18 +588,14 @@ Industrialization
 
 ### Cities
 Sol
-Cheat-build 1 anaconda, 1 pegasus, 1 leviathan, city walls
+Cheat-build 1 anaconda, 1 starbridge, 1 pegasus, 1 leviathan, city walls
 Set size to 3
 
 Port Kane
 1 starbridge
-Set size to 2
-
-Kerella
-1 starbridge
 size 1
 
-Nesre Primus
+Kerella
 1 starbridge
 size 1
 
@@ -576,7 +604,7 @@ size 1
 
 ### Starting techs
 
-Privateering
+Hyperspace Engines
 Auroran Tradition
 Writing
 Warrior Code
@@ -587,21 +615,11 @@ Industrialization
 ### Cities
 
 Aurora
-1 argosy + 1 starbridge + 1 pegasus
-size 2
+1 argosy + 1 starbridge + 3 pegasus
+size 3
 
 Heraan
 size 2, 1 argosy
-
-Moash
-size 2, 1 argosy
-
-Tekel
-size 2, 1 argosy
-
-Dani
-size 2, 1 argosy
-
 
 ## Krypt
 
@@ -609,7 +627,7 @@ size 2, 1 argosy
 
 Alien tech
 Krypt tech
-Organic Shipbuilding (blocks Pegasus)
+Macro-organelles (blocks Pegasus)
 
 ### Cities
 
@@ -624,7 +642,7 @@ Korell - 2 krypt pod
 Alien tech
 Wraith tech
 Wraith biology
-Organic Shipbuilding (blocks Pegasus)
+Macro-organelles (blocks Pegasus)
 
 ### Cities
 
@@ -638,9 +656,8 @@ Spawn a couple hyperiods around, set their home city to NONE
 
 ### Starting techs
 
-Advanced Biotech
-Organelles
-Organic Shipbuilding
+Macro-Organelles
+Bio-organic Lasers
 Writing
 Warrior Code
 Trade
@@ -665,3 +682,11 @@ size 1
 ## Kont
 
 Create a "Kont" barbarian unit on top of the kont planet
+
+
+
+Finally save as 'post-setup-template.sav'
+
+Save scenario
+
+Make sure to git-commit both template.savs and the scn file!

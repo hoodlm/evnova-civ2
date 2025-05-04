@@ -15,11 +15,8 @@
 ^Challenging: Rebellion, Association of Free Traders
 ^Not for human play: Wraith, Krypt
 ^
-^Polaris, Federation, Aurorans, and Rebels all have special tech trees and units.
+^Each faction has a special tech tree and units.
 ^The Polaris have stronger ships, but their technology can be stolen!
-^
-^All civilizations except the Polaris can build Pirate tech.
-^The Association have a head-start on the Pirate tree.
 ^
 ^^OBJECT
 ^You can win by military victory (conquer the galaxy) or by scientific victory
@@ -27,7 +24,7 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.2 of this scenario (built approx 18 April 2025).
+^You are playing Alpha v0.3 of this scenario (built approx 3 May 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
 ^Please report balance issues and bugs!
 ^

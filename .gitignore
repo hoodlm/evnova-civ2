@@ -1,5 +1,7 @@
 *.SAV
 *.sav
+!*.template.sav
+!*.TEMPLATE.SAV
 .\~lock*.ods\#
 build/
 EVN.7z
