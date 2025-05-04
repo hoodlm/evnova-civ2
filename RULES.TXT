@@ -105,7 +105,7 @@ Democracy,          5, 1,  Phi, Uni, 2, 2    ; Dem
 Economics,          4, 1,  Uni, Ban, 2, 1    ; Eco
 Electricity,        4, 0,  no,  no,  2, 4    ; E1 <-- spare
 Electronics,        4, 1,  Inv, nil, 3, 4    ; E2
-Engineering,        4, 0,  nil, nil, 1, 0    ; Eng
+Engineering,        4, 0,  Ind, nil, 1, 0    ; Eng
 Environmentalism,   3, 1,  no, no, 3, 2    ; Env
 Espionage,          2,-1,  no,  no,  3, 0    ; Esp <-- DO NOT USE
 Explosives,         5, 0,  no,  no,  2, 4    ; Exp <-- DO NOT USE
