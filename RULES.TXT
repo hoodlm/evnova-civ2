@@ -361,7 +361,7 @@ nil,        ; Cure for Cancer
 @UNITS
 Pegasus,      Too, 0,  2.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
 Sprite,       Gun, 0,  3.,0,  0a,2d,  2h,1f,  4,0,  5, Too, 000000000000001
-Starbridge,   Gun,  0,  4.,0,  2a,2d,  1h,1f,  1,0,  1, nil, 000000000000001
+Starbridge,   Gun,  0,  3.,0,  2a,2d,  1h,1f,  1,0,  1, nil, 000000000000001
 Abomination,  Gun,  0,  3.,0,  4a,1d,  1h,1f,  3,0,  0, Alp, 000000000000001
 Thunderforge, Gun,  0,  4.,0,  7a,2d,  2h,2f,  8,0,  0, Chi, 000000000000001
 Aur. Cruiser, Gun,  0,  2.,0,  2a,6d,  2h,1f,  6,0,  0, Ato, 000000000000001
