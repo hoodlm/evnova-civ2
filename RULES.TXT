@@ -133,7 +133,7 @@ Mathematics,        4,-1,  Wri, nil, 0, 3    ; Mat
 Medicine,           4, 0,  Sea, nil, 1, 1    ; Med
 Capacitor Pulse Laser,6,-2,  Mas,  Ast,  2, 4    ; Met
 Organic Nuc. Fusion,    4, 1,  Met,  ToG,   2, 4    ; Min
-Wraith Tech,        8,-1,  RR, nil, 3, 0    ; Mob <-- Wraith base tech
+Wraith Tech,        8,-1,  RR, no, 3, 0    ; Mob <-- Wraith base tech
 Monarchy,           5, 1,  nil, nil, 0, 2    ; Mon
 Monotheism,         5, 1,  nil, Mys,  1, 2   ; MT
 Mysticism,          4, 0,  CoL, nil, 0, 2    ; Mys
