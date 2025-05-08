@@ -120,3 +120,22 @@ As aurorans:
 * FUN: Takes too long to move big warships to the front line. Maybe bring AIrport back (for airlifts) and call it Hypergate?
 * FUN: If whoever discovers TWCB gets eliminated, it's impossible for anyone to get a sciecne victory. Maybe make TWCB a late-game researchable technology too?
 * FUN: Rebels built a base way out in the middle of nowhere at the edges of the map. kind of frustrating when i can't build apollo program! definitely need a fix for that.
+
+
+2025-05-03 - 786fd79cb55017b81aeca9dfa0f9b055c887a361
+
+* starbridge has 4 movement, should have 3
+* rebels immediately offer peace... maybe should just force feds/rebels to be at war?
+* forgot to change personalities to be aggressive (e.g. on aurorans in particular)
+* factory is too expensive
+
+Techs with wrong artwork:
+* Invention
+* Electronics
+
+* Tech tree still doesn't "feel" right. Needs a redesign, fewer techs, more linear and less branching tree. Too easy to go all-in on military too fast
+* Hypergates are a bit too expensive compared to other buildings
+* Overdid it on trade from most resource squares
+* Wraith took over a bunch of Polaris cities...?
+* since wraith tech is mobile warfare, it causes all your barracks to be obsolete... need to fix
+* AI doesn't seem very good at navigating the tech tree in general; very easy to outpace them
