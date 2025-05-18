@@ -36,6 +36,7 @@ FILES="
     UNITS.GIF
     ICONS.GIF
     NOVA_SMALL.MP
+    _README.TXT
 "
 for FILE in $FILES; do
   install --preserve-timestamps --target-directory="$BUILDDIR/EVN" --verbose "$FILE"
