@@ -11,7 +11,7 @@
 ^Reunification is inevitable... but will it happen peacefully?
 ^
 ^^FACTIONS
-^Recommended: Polaris (easiest), Federation, Aurorans
+^Recommended: Federation, Aurorans, Polaris
 ^Challenging: Rebellion, Association of Free Traders
 ^Not for human play: Wraith, Krypt
 ^
@@ -24,8 +24,13 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.3.1 of this scenario (built approx 7 May 2025).
+^You are playing Alpha v0.3.2 of this scenario (built approx 17 May 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
-^Please report balance issues and bugs!
+^Please report balance issues and bugs! (See README.TXT)
+^
+^Credits:
+^Scenario created by Logan Hood.
+^Unit sprites and some other assets are from EV Nova, created by ATMOS, Ambrosia,
+^and Matt Burch.
 ^
 @end -- this line must be here!
