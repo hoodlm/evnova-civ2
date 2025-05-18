@@ -139,3 +139,10 @@ Techs with wrong artwork:
 * Wraith took over a bunch of Polaris cities...?
 * since wraith tech is mobile warfare, it causes all your barracks to be obsolete... need to fix
 * AI doesn't seem very good at navigating the tech tree in general; very easy to outpace them
+
+
+2025-05-18 - 5aeb847b56b3f6c8bb57ee77bb585a6e86175150
+
+bugs:
+* Polaris are missing Hyperspace Engines as a starting tech
+* GLi-Tech (Sun Tzu) is missing from the tech tree
