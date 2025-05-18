@@ -54,9 +54,9 @@
 ^Invisible to most enemy ships.
 ^Can attack aircraft in flight.
 ^May be lost out of sight of land.
-^Ignores City Walls.
+^Ignores Orbital Defense.
 ^Can carry friendly air units.
-^Can make paradrops.
+^Can complete multi-jumps from friendly cities.
 ^Treats all squares as road squares.
 ^Defense +50% versus units with a movement factor of 2.
 ^Only Fundamentalist governments can build.
@@ -90,7 +90,7 @@ and decreases it in all nearby cities.
 
 @;Barracks
 @PEDIAIMPROVE2
-City produces Veteran ground units. Ground units can
+City produces Veteran ships. Ships can
 be completely repaired in a single turn.
 
 @;Granary
@@ -112,13 +112,12 @@ Increases science output by 50%.
 
 @;Courthouse
 @PEDIAIMPROVE7
-Decreases corruption by 50%. Makes city more resistant
-to bribery by enemy diplomats and spies. Under Democracy,
-one content citizen becomes happy.
+Decreases corruption by 50%.
+Under Democracy, one content citizen becomes happy.
 
 @;City Walls
 @PEDIAIMPROVE8
-Units in city are tripled on defense versus ground attacks.
+Ships in city are tripled on defense.
 
 @;Aqueduct
 @PEDIAIMPROVE9
@@ -127,7 +126,7 @@ Allows city to increase beyond size 8.
 @;Bank
 @PEDIAIMPROVE10
 Increases tax and luxury output by an
-additional 50% (cumulative w/ Marketplace).
+additional 50% (cumulative w/ Trade Center).
 
 @;Cathedral
 @PEDIAIMPROVE11
@@ -136,7 +135,7 @@ Makes four unhappy citizens content (Three after Communism).
 @;University
 @PEDIAIMPROVE12
 Increases science output by an additional
-50% (cumulative w/ Library).
+50% (cumulative w/ Datacenter).
 
 @;Mass Transit
 @PEDIAIMPROVE13
@@ -154,7 +153,7 @@ Increases resource production in city by 50%.
 @;Mfg. Plant
 @PEDIAIMPROVE16
 Increases resource production by an additional 50%
-(cumulative w/ Factory).
+(cumulative w/ Shipyard).
 
 @;SDI Defense
 @PEDIAIMPROVE17
@@ -171,9 +170,7 @@ Increases factory output by 50%.
 
 @;Hydro Plant
 @PEDIAIMPROVE20
-Increases factory output by 50%.  Cleaner
-than Power Plant, and generally safer than
-Nuclear Plant.
+Increases shipyard production bonus by 50%.
 
 @;Nuclear Plant
 @PEDIAIMPROVE21
@@ -185,7 +182,7 @@ civilization has discovered Fusion.
 @;Stock Exchange
 @PEDIAIMPROVE22
 Increases tax and luxuries output by an additional
-50% (cumulative with Marketplace and Bank for a grand
+50% (cumulative with Trade Center and Bank for a grand
 total of 150%).
 
 @;Sewer System
@@ -201,12 +198,12 @@ to produce 50% more food.
 @;Superhighways
 @PEDIAIMPROVE25
 All squares in the city's radius with roads
-(or railroads) produce 50% more trade.
+produce 50% more trade.
 
 @;Research Lab
 @PEDIAIMPROVE26
 Increases science output by an additional 50%
-(cumulative with Library and University for a
+(cumulative with Datacenter and University for a
 grand total of 150%).
 
 @;SAM Missile Battery
@@ -236,9 +233,7 @@ produce one shield.
 
 @;Airport
 @PEDIAIMPROVE32
-City produces veteran air units.
-Any air unit spending its entire turn in the city
-is completely repaired.
+Allows instant transport to another city with a Hypergate.
 
 @;Police Station
 @PEDIAIMPROVE33
@@ -265,7 +260,7 @@ Converts production into trade.
 
 @;Pyramids
 @PEDIAIMPROVE39
-Counts as a Granary in every one of your cities.
+Counts as a Food Storage Facility in every one of your cities.
 
 @;Hanging Gardens
 @PEDIAIMPROVE40
@@ -299,7 +294,7 @@ barbarians.
 
 @;Sun Tzu's War Academy
 @PEDIAIMPROVE46
-All new ground units produced gain Veteran status.
+All new units produced gain Veteran status.
 Any unit which wins a combat gains Veteran status.
 
 @;King Richard's Crusade
@@ -337,7 +332,7 @@ by an equivalent modern unit.
 
 @;J.S. Bach's Cathedral
 @PEDIAIMPROVE54
-Decreases unhappy citizens on same continent by 2 per city.
+Decreases unhappy citizens by 2 in every city.
 
 @;Isaac Newton's College
 @PEDIAIMPROVE55
@@ -370,11 +365,11 @@ past transgressions.
 
 @;Hoover Dam
 @PEDIAIMPROVE61
-Provides Hydro power to every city on every continent.
+Counts as a Mining Facility in every city.
 
 @;Women's Suffrage
 @PEDIAIMPROVE60
-Counts as a Police Station in every one of your cities.
+Counts as a Bounty Hunter Guild in every one of your cities.
 (Decreases unhappiness caused by troops away from city by 1).
 
 @;Manhattan Project
@@ -390,7 +385,8 @@ Allows nuclear weapons to be built.
 
 @;Apollo Program
 @PEDIAIMPROVE64
-Allows construction of spaceship improvements.
+Reveals the entire galactic map.
+Allows construction of intergalactic spaceship improvements.
 
 @;SETI Program
 @PEDIAIMPROVE65
@@ -514,14 +510,12 @@ organized crime.  Your cities, therefore, experience no
 corruption.
 ^
 ^SPECIAL
-All SPY units produced under Communist governments are
-given VETERAN status.  Under Communism, none of the
+Under Communism, none of the
 science/tax/luxury rates may be set higher than 80%.
 ^
 ^HINTS
 Communism is best for large, far-flung empires which need
-to maintain a large military.  Use your powerful spies to
-steal technology from the capitalist pigs.
+to maintain a large military.
 
 @PEDIAGOVT4
 @width=600
@@ -545,8 +539,6 @@ Improvements which convert unhappy citizens to
 content citizens (Temples, etc.)
 produce "tithes" equal to the number of citizens they would
 otherwise convert.  They also require no maintenance.
-The diplomatic penalties for "terrorist acts" committed by
-your Diplomats and Spies are reduced.
 Under Fundamentalism, none of the science/tax/luxury rates may
 be set higher than 80%.
 ^
@@ -604,8 +596,6 @@ Democracies experience NO corruption or waste.
 ^SPECIAL
 Under a Democracy, each square which ordinarily produces at
 least one unit of trade produces an extra unit.
-The units and cities of a Democracy are immune to BRIBERY
-of all forms.
 The science/tax/luxury rates may be set to any level
 desired.
 ^
