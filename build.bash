@@ -28,6 +28,7 @@ mkdir --parents --verbose "$BUILDDIR/EVN"
 FILES="
     CITY.TXT
     EVENTS.TXT
+    PEDIA.TXT
     NOVA.scn
     NOVA.txt
     RULES.TXT

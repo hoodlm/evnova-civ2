@@ -31,7 +31,7 @@
 ^Increases ship movement rates by one.
 ^Improves Spaceship thrust by 25%.
 ^Free civ. advance for first civ. to discover.
-^Decreases the effect of Cathedrals.
+^Decreases the effect of Holovid Stations.
 ^Cancels the effect of
 
 
@@ -315,7 +315,7 @@ receive updates when other civilizations discover technologies).
 
 @;Michelangelo's Chapel
 @PEDIAIMPROVE49
-Counts as a Cathedral in each of your cities.
+Counts as a Holovid Station in each of your cities.
 
 @;Copernicus' Observatory
 @PEDIAIMPROVE50
