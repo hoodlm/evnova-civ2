@@ -198,72 +198,72 @@ Hvy Turret Platforms,    3, 0,  X6,  Ast,  0, 4    ; X7
 ;
 @IMPROVE
 Nothing,                  1,  0,    nil,
-Government Seat,          10, 0,    CoL,
-Outfitter,                4,  1,    nil,
-Food Storage Facility,    6,  1,    Pot,
-Spaceport Bar,            4,  1,    Cer,
-Trade Center,             8,  1,    Cur,
-Datacenter,               8,  1,    Wri,
-Patrol Fleet,             8,  1,    CoL,
-Orbital Defense,          8,  0,    War,
-Arcology,                 8,  2,    Inv,
+Government Seat,          10, 0,    CoL, ; palace
+Outfitter,                4,  1,    nil, ; barracks
+Food Storage Facility,    6,  1,    Pot, ; granary
+Spaceport Bar,            4,  1,    Cer, ; temple
+Trade Center,             8,  1,    Cur, ; marketplace
+Datacenter,               8,  1,    Wri, ; library
+Patrol Fleet,             8,  1,    CoL, ; courthouse
+Orbital Defense,          8,  0,    War, ; city walls
+Arcology,                 8,  2,    Inv, ; aqueduct
 Bank,                     12, 3,    Ban,
-Holovid Station,          12, 3,    MT,
+Holovid Station,          12, 3,    MT,  ; cathedral
 University,               16, 3,    Uni,
 Mass Transit,             16, 4,    Bri,
-Noise Megadrome,          10, 4,    Ban,
-Shipyard,                 8,  2,    Ind,
-Fusion Plant,             24, 4,    Rob,
+Noise Megadrome,          10, 4,    Ban, ; colosseum
+Shipyard,                 8,  2,    Ind, ; factory
+Fusion Plant,             24, 4,    Rob, ; manuf. plant
 SDI Defense,              20, 4,    Bri,
 Recycling Center,         20, 2,    Bri,
 Power Plant,              16, 4,    Bri,
-Mining Facility,          16, 3,    E2,
+Mining Facility,          16, 3,    E2,  ; hydro plant
 Nuclear Plant,            16, 2,    Bri,
 Stock Exchange,           16, 4,    Eco,
-Orbital Housing,          12, 2,    San,
+Orbital Housing,          12, 2,    San, ; sewer sys
 Supermarket,               8, 3,    Bri,
-Cargo Drone Swarm,        20, 5,    Aut,
-Orbital Science Lab,      16, 3,    Cmp,
+Cargo Drone Swarm,        20, 5,    Aut, ; superhighways
+Orbital Science Lab,      16, 3,    Cmp, ; research lab
 SAM Missile Battery,      10, 2,    Bri,
 Coastal Fortress,          8, 1,    Bri,
 Solar Plant,              32, 4,    Bri,
 Harbor,                   6,  1,    Bri,
 Offshore Platform,        16, 3,    Bri,
 Hypergate,                10, 2,    Cmb, ; airport
-Bounty Hunter Guild,      6,  2,    Dem,
+Bounty Hunter Guild,      6,  2,    Dem, ; police station
 Port Facility,            8,  3,    Bri,
 SS Structural,            8,  0,    SFl,
 SS Component,             16, 0,    Pla,
 SS Module,                32, 0,    Sup,
 (Capitalization),         60, 0,    Cor,
-Orbital Farms,            20, 0,    Pot,
-Cunjo Preservation,       20, 0,    Pot,
-United Shipping,          20, 0,    Cur,
+Orbital Farms,            20, 0,    Pot, ; pyramids
+Cunjo Preservation,       20, 0,    Pot, ; hanging gardens
+United Shipping,          20, 0,    Cur, ; colossus
 Lighthouse,               20, 0,    Bri,
 Great Library,            30, 0,    Bri,
 Oracle,                   30, 0,    Bri,
 Great Wall,               30, 0,    Bri,
-GLi-Tech Corp.,           30, 0,    E2,
-Sigma Shipyards,          30, 0,    Inv,
+GLi-Tech Corp.,           30, 0,    E2,  ; sun tzu
+Sigma Shipyards,          30, 0,    Inv, ; king richard's crusade
 Marco Polo's Embassy,     20, 0,    Bri,
-Galactic Racing Network,  40, 0,    MT,
-Deep Space L.P.,          30, 0,    Ast,
+Galactic Racing Network,  40, 0,    MT,  ; michelangelo
+Deep Space L.P.,          30, 0,    Ast, ; copernicus
 Magellan's Expedition,    40, 0,    Bri,
-Nibos Brewing Company,    30, 0,    Med,
+Nibos Brewing Company,    30, 0,    Med, ; shakespeare
 Leonardo's Workshop,      40, 0,    Bri,
-Church of Krim-Hwa,       40, 0,    The,
-Kane University,          40, 0,    ToG,
-Pyrogenesis Skymining,    40, 0,    Eco,
-Abandoned Ringworld,      40, 0,    Cmp,
+Church of Krim-Hwa,       40, 0,    The, ; bach cathedral
+Kane University,          40, 0,    ToG, ; newton
+Pyrogenesis Skymining,    40, 0,    Eco, ; adam smith
+Kont Expedition,          40, 0,    U1,  ; darwin's voyage
 Statue of Liberty,        40, 0,    Bri,
 Eiffel Tower,             30, 0,    Bri,
-Bureau of Internal Inv.,  60, 0,    Dem,
-Asteroid Mining Fleet,    60, 0,    E2,
+Bureau of Internal Inv.,  60, 0,    Dem, ; women's suffrage
+Asteroid Mining Fleet,    60, 0,    E2,  ; hoover dam
 Manhattan Project,        60, 0,    Bri,
 United Nations,           60, 0,    Bri,
-Ancient Hypergate,        60, 0,    U1,
+Ancient Hypergate,        60, 0,    U1,  ; apollo program
 SETI Program,             60, 0,    Bri,
-Nirvana Terraforming,     60, 0,    Gen,
+Nirvana Terraforming,     60, 0,    Gen, ; cure for cancer
 
 ;
 ; Expiration advancements for Wonders of the World
