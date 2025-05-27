@@ -54,7 +54,7 @@
 ^Invisible to most enemy ships.
 ^Can attack aircraft in flight.
 ^May be lost out of sight of land.
-^Ignores Orbital Defense.
+^Ignores Planetary Defense.
 ^Can carry friendly air units.
 ^Can complete multi-jumps from friendly cities.
 ^Treats all squares as road squares.
@@ -121,7 +121,7 @@ Ships in city are tripled on defense.
 
 @;Aqueduct
 @PEDIAIMPROVE9
-Allows city to increase beyond size 8.
+Allows city to increase beyond size 10.
 
 @;Bank
 @PEDIAIMPROVE10

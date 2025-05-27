@@ -27,8 +27,8 @@
 2       ; Settlers eat (govt >= Communism)
 7       ; City size for first unhappiness at Chieftain level
 14      ; Riot factor based on # cities (higher factor lessens the effect)
-8       ; Aqueduct needed to exceed this size
-12      ; Sewer System needed to exceed this size
+10      ; Aqueduct needed to exceed this size
+99      ; Sewer System needed to exceed this size
 10      ; Tech paradigm (higher # slows research)
 20      ; Base time for engineers to transform terrain (x2)
 3       ; Monarchy  pays support for all units past this
@@ -205,7 +205,7 @@ Spaceport Bar,            4,  1,    Cer, ; temple
 Trade Center,             8,  1,    Cur, ; marketplace
 Datacenter,               8,  1,    Wri, ; library
 Patrol Fleet,             8,  1,    CoL, ; courthouse
-Orbital Defense,          8,  0,    War, ; city walls
+Planetary Defense,        8,  0,    War, ; city walls
 Arcology,                 8,  2,    Inv, ; aqueduct
 Bank,                     12, 3,    Ban,
 Holovid Station,          12, 3,    MT,  ; cathedral
@@ -220,7 +220,7 @@ Power Plant,              16, 4,    Bri,
 Mining Facility,          16, 3,    E2,  ; hydro plant
 Nuclear Plant,            16, 2,    Bri,
 Stock Exchange,           16, 4,    Eco,
-Orbital Housing,          12, 2,    San, ; sewer sys
+Sewer System,             12, 2,    Bri, ;
 Supermarket,               8, 3,    Bri,
 Cargo Drone Swarm,        20, 5,    Aut, ; superhighways
 Orbital Science Lab,      16, 3,    Cmp, ; research lab
