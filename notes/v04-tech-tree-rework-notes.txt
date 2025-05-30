@@ -75,3 +75,12 @@ Trade                -> Space Freighters
 University           -> *
 Warrior Code         -> Static Energy Weapons
 Writing              -> Cloud Computing
+
+
+### After renaming, a few other moves to make the tree more thematically coherent
+
+* Hypercapitalism after interplanetary commerce
+* Astrofeudalism after xenobiology
+* reuse a spare slot for "Artificial Intelligence"; put this before the three AI technologies
+* more links further down the tech tree
+
