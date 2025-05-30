@@ -37,3 +37,41 @@ major changes:
 * removed Sanitation (was a dead end, no impact)
 * removed Engineering (Invention leads directly to these instead)
 * removed telepath martial arts (Instead, telepath indoctrination leads directly to aur. energy weapons / thunderforge)
+
+
+### Technology renames
+
+Astronomy            -> Deep Space Research
+Automobile           -> AI Markets
+Banking              -> Interplanetary Currency
+Ceremonial Burial    -> Trader Relations
+Code of Laws         -> Trading Regulation
+Communism            -> AI Governance
+Computers            -> Autonomous Sci. Methods
+Currency             -> Interplanetary Commerce
+Democracy            -> Augmented Technocracy
+Economics            -> Plasmic Mineralization
+Electronics          -> Pyroclastic Metallurgy
+Fusion Power         -> Quantalinearization
+Generic Engineering  -> Planetary Bioengineering
+Industrialization    -> Spaceship Manufacturing
+Invention            -> Space Elevators
+Map Making           -> Interstellar Navigation
+Medicine             -> Brewing
+Monarchy             -> Neofeudalism
+Monotheism           -> Interplanetary Entertainment
+Mysticism            -> FTL Transmission
+Philosophy           -> Technophilosophy
+Plastics             -> Antimatter Containment
+Pottery              -> Xenobiology
+Robotics             -> Robotic Manufacturing
+Space Flight         -> Metastructural Materials
+Superconductor       -> Intergalactic Spaceflight
+The Corporation      -> Cryptoeconomics
+The Republic         -> Hypercapitalism
+Theology             -> Post-revivalism
+Theory of Gravity    -> AI Educators
+Trade                -> Space Freighters
+University           -> *
+Warrior Code         -> Static Energy Weapons
+Writing              -> Cloud Computing
