@@ -200,7 +200,7 @@ Hvy Turret Platforms,    3, 0,  X6,  Ast,  0, 4    ; X7
 Nothing,                  1,  0,    nil,
 Government Seat,          10, 0,    CoL, ; palace
 Outfitter,                4,  1,    nil, ; barracks
-Food Storage Facility,    6,  1,    Pot, ; granary
+Food Vault,               6,  1,    Pot, ; granary
 Spaceport Bar,            4,  1,    Cer, ; temple
 Trade Center,             8,  1,    Cur, ; marketplace
 Datacenter,               8,  1,    Wri, ; library
