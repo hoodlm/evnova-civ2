@@ -478,16 +478,16 @@ Test Unit 8,  nil, 0,  1.,0,  0a,1d,  2h,1f,  4,0,  5, no,  000000000000001
 ;        6 Democracy
 ;
 @TERRAIN
-Star,       1,2,  4,1,4,   no,  1, 5, 5,   no,  1, 5,  3,  no,    ; Drt
-Rocky Planet,1,2, 2,3,1,   no,  1, 5, 1,   no,  0,15,  0,  no,    ; Pln
-Green Planet,1,2, 6,2,1,   no,  1, 5, 2,   no,  0,10,  0,  no,    ; Grs
-Asteroids,  1,2,  1,3,1,   no,  0, 5, 5,   no,  0, 5,  0,  no,    ; For
-_Hills_,    1,2,  1,0,0,   no,  1,10, 0,   no,  3,10,  1,  no,    ; Hil
-Nebula,     2,4,  0,2,1,   no,  1,10, 0,   no,  1,10,  6,  no,    ; Mou
-_Tundra_,   1,2,  1,0,0,   no,  1,10, 1,   no,  0, 0,  0,  no,    ; Tun
-Space,      1,2,  0,1,0,   no,  0, 0, 0,   no,  1,15,  3,  no,    ; Gla
-Gas Giant,  1,2,  2,2,2,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Swa
-Kont,       1,2,  2,2,2,   no,  0,15, 6,   no,  0,15,  0,  no,    ; Jun
+Star,       1,2,  4,1,4,   no,  1, 5, 0,   no,  1, 5,  0,  no,    ; Drt
+Rocky Planet,1,2, 2,3,1,   no,  1, 5, 0,   no,  0,15,  0,  no,    ; Pln
+Green Planet,1,2, 6,2,1,   no,  1, 5, 0,   no,  0,10,  0,  no,    ; Grs
+Asteroids,  1,2,  1,3,1,   no,  0, 5, 0,   no,  0, 5,  0,  no,    ; For
+_Hills_,    1,2,  1,0,0,   no,  1,10, 0,   no,  3,10,  0,  no,    ; Hil
+Nebula,     2,4,  0,2,1,   no,  1,10, 0,   no,  1,10,  0,  no,    ; Mou
+_Tundra_,   1,2,  1,0,0,   no,  1,10, 0,   no,  0, 0,  0,  no,    ; Tun
+Space,      1,2,  0,1,0,   no,  0, 0, 0,   no,  1,15,  0,  no,    ; Gla
+Gas Giant,  1,2,  2,2,2,   no,  0,15, 0,   no,  0,15,  0,  no,    ; Swa
+Kont,       1,2,  2,2,2,   no,  0,15, 0,   no,  0,15,  0,  no,    ; Jun
 _Ocean_,    1,2,  1,0,2,   no,  0, 0, 0,   no,  0, 0,  0,  no,    ; Oce
 Star,       1,2,  4,1,4, ; Oasis (desert)
 Rocky Planet,1,2, 2,3,1, ; Buffalo (plains)
