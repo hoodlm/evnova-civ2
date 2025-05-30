@@ -85,7 +85,7 @@ Fusion Pulse Cannon,5, 1,  AFl,  nil, 1, 4     ; Alp
 Freighter Militia,  3,-2,  Alp,  Cur,  1, 4    ; Amp
 Deep Space Research,4, 1,  Uni, nil, 2, 3    ; Ast
 Railguns,           4,-1,  Amp,  Rob,  1, 4    ; Ato
-AI Markets,         6,-1,  Cor, Inv, 3, 1    ; Aut
+AI Markets,         6,-1,  Cor, Mat, 3, 1    ; Aut
 Interplanetary Currency,4, 1,  Cur, nil, 1, 1    ; Ban
 Bridge Building,    4, 0,  no,  no,  0, 4    ; Bri <-- DO NOT USE
 Planetary Shipyards,6,-1,  Ato,  Cmb,  1, 4    ; Bro
@@ -95,7 +95,7 @@ Auroran Energy Wpns,4,-2,  X2, Bro,  1, 4    ; Chi
 Trading Regulation, 4, 1,  Cer, nil, 0, 2    ; CoL
 Tunneling Organ,      5,-1,  Mas,  U3,  2, 4    ; CA 
 Hypergates,         5,-1,  Rob,  nil,  3, 3    ; Cmb <-- Allows airlifts
-AI Governance,      5, 0,  Phi,  Uni,  2, 2    ; Cmn
+AI Governance,      5, 0,  Mat,  Uni,  2, 2    ; Cmn
 Autonomous Sci. Methods,4, 1,  ToG, Aut,  3, 3    ; Cmp
 Conscription,       7,-1,  no,  no,  2, 0    ; Csc <-- SPARE
 Construction,       4, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
@@ -129,12 +129,12 @@ Nil'kemorya,         4,-1,  Lit,  Mys,  2, 4    ; Mag
 Interstellar Navigation,6,-1,  nil, nil, 0, 1    ; Map
 Etheric Wake Engine,4, 1,  Mag,  Uni,  2, 4    ; Mas
 Mass Production,    5, 0,  no, no, 3, 4    ; MP <-- spare
-Mathematics,        4,-1,  no, no, 0, 3    ; Mat <-- spare
+Artificial Intelligence,4,-1,  Phi, Wri, 0, 3    ; Mat
 Brewing,            4, 0,  Cur, nil, 1, 1    ; Med
 Capacitor Pulse Laser,6,-2,  Mas,  Ast,  2, 4    ; Met
 Organic Nuc. Fusion,    4, 1,  Met,  ToG,   2, 4    ; Min
 Wraith Tech,        8,-1,  RR, no, 3, 0    ; Mob <-- Wraith base tech
-Astrofeudalism,     5, 1,  nil, nil, 0, 2    ; Mon
+Astrofeudalism,     5, 1,  Pot, CoL, 0, 2    ; Mon
 Interplanetary Networks,5, 1,  nil, Mys,  1, 2   ; MT
 FTL Transmission,   4, 0,  CoL, nil, 0, 2    ; Mys
 Polaron Torpedos,   6,-1,  Min,  E2,  2, 4    ; Nav
@@ -142,7 +142,7 @@ Advanced Espionage,    6,-2,  X7,  The,   0, 4    ; NF
 Nuclear Power,      3, 0,  no,  no,  3, 3    ; NP <-- spare
 Technophilosophy,   6, 1,  Rep, Mon, 1, 2    ; Phi
 Etheric Induction,  4,-1,  Nav, Gen,  2, 4    ; Phy
-Antimatter Containment,4, 1,  nil, SFl, 3, 3    ; Pla
+Antimatter Containment,4, 1,  Ast, SFl, 3, 3    ; Pla
 Hyperspace Engines, 4, 0,  RR,  nil,  0, 0    ; Plu  <-- give to all human civs to block alien tech
 Rebellion,         4, 0,  RR,  nil,  3, 4    ; PT <-- Rebel base tech
 Xenobiology,       4, 1,  nil, nil, 0, 1    ; Pot
@@ -151,7 +151,7 @@ TwiceRemoved,       6, 0,  no, no,   2, 1    ; RR  <-- DO NOT USE
 Recycling,          2, 1,  no, no,  3, 2    ; Rec <-- Spare
 Refining,           4, 0,  no, no, 2, 4    ; Ref <-- spare
 Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
-Hypercapitalism,    5, 1,  nil, nil, 0, 2    ; Rep
+Hypercapitalism,    5, 1,  Cur, nil, 0, 2    ; Rep
 Robotic Manufacturing,5,-2,  E2,  nil, 3, 0    ; Rob
 Rebel Ship Mods,    6,-2,  PT,  nil,   3, 4    ; Roc
 Sanitation,         4, 2,  no, no, 2, 1    ; San <-- spare
@@ -160,16 +160,16 @@ Metastructural Materials,4, 1,  Rob, Cmp, 3, 3    ; SFl
 Rebel Engine Mods,  3,-2,  Roc,  Ind,  3, 4    ; Sth
 Industr. Espionage, 4,-1,  Sth,  Mys,  3, 4    ; SE
 Federation Defectors, 4,-1,  SE,   The,  3, 4    ; Stl
-Intergalactic Spaceflight,4, 1,  Pla, nil, 3, 3    ; Sup
+Intergalactic Spaceflight,4, 1,  Pla, Dem, 3, 3    ; Sup
 Backchannel Diplomacy, 6,-1,  Stl,  PT,  3, 4    ; Tac
 Post-agnosticism,   3, 2,  MT,  Phi, 1, 2    ; The
-AI Educators,       4, 0,  Ast, nil, 2, 3    ; ToG
+AI Educators,       4, 0,  Ast, Mat, 2, 3    ; ToG
 Space Freight,      4, 2,  nil, nil, 0, 1    ; Tra
 University,         5, 1,  Mon, Rep, 2, 3    ; Uni
 Static Energy Weapons, 4,-1,  nil, nil, 0, 0    ; War
 Federation Constitution, 4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
 Cloud Computing,    4, 2,  nil, nil, 0, 3    ; Wri
-Future Technology,  1, 0,  FP, The, 3, 3    ; ...
+Future Technology,  1, 0,  FP, Gen, 3, 3    ; ...
 Those Who Came Before,    3, 0,  Cmb,  Sup,  3, 0    ; U1 <-- also unlockable with event
 The Creature That Lives In Deep Space,    3, 0,  no, no,  0, 0    ; U2 <-- Spare
 Wraith Biology,    3, 0, RR, nil,  3, 0    ; U3 <-- Unlocked with event 
