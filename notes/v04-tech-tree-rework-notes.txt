@@ -1,0 +1,39 @@
+Tech tree rework objectives, in this order:
+
+Structural:
+
+* "prune" the tech tree to have fewer filler advances
+* make the tech tree more interconnected, rather than independent "trees" for eco/engineering/etc.
+* put all govts in critical path for research tree
+* unlock advanced governments earlier
+
+Thematic:
+
+* give suitable sci-fi names to tech
+
+Mechanics:
+
+* assign appropriate weights/values/categories to tech
+
+### Filler advances (don't allow any buildings/units)
+
+* Capacitor Pulse Laser
+* Engineering
+* Fusion power
+* Mathematics
+* Philosophy
+* Mysticism
+* Sanitation
+* Seafaring
+* Shipbuilding Contracts
+* Telepath Mart. Arts
+* Telepath Awareness (by-design)
+* Wraith Biology (by design)
+
+major changes:
+
+* removed Mathematics (Monarchy & Republic fill in this spot in the tech tree instead)
+* removed Seafaring (Currency leads directly to the things Seafaring led to before)
+* removed Sanitation (was a dead end, no impact)
+* removed Engineering (Invention leads directly to these instead)
+* removed telepath martial arts (Instead, telepath indoctrination leads directly to aur. energy weapons / thunderforge)
