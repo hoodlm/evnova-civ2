@@ -518,11 +518,11 @@ _Whales_,   1,2,  1,0,2, ; Whales (ocean)
 @GOVERNMENTS
 Anarchy,        Mr.,         Ms.
 Despotism,      Emperor,     Empress
-Monarchy,       King,        Queen
-Communism,      Comrade,     Comrade
+Astrofeudalism, King,        Queen
+AI Governance,  Assistant,   Assistant
 Fundamentalism, High Priest, High Priestess
-Republic,       Consul,      Consul
-Democracy,      President,   President
+Hypercapitalism, CEO,        CEO
+Augmented Technocracy, Dr.,  Dr.
 
 ;
 ;   Leaders
