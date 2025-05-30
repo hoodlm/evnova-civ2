@@ -113,7 +113,7 @@ Increases science output by 50%.
 @;Courthouse
 @PEDIAIMPROVE7
 Decreases corruption by 50%.
-Under Democracy, one content citizen becomes happy.
+Under Augmented Technocracy, one content citizen becomes happy.
 
 @;City Walls
 @PEDIAIMPROVE8
@@ -130,7 +130,7 @@ additional 50% (cumulative w/ Trade Center).
 
 @;Cathedral
 @PEDIAIMPROVE11
-Makes four unhappy citizens content (Three after Communism).
+Makes four unhappy citizens content (Three after AI Governance).
 
 @;University
 @PEDIAIMPROVE12
@@ -406,12 +406,12 @@ rate at which your citizens can produce and sustain new units
 and city improvements, and the extent to which your citizens
 have a say in the way you govern them.
 ^
-Some forms of government, such as Despotism, Monarchy, and
-later Communism and Fundamentalism, allow you to expand
+Some forms of government, such as Despotism, Astrofeudalism, and
+later AI Governance, allow you to expand
 rapidly, to produce and sustain large numbers of military
 units, and to control your affairs completely.
 ^
-Democracy and the Republic, on the other hand, give your
+Augmented Technocracy and Hypercapitalism, on the other hand, give your
 citizens the freedom to produce vast amounts of trade, which
 increases your wealth and knowledge rapidly. On the other
 hand, your citizens may grow unhappy when you send military
@@ -462,12 +462,12 @@ ONE LESS.
 ^HINTS
 Because of Despotism's high rate of corruption, it is almost
 always an inferior form of government.  Try to switch to a
-Monarchy as soon as possible.
+Astrofeudalism as soon as possible.
 
 
 @PEDIAGOVT2
 @width=600
-@title=Civilization Government: Monarchy
+@title=Civilization Government: Astrofeudalism
 ^UNIT SUPPORT
 Each unit beyond the third costs one shield per turn.
 Settlers eat one food per turn.
@@ -478,22 +478,22 @@ Up to three military units in each city will institute
 citizen.
 ^
 ^CORRUPTION AND WASTE
-Monarchy has a MODERATE rate of corruption and waste.  The
+Astrofeudalism has a MODERATE rate of corruption and waste.  The
 level of corruption in a particular city is based on its
 distance from your capital.
 ^
 ^SPECIAL
-Under a Monarchy, none of the science/tax/luxury rates may
+Under a Astrofeudalism, none of the science/tax/luxury rates may
 be set higher than 70%.
 ^
 ^HINTS
-Monarchy is an excellent form of government for a young
+Astrofeudalism is an excellent form of government for a young
 civilization.
 
 
 @PEDIAGOVT3
 @width=600
-@title=Civilization Government: Communism
+@title=Civilization Government: AI Governance
 ^UNIT SUPPORT
 Each unit beyond the third costs one shield per turn.
 Settlers eat one food per turn.
@@ -505,16 +505,16 @@ content citizens (so a total of SIX unhappy citizens can
 be suppressed).
 ^
 ^CORRUPTION AND WASTE
-Under Communism, state control of the economy eliminates
+Under AI Governance, state control of the economy eliminates
 organized crime.  Your cities, therefore, experience no
 corruption.
 ^
 ^SPECIAL
-Under Communism, none of the
+Under AI Governance, none of the
 science/tax/luxury rates may be set higher than 80%.
 ^
 ^HINTS
-Communism is best for large, far-flung empires which need
+AI Governance is best for large, far-flung empires which need
 to maintain a large military.
 
 @PEDIAGOVT4
@@ -549,7 +549,7 @@ an excellent revenue.  Scientific research tends to languish.
 
 @PEDIAGOVT5
 @width=600
-@title=Civilization Government: Republic
+@title=Civilization Government: Hypercapitalism
 ^UNIT SUPPORT
 Each unit costs one shield per turn.  Settlers eat TWO
 food per turn.
@@ -560,27 +560,27 @@ city (or a fortress within 3 spaces of a friendly city)
 causes one citizen in its home city to become unhappy.
 ^
 ^CORRUPTION AND WASTE
-The Republic has a LOW rate of corruption and waste.  The
+Hypercapitalism has a LOW rate of corruption and waste.  The
 level of corruption in a particular city is based on its
 distance from your capital.
 ^
 ^SPECIAL
-Under a Republic, each square which ordinarily produces at
+Under Hypercapitalism, each square which ordinarily produces at
 least one unit of trade produces an extra unit.
 None of the science/tax/luxury rates may be set higher
 than 80%.
 ^
 ^HINTS
-Switching to a Republic can give an astounding boost to your
+Switching to Hypercapitalism can give an astounding boost to your
 science and tax revenues, although you'll probably have to
 divert some of your trade to luxuries.  It becomes more
 difficult (and expensive) to keep an army in the field, but
-building the Womens Suffrage wonder can help with this
+building Bounty Hunter Guilds can help with this
 problem.
 
 @PEDIAGOVT6
 @width=600
-@title=Civilization Government: Democracy
+@title=Civilization Government: Augmented Technocracy
 ^UNIT SUPPORT
 Each unit costs one shield per turn.  Settlers eat TWO
 food per turn.
@@ -594,13 +594,13 @@ causes TWO citizens in its home city to become unhappy.
 Democracies experience NO corruption or waste.
 ^
 ^SPECIAL
-Under a Democracy, each square which ordinarily produces at
+Under Augmented Technocracy, each square which ordinarily produces at
 least one unit of trade produces an extra unit.
 The science/tax/luxury rates may be set to any level
 desired.
 ^
 ^HINTS
-Democracies can produce spectacular amounts of revenue and
+Augmented Technocracies can produce spectacular amounts of revenue and
 scientific research.  However, because of the severe
 happiness restrictions on military units, this form of
 government tends to be viable only for large, advanced
