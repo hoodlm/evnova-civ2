@@ -2,7 +2,7 @@
 EV Nova for Civilization 2 (MGE)
 =======================================================================================================================
 
-Version: 0.3.2 Alpha (17 May 2025)
+Version: 0.3.8 Alpha (29 May 2025)
 
 NOTE: There may be a newer release of this scenario! Check the civfanatics download page and discussion thread:
 https://forums.civfanatics.com/resources/ev-nova-mge.32307
@@ -70,13 +70,22 @@ Combat:
 
 * Compared to a normal game of civ2, the military units in this scenario tend to be offense-sided. With some factions,
   in the early game you will have to play quite a bit of "active defense" and patrol and stop enemies at the edge of
-  your territory, at least until you get City Walls up!
+  your territory, at least until you get Planetary Defense (City Walls) up!
+* The endgame carrier units - Auroran/Federation/Pirate Carrier, Polaris Raven, Rebel IDA Frigate - are very strong
+  attack units and bypass the Planetary Defense bonus, but will need destroyer/cruiser escorts.
 * All of your military units are unlocked by your faction's unique techs. Prioritize these when planning your research
   progression.
 * The Nebula terrain is equivalent to Mountains, requiring extra movement to traverse and providing a defense bonus.
   No other terrain (including asteroids) requires movement or has a defense bonus.
 * There is no "ocean", and no Air/Sea units; all units are land units.
 * To move your ships to the frontlines more quickly, build Hypergates (Airports) in your city and airlift units.
+
+Governments:
+* Despotism is your starting government.
+* Astrofeudalism = Monarchy
+* Hypercapitalism = The Republic
+* AI Governance = Communism
+* Augmented Technocracy = Democracy
 
 Additional hints with spoilers at the end of this document.
 
@@ -91,24 +100,22 @@ UNITS:
   better downscaled and with civ2's color palette.
 
 CITY IMPROVEMENTS / WONDERS:
-* Almost all city improvements and wonders are still vanilla civ2 improvements. These need to be replaced with
-  thematically appropriate names and graphics, e.g. Outfitter instead of Barracks, Galaxy Racing Network instead of
-  Oracle...
+* Art is mostly finalized with a few rough placeholders, and may need some touch-ups.
 
 TECH ADVANCES:
-* Faction-specific tech trees are complete, pending further balance changes.
-* Common technology is mostly vanilla and should be replaced with thematically appropriate names.
-* The tech tree should probably be "pruned" further, pending further playtesting.
+* The tech tree includes both faction-specific trees and a 'general' tech tree. The tree's structure and theming
+  is mostly complete, but may change pending further playtesting.
+* The tech advance graphics have not been updated in most cases.
 
 OTHER GRAPHICS:
 * City icons are vanilla. (Industrial-era cities floating in space!)
 * Terrain is primarily placeholder graphics from the "Master of Orion" scenario from Civ2 MGE. Consider replacing with
-  civ2 assets, especially planets.
+  grpahics from Nova.
 * Fortification graphics (shield bubbles?)
+* People graphics in the cities
 * Use one of the promotional EVN renders for title art!
 
 MISCELLANEOUS:
-* More city (planet) names
 * Update LABELS.TXT as necessary to reflect theme and gameplay
 * Set starting year to align with EVN preamble timeline/lore.
 
@@ -124,12 +131,16 @@ SOUND:
 This is the general roadmap toward v1.0 release and "completion" of the scenario. Updates will include incremental
 balance updates and bugfixes too.
 
-* v0.3 - you are here! - initial alpha release to the CivFanatics community.
+Previous major releases:
+* v0.3 - initial alpha release to the CivFanatics community.
+
+You are here (somewhere between 0.3 and 0.4)
+
 * v0.4 - all city improvements, wonders, and tech advances renamed to be thematically-relevant, with placeholder
   or final graphics.
 * v0.5 - terrain, city icons, and other graphics are replaced.
 * v0.6 - remaining gameplay fixes
-* v0.8 - first "beta" release that is content-complete. Share with EV Nova community.
+* v0.8 - first "beta" release that is content-complete.
 * v1.0 - "final" release.
 
 
