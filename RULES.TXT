@@ -230,7 +230,7 @@ Solar Plant,              32, 4,    Bri,
 Harbor,                   6,  1,    Bri,
 Offshore Platform,        16, 3,    Bri,
 Hypergate,                10, 2,    Cmb, ; airport
-Bounty Hunter Guild,      6,  2,    Dem, ; police station
+Bounty Hunter Guild,      6,  2,    Rep, ; police station
 Port Facility,            8,  3,    Bri,
 SS Structural,            8,  0,    SFl,
 SS Component,             16, 0,    Pla,
