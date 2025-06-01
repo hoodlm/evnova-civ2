@@ -15,8 +15,8 @@
 ^Challenging: Rebellion, Association of Free Traders
 ^Not for human play: Wraith, Krypt
 ^
-^Each faction has a special tech tree and units.
-^The Polaris have stronger ships, but their technology can be stolen!
+^Each faction has a special tech tree and units, but technology can be traded
+^or stolen!
 ^
 ^^OBJECT
 ^You can win by military victory (conquer the galaxy) or by scientific victory
@@ -24,13 +24,13 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.3.8 of this scenario (built approx 29 May 2025).
+^You are playing Alpha v0.4.0 of this scenario (built approx 1 June 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
-^Please report balance issues and bugs! (See README.TXT)
+^Please report balance issues and bugs! (See _README.TXT)
 ^
 ^Credits:
 ^Scenario created by Logan Hood.
-^Unit sprites and some other assets are from EV Nova, created by ATMOS, Ambrosia,
-^and Matt Burch.
+^Unit sprites and other assets and concepts are from EV Nova,
+^created by ATMOS, Ambrosia, and Matt Burch.
 ^
 @end -- this line must be here!

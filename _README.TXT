@@ -2,7 +2,7 @@
 EV Nova for Civilization 2 (MGE)
 =======================================================================================================================
 
-Version: 0.3.8 Alpha (29 May 2025)
+Version: 0.4.0 Alpha (1 June 2025)
 
 NOTE: There may be a newer release of this scenario! Check the civfanatics download page and discussion thread:
 https://forums.civfanatics.com/resources/ev-nova-mge.32307
@@ -23,17 +23,17 @@ factions regained hyperspace technology. This scenario takes place during the ea
 900 NC, about 300 years before the events of EV Nova.)
 
 =======================================================================================================================
-II. Credits
-
-Unit sprites and some other assets are from EV Nova, created by ATMOS, Ambrosia, and Matt Burch.
+II. Credits and Acknowledgements
 
 This scenario is created by Logan Hood.
+
+Unit sprites and some other assets are from EV Nova, created by ATMOS, Ambrosia, and Matt Burch.
 
 =======================================================================================================================
 III. Factions
 
-Each faction has a unique "tech tree" and set of units. For your first playthrough, I recommend the Federation
-or the Aurorans. On later playthroughs, try the Polaris, Rebels, or the Association of Free Traders. Wraith/Krypt are
+Each faction has a unique tech tree and set of units. For your first playthrough, I recommend the Federation
+or the Aurorans. For more challenge, try the Polaris, Rebels, or the Association of Free Traders. Wraith & Krypt are
 alien factions not intended for human play.
 
 The Federation traces its roots back to the origin of humanity and is based on Earth in the Sol System. The Federation
@@ -60,9 +60,10 @@ IV. Gameplay hints (but not spoilers!)
 Cities:
 
 * The Pegasus freighter is your Settler unit. Or, if you play as the Polaris, the Sprite is equivalent to Engineers.
-* Most of the map is open space and does not have useful resource yield. Build your cities near planets and stars.
+* Make sure to settle cities near planets! Most of the map is open space and does not have useful resource yield.
+  Nebula provides some production and trade, but no food.
 * The only terrain improvement you can build are Hyperspace lanes (Roads).
-* Production city improvements (Factory, etc.) are cheaper and available earlier in the tech tree. (Pollution is
+* Production city improvements (Shipyard = Factory) are cheaper and available earlier in the tech tree. (Pollution is
   disabled, so don't worry about that!)
 * Leviathan/Cambrian are equivalent of Caravan/Freight for trading.
 
@@ -72,7 +73,8 @@ Combat:
   in the early game you will have to play quite a bit of "active defense" and patrol and stop enemies at the edge of
   your territory, at least until you get Planetary Defense (City Walls) up!
 * The endgame carrier units - Auroran/Federation/Pirate Carrier, Polaris Raven, Rebel IDA Frigate - are very strong
-  attack units and bypass the Planetary Defense bonus, but will need destroyer/cruiser escorts.
+  attack units and bypass the Planetary Defense (City Walls) bonus, but they're "glass cannons" and need
+  destroyer/cruiser escorts.
 * All of your military units are unlocked by your faction's unique techs. Prioritize these when planning your research
   progression.
 * The Nebula terrain is equivalent to Mountains, requiring extra movement to traverse and providing a defense bonus.
@@ -108,24 +110,21 @@ TECH ADVANCES:
 * The tech advance graphics have not been updated in most cases.
 
 OTHER GRAPHICS:
-* City icons are vanilla. (Industrial-era cities floating in space!)
-* Terrain is primarily placeholder graphics from the "Master of Orion" scenario from Civ2 MGE. Consider replacing with
-  grpahics from Nova.
-* Fortification graphics (shield bubbles?)
-* People graphics in the cities
-* Use one of the promotional EVN renders for title art!
-
-MISCELLANEOUS:
-* Update LABELS.TXT as necessary to reflect theme and gameplay
-* Set starting year to align with EVN preamble timeline/lore.
+* Still uses vanilla city icons are vanilla. (Industrial-era cities floating in space!)
+* Terrain primarily uses placeholder graphics from the "Master of Orion" scenario from Civ2 MGE.
+* Uses vanilla fortification graphics (replace with shield bubbles?)
+* Uses vanilla people graphics in the cities
 
 GAMEPLAY:
-* Continue to refine balance and pacing from playtesting.
-* Consider introducing terrain improvements (mines on planets, listening stations instead of forts, etc.)
+* Continue to refine balance and pacing from playtesting, especially AI interactions and diplomacy.
 * Consider per-faction win conditions (for example, the Rebellion wins by conquering the Federation capital).
 
 SOUND:
 * haven't touched anything yet, still uses civ2 sounds.
+
+MISCELLANEOUS:
+* Need to update LABELS.TXT as necessary to reflect theme and gameplay
+* Set starting year to align with EVN preamble timeline/lore.
 
 
 This is the general roadmap toward v1.0 release and "completion" of the scenario. Updates will include incremental
@@ -134,12 +133,10 @@ balance updates and bugfixes too.
 Previous major releases:
 * v0.3 - initial alpha release to the CivFanatics community.
 
-You are here (somewhere between 0.3 and 0.4)
-
+You are here:
 * v0.4 - all city improvements, wonders, and tech advances renamed to be thematically-relevant, with placeholder
   or final graphics.
 * v0.5 - terrain, city icons, and other graphics are replaced.
-* v0.6 - remaining gameplay fixes
 * v0.8 - first "beta" release that is content-complete.
 * v1.0 - "final" release.
 
@@ -174,8 +171,9 @@ How do I unlock the Zephyr?
 
 What is the purpose of the 'Kont' planet/terrain?
 
-- It is a 'shortcut' to unlocking Apollo Program - look for a special ringed planet (Kont) in the bottom right of the
-  map to trigger a special event.
+- Discovering Kont is a 'shortcut' to unlocking the Those Who Came Before advance, which enables the Ancient Hypergate
+  and Kont Expedition wonders (equivalent of Apollo Program and Darwin's Voyage). Look for the ringed planet (Kont)
+  in the bottom right of the map to trigger a special event.
 
 
 How do I unlock "The Creature That Lives In Deep Space"?

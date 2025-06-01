@@ -490,7 +490,6 @@ From the cheat menu:
 * Reveal world map
 * Edit Scn
 * -> wipe goody boxes
-* -> tech paradigm 5/10
 * -> set Scn Name 'EV Nova'
 * -> edit special rules, eliminate pollution
 
