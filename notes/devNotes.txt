@@ -509,7 +509,7 @@ Aurorans - 0
 
 Set attitudes...
 
-* Rebels -> Federation: 100
+* Rebels -> Federation: 100 (and vendetta)
 * Rebels -> Assoc: 50
 * Rebels -> Polaris: 13
 * Rebels -> Aurorans: 13
@@ -519,19 +519,19 @@ Set attitudes...
 * Assoc -> Aurorans: 50
 * Assoc -> Federation: 75
 
-* Federation -> Rebels: 100
-* Federation -> Aurorans: 100
-* Federation -> Polaris: 75
+* Federation -> Rebels: 100 (and vendetta)
+* Federation -> Aurorans: 100 (and vendetta)
+* Federation -> Polaris: 75 (and vendetta)
 * Federation -> Assoc: 75
 
 * Aurorans -> Rebels: 13
 * Aurorans -> Assoc: 50
-* Aurorans -> Federation: 100
-* Aurorans -> Polaris: 75
+* Aurorans -> Federation: 100 (and vendetta)
+* Aurorans -> Polaris: 75 (and vendetta)
 
 * Polaris -> Rebels: 13
-* Polaris -> Federation: 75
-* Polaris -> Aurorans: 75
+* Polaris -> Federation: 75 (and vendetta)
+* Polaris -> Aurorans: 75 (and vendetta)
 * Polaris -> Assoc: 50
 
 Per-civ setup. Give tech, setup cities, explore a bit around each civ's starting city/cities
@@ -623,6 +623,8 @@ size 2, 1 argosy
 
 ## Krypt
 
+Set govt to Fundamentalism
+
 ### Starting techs
 
 Alien tech
@@ -636,6 +638,8 @@ Korell - 2 krypt pod
 
 
 ## Wraith
+
+Set govt to Fundamentalism
 
 ### Starting techs
 
@@ -656,6 +660,7 @@ Spawn a couple hyperiods around, set their home city to NONE
 
 ### Starting techs
 
+Hyperspace Engines
 Macro-Organelles
 Bio-organic Lasers
 Writing

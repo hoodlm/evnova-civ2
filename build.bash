@@ -38,6 +38,8 @@ FILES="
     ICONS.GIF
     NOVA_SMALL.MP
     _README.TXT
+    post-setup.template.sav
+    pre-setup.template.sav
 "
 for FILE in $FILES; do
   install --preserve-timestamps --target-directory="$BUILDDIR/EVN" --verbose "$FILE"

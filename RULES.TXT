@@ -35,7 +35,7 @@
 3       ; Communism pays support for all units past this
 10      ; Fundamentalism pays support for all units past this
 0       ; Communism is equivalent of this palace distance.
-50      ; Fundamentalism loses this % of science
+99      ; Fundamentalism loses this % of science
 50      ; Percent shield penalty for production type change
 10      ; Max paradrop range
 75      ; Mass/Thrust paradigm (increasing slows spaceship time)
