@@ -146,3 +146,12 @@ Techs with wrong artwork:
 bugs:
 * Polaris are missing Hyperspace Engines as a starting tech
 * GLi-Tech (Sun Tzu) is missing from the tech tree
+
+
+2025-05-31 - fdf9d339805ba65fb7831d121106ffeb4db06cf6
+
+as Polaris
+
+* can't research tunneling organ (zephyr) for some reason. probably introduced a tech tree bug.
+* the various leader titles ("CEO Kuron") are silly. should just fix titles for all govts for each civ maybe.
+* AI governance (communism) nerfs holovids but you can avoid reseraching it since it's terminal. should stick it somewhere critical in the tech tree.
