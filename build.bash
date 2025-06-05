@@ -36,6 +36,7 @@ FILES="
     TERRAIN2.GIF
     UNITS.GIF
     ICONS.GIF
+    CITIES.GIF
     NOVA_SMALL.MP
     _README.TXT
     post-setup.template.sav
