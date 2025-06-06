@@ -88,106 +88,106 @@
 ; 3, 0 = ALIEN/EXOTIC
 ;
 @CIVILIZE
-Auroran Tradition,  4,-2,  RR,  nil,  1, 4    ; AFl <-- Auroran base tech
-Fusion Pulse Cannon,5, 1,  AFl,  nil, 1, 4     ; Alp
-Freighter Militia,  3,-2,  Alp,  Cur,  1, 4    ; Amp
-Deep Space Research,4, 1,  Uni, nil, 3, 3    ; Ast
-Railguns,           4,-1,  Amp,  Rob,  1, 4    ; Ato
-AI Markets,         6,-1,  Cor, Mat, 3, 1    ; Aut
-Interplanetary Currency,4, 1,  Cur, nil, 3, 1    ; Ban
-Bridge Building,    4, 0,  no,  no,  0, 4    ; Bri <-- DO NOT USE
-Planetary Shipyards,6,-1,  Ato,  Cmb,  1, 4    ; Bro
-Trader Relations,   5, 0,  nil, nil, 0, 2    ; Cer
-Chemistry,          5,-1,  no,  no,  1, 4    ; Che <-- spare
-Auroran Energy Wpns,4,-2,  X2, Bro,  1, 4    ; Chi
-Trading Regulation, 4, 1,  Cer, nil, 3, 1    ; CoL
-Tunneling Organ,      5,-1,  Mas,  U3,  2, 4    ; CA 
-Hypergates,         5,-1,  Rob,  Cmn,  3, 3    ; Cmb <-- Allows airlifts
-AI Governance,      5, 0,  Mat,  Uni,  2, 2    ; Cmn
-Autonomous Sci. Methods,4, 1,  ToG, Aut,  2, 3    ; Cmp
-Conscription,       7,-1,  no,  no,  2, 0    ; Csc <-- SPARE
-Construction,       4, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
-Cryptoeconomics,    4, 0,  Eco, nil, 3, 1    ; Cor
-Interplanetary Commerce,4, 1,  Pot, nil, 3, 1    ; Cur
-Augmented Technocracy,5, 1,  Phi, Uni, 2, 2    ; Dem
-Plasmic Mineralization,4, 1,  Uni, Ban, 2, 1    ; Eco
-Electricity,        4, 0,  no,  no,  2, 4    ; E1 <-- spare
-Pyroclastic Metallurgy,4, 1,  Inv, nil, 2, 1    ; E2
-Engineering,        4, 0,  no, no, 1, 0    ; Eng <-- spare
-Environmentalism,   3, 1,  no, no, 3, 2    ; Env <-- spare
-Espionage,          2,-1,  no,  no,  3, 0    ; Esp <-- DO NOT USE
-Explosives,         5, 0,  no,  no,  2, 4    ; Exp <-- DO NOT USE
-Krypt Tech,          4,-1,  RR,  no,  3, 0    ; Feu <-- Krypt base tech
-Illicit Ship Mods,  4,-1,  Ban, Inv,  1, 3    ; Fli
-Fundamentalism,     3,-2,  no,   no,  2, 2    ; Fun  <-- DO NOT USE
-Quantalinearization,3, 0,  Sup,  nil, 3, 3    ; FP
-Planetary Bioengineering,3, 2,  Cmp, nil, 3, 3    ; Gen
-Guerrilla Warfare,  4, 1,  no,  no,  3, 0    ; Gue   <-- DO NOT USE
-Alien Tech,          8,-2,  RR,  no,  3, 0    ; Gun   <-- Prevent krypt/wraith from building ships
-Aftermarket Engines,4,-1,  Fli,  Cur,  1, 3    ; Hor
-Spaceship Manufacturing,6, 0,  nil, nil, 2, 1    ; Ind
-Space Elevators,    6, 0,  Ind, CoL, 2, 1    ; Inv
-Weapons Smuggling,  5,-1,  Hor, Cur,  1, 3    ; Iro
-Adv. Embezzlement,  4,-1,  Iro, Eco,  1, 3    ; Lab
-Corporate Crime,    4, 0,  Lab, Cor,   1, 3    ; Las
-Leadership,         5,-1,  no,  no,   2, 4    ; Ldr <-- Spare
-Bio-organic Lasers, 5, 2,  Too,  nil,  2, 4    ; Lit
-Macro-organelles,    4,-2,  RR, nil,  2, 4    ; Too
-Nil'kemorya,         4,-1,  Lit,  Mys,  2, 4    ; Mag
-Interstellar Navigation,6,-1,  nil, nil, 2, 1    ; Map
-Etheric Wake Engine,4, 1,  Mag,  Uni,  2, 4    ; Mas
-Mass Production,    5, 0,  no, no, 3, 4    ; MP <-- spare
-Artificial Intelligence,4,-1,  Phi, Wri, 2, 3    ; Mat
-Brewing,            4, 0,  Cur, nil, 0, 2    ; Med
-Capacitor Pulse Laser,6,-2,  Mas,  Ast,  2, 4    ; Met
-Organic Nuc. Fusion,    4, 1,  Met,  ToG,   2, 4    ; Min
-Wraith Tech,        8,-1,  RR, no, 3, 0    ; Mob <-- Wraith base tech
-Astrofeudalism,     5, 1,  Pot, CoL, 2, 2    ; Mon
-Interplanetary Networks,5, 1,  nil, Mys,  0, 2   ; MT
-FTL Transmission,   4, 0,  CoL, nil, 0, 2    ; Mys
-Polaron Torpedos,   6,-1,  Min,  E2,  2, 4    ; Nav
-Advanced Espionage,    6,-2,  X7,  The,   0, 4    ; NF
-Nuclear Power,      3, 0,  no,  no,  3, 3    ; NP <-- spare
-Technophilosophy,   6, 1,  Rep, Mon, 2, 2    ; Phi
-Etheric Induction,  4,-1,  Nav, Gen,  2, 4    ; Phy
-Antimatter Containment,4, 1,  Ast, SFl, 3, 3    ; Pla
-Hyperspace Engines, 4, 0,  RR,  nil,  3, 3    ; Plu  <-- give to all human civs to block alien tech
-Rebellion,         4, 0,  RR,  nil,  3, 4    ; PT <-- Rebel base tech
-Xenobiology,       4, 1,  nil, nil, 0, 2    ; Pot
-Radio,              5,-1,  no,  no,   3, 4    ; Rad <-- DO NOT USE
-TwiceRemoved,       6, 0,  no, no,   2, 1    ; RR  <-- DO NOT USE
-Recycling,          2, 1,  no, no,  3, 2    ; Rec <-- Spare
-Refining,           4, 0,  no, no, 2, 4    ; Ref <-- spare
-Refrigeration,      3, 1,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
-Hypercapitalism,    5, 1,  Cur, nil, 2, 2    ; Rep
-Robotic Manufacturing,5,-2,  E2,  nil, 2, 1    ; Rob
-Rebel Ship Mods,    6,-2,  PT,  nil,   3, 4    ; Roc
-Sanitation,         4, 2,  no, no, 2, 1    ; San <-- spare
-Seafaring,          4, 1,  no, no, 0, 1    ; Sea <-- spare
-Metastructural Materials,4, 1,  Rob, Cmp, 3, 3    ; SFl
-Rebel Engine Mods,  3,-2,  Roc,  Ind,  3, 4    ; Sth
-Industr. Espionage, 4,-1,  Sth,  Mys,  3, 4    ; SE
-Federation Defectors, 4,-1,  SE,   The,  3, 4    ; Stl
-Intergalactic Spaceflight,4, 1,  Pla, Dem, 3, 3    ; Sup
-Backchannel Diplomacy, 6,-1,  Stl,  PT,  3, 4    ; Tac
-Post-Agnosticism,   3, 2,  MT,  Phi, 0, 2    ; The
-AI Educators,       4, 0,  Ast, Mat, 2, 3    ; ToG
-Space Freight,      4, 2,  nil, nil, 3, 1    ; Tra
-University,         5, 1,  Mon, Rep, 0, 3    ; Uni
-Static Energy Weapons, 4,-1,  nil, nil, 0, 0    ; War
-Federation Constitution, 4,-1,  RR, nil,  0, 4    ; Whe <-- Federation base tech
-Cloud Computing,    4, 2,  nil, nil, 0, 3    ; Wri
-Future Technology,  1, 0,  FP, Gen, 3, 3    ; ...
-Those Who Came Before,    3, 0,  Cmb,  Sup,  3, 0    ; U1 <-- also unlockable with event
+Auroran Tradition,        1, 0,  RR,  nil,  1, 4    ; AFl <-- Auroran base tech
+Fusion Pulse Cannon,      1, 0,  AFl,  nil, 1, 4     ; Alp
+Freighter Militia,        1, 0,  Alp,  Cur,  1, 4    ; Amp
+Deep Space Research,      1, 0,  Uni, nil, 3, 3    ; Ast
+Railguns,                 1, 0,  Amp,  Rob,  1, 4    ; Ato
+AI Markets,               1, 0,  Cor, Mat, 3, 1    ; Aut
+Interplanetary Currency,  1, 0,  Cur, nil, 3, 1    ; Ban
+Bridge Building,          1, 0,  no,  no,  0, 4    ; Bri <-- DO NOT USE
+Planetary Shipyards,      1, 0,  Ato,  Cmb,  1, 4    ; Bro
+Trader Relations,         1, 0,  nil, nil, 0, 2    ; Cer
+Chemistry,                1, 0,  no,  no,  1, 4    ; Che <-- spare
+Auroran Energy Wpns,      1, 0,  X2, Bro,  1, 4    ; Chi
+Trading Regulation,       1, 0,  Cer, nil, 3, 1    ; CoL
+Tunneling Organ,          1, 0,  Mas,  U3,  2, 4    ; CA 
+Hypergates,               1, 0,  Rob,  Cmn,  3, 3    ; Cmb <-- Allows airlifts
+AI Governance,            1, 0,  Mat,  Uni,  2, 2    ; Cmn
+Autonomous Sci. Methods,  1, 0,  ToG, Aut,  2, 3    ; Cmp
+Conscription,             1, 0,  no,  no,  2, 0    ; Csc <-- SPARE
+Construction,             1, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
+Cryptoeconomics,          1, 0,  Eco, nil, 3, 1    ; Cor
+Interplanetary Commerce,  1, 0,  Pot, nil, 3, 1    ; Cur
+Augmented Technocracy,    1, 0,  Phi, Uni, 2, 2    ; Dem
+Plasmic Mineralization,   1, 0,  Uni, Ban, 2, 1    ; Eco
+Electricity,              1, 0,  no,  no,  2, 4    ; E1 <-- spare
+Pyroclastic Metallurgy,   1, 0,  Inv, nil, 2, 1    ; E2
+Engineering,              1, 0,  no, no, 1, 0    ; Eng <-- spare
+Environmentalism,         1, 0,  no, no, 3, 2    ; Env <-- spare
+Espionage,                1, 0,  no,  no,  3, 0    ; Esp <-- DO NOT USE
+Explosives,               1, 0,  no,  no,  2, 4    ; Exp <-- DO NOT USE
+Krypt Tech,               1, 0,  RR,  no,  3, 0    ; Feu <-- Krypt base tech
+Illicit Ship Mods,        1, 0,  Ban, Inv,  1, 3    ; Fli
+Fundamentalism,           1, 0,  no,   no,  2, 2    ; Fun  <-- DO NOT USE
+Quantalinearization,      1, 0,  Sup,  nil, 3, 3    ; FP
+Planetary Bioengineering, 1, 0,  Cmp, nil, 3, 3    ; Gen
+Guerrilla Warfare,        1, 0,  no,  no,  3, 0    ; Gue   <-- DO NOT USE
+Alien Tech,               1, 0,  RR,  no,  3, 0    ; Gun   <-- Prevent krypt/wraith from building ships
+Aftermarket Engines,      1, 0,  Fli,  Cur,  1, 3    ; Hor
+Spaceship Manufacturing,  1, 0,  nil, nil, 2, 1    ; Ind
+Space Elevators,          1, 0,  Ind, CoL, 2, 1    ; Inv
+Weapons Smuggling,        1, 0,  Hor, Cur,  1, 3    ; Iro
+Adv. Embezzlement,        1, 0,  Iro, Eco,  1, 3    ; Lab
+Corporate Crime,          1, 0,  Lab, Cor,   1, 3    ; Las
+Leadership,               1, 0,  no,  no,   2, 4    ; Ldr <-- Spare
+Bio-organic Lasers,       1, 0,  Too,  nil,  2, 4    ; Lit
+Macro-organelles,         1, 0,  RR, nil,  2, 4    ; Too
+Nil'kemorya,              1, 0,  Lit,  Mys,  2, 4    ; Mag
+Interstellar Navigation,  1, 0,  nil, nil, 2, 1    ; Map
+Etheric Wake Engine,      1, 0,  Mag,  Uni,  2, 4    ; Mas
+Mass Production,          1, 0,  no, no, 3, 4    ; MP <-- spare
+Artificial Intelligence,  1, 0,  Phi, Wri, 2, 3    ; Mat
+Brewing,                  1, 0,  Cur, nil, 0, 2    ; Med
+Capacitor Pulse Laser,    1, 0,  Mas,  Ast,  2, 4    ; Met
+Organic Nuc. Fusion,      1, 0,  Met,  ToG,   2, 4    ; Min
+Wraith Tech,              1, 0,  RR, no, 3, 0    ; Mob <-- Wraith base tech
+Astrofeudalism,           1, 0,  Pot, CoL, 2, 2    ; Mon
+Interplanetary Networks,  1, 0,  nil, Mys,  0, 2   ; MT
+FTL Transmission,         1, 0,  CoL, nil, 0, 2    ; Mys
+Polaron Torpedos,         1, 0,  Min,  E2,  2, 4    ; Nav
+Advanced Espionage,       1, 0,  X7,  The,   0, 4    ; NF
+Nuclear Power,            1, 0,  no,  no,  3, 3    ; NP <-- spare
+Technophilosophy,         1, 0,  Rep, Mon, 2, 2    ; Phi
+Etheric Induction,        1, 0,  Nav, Gen,  2, 4    ; Phy
+Antimatter Containment,   1, 0,  Ast, SFl, 3, 3    ; Pla
+Hyperspace Engines,       1, 0,  RR,  nil,  3, 3    ; Plu  <-- give to all human civs to block alien tech
+Rebellion,                1, 0,  RR,  nil,  3, 4    ; PT <-- Rebel base tech
+Xenobiology,              1, 0,  nil, nil, 0, 2    ; Pot
+Radio,                    1, 0,  no,  no,   3, 4    ; Rad <-- DO NOT USE
+TwiceRemoved,             1, 0,  no, no,   2, 1    ; RR  <-- DO NOT USE
+Recycling,                1, 0,  no, no,  3, 2    ; Rec <-- Spare
+Refining,                 1, 0,  no, no, 2, 4    ; Ref <-- spare
+Refrigeration,            1, 0,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
+Hypercapitalism,          1, 0,  Cur, nil, 2, 2    ; Rep
+Robotic Manufacturing,    1, 0,  E2,  nil, 2, 1    ; Rob
+Rebel Ship Mods,          1, 0,  PT,  nil,   3, 4    ; Roc
+Sanitation,               1, 0,  no, no, 2, 1    ; San <-- spare
+Seafaring,                1, 0,  no, no, 0, 1    ; Sea <-- spare
+Metastructural Materials, 1, 0,  Rob, Cmp, 3, 3    ; SFl
+Rebel Engine Mods,        1, 0,  Roc,  Ind,  3, 4    ; Sth
+Industr. Espionage,       1, 0,  Sth,  Mys,  3, 4    ; SE
+Federation Defectors,     1, 0,  SE,   The,  3, 4    ; Stl
+Intergalactic Spaceflight,1, 0,  Pla, Dem, 3, 3    ; Sup
+Backchannel Diplomacy,    1, 0,  Stl,  PT,  3, 4    ; Tac
+Post-Agnosticism,         1, 0,  MT,  Phi, 0, 2    ; The
+AI Educators,             1, 0,  Ast, Mat, 2, 3    ; ToG
+Space Freight,            1, 0,  nil, nil, 3, 1    ; Tra
+University,               1, 0,  Mon, Rep, 0, 3    ; Uni
+Static Energy Weapons,    1, 0,  nil, nil, 0, 0    ; War
+Federation Constitution,  1, 0,  RR, nil,  0, 4    ; Whe <-- Federation base tech
+Cloud Computing,          1, 0,  nil, nil, 0, 3    ; Wri
+Future Technology,        1, 0,  FP, Gen, 3, 3    ; ...
+Those Who Came Before,    1, 0,  Cmb,  Sup,  3, 0    ; U1 <-- also unlockable with event
 The Creature That Lives In Deep Space,    3, 0,  no, no,  0, 0    ; U2 <-- Spare
-Wraith Biology,    3, 0, Mob, nil,  3, 0    ; U3 <-- Unlocked with event 
-Telepath Awareness,    3, 0, RR, nil,  3, 0    ; X1 <-- unlocked with event
-Telepath Indoctrination,    3, 0, X1, CoL,  3, 0    ; X2
-Telepath Enslavement,    3, 0, X2, The,  3, 0    ; X3
-Missile Weapons,    3, 0,  Whe,  Rep,  0, 4    ; X4
-Shipbuilding Contracts,    3, 0,  X4,  Cur,  0, 4    ; X5
-Hvy Energy Weapons,    3, 0,  X5,  E2,  0, 4    ; X6
-Hvy Turret Platforms,    3, 0,  X6,  Ast,  0, 4    ; X7
+Wraith Biology,           1, 0, Mob, nil,  3, 0    ; U3 <-- Unlocked with event 
+Telepath Awareness,       1, 0, RR, nil,  3, 0    ; X1 <-- unlocked with event
+Telepath Indoctrination,  1, 0, X1, CoL,  3, 0    ; X2
+Telepath Enslavement,     1, 0, X2, The,  3, 0    ; X3
+Missile Weapons,          1, 0,  Whe,  Rep,  0, 4    ; X4
+Shipbuilding Contracts,   1, 0,  X4,  Cur,  0, 4    ; X5
+Hvy Energy Weapons,       1, 0,  X5,  E2,  0, 4    ; X6
+Hvy Turret Platforms,     1, 0,  X6,  Ast,  0, 4    ; X7
 
 ;
 ; Above 11 tech slots (U1 to X8) allow you to define your own 
