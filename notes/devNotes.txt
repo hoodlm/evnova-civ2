@@ -694,3 +694,15 @@ Finally save as 'post-setup-template.sav'
 Save scenario
 
 Make sure to git-commit both template.savs and the scn file!
+
+
+### 2025-06-05 - Tech value weighting
+
+
+Starting with the civ specific trees. Everyone's base tech is worth 4, then +1 for each after that.
+For example for aurorans:
+
+Auroran Tradition = 4
+Fusion Pulse Cannons = 5
+...
+
