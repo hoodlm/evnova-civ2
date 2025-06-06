@@ -588,22 +588,22 @@ Atawallpa,  ...,     0, 1, Incas,       Inca,       -1,  1,  1,
 ;   Trading Commodities
 ;
 @CARAVAN
-Hides,
-Wool,
-Beads,
-Cloth,
-Salt,
-Coal,
-Copper,
-Dye,
-Wine,
-Silk,
-Silver,
-Spice,
-Gems,
-Gold,
-Oil,
-Uranium,
+Metal,
+Industrial,
+Xtreem Rocket Boards,
+Equipment,
+Luxury Goods,
+Medical Supplies,
+Duranium Alloy,
+Ice-cat Pelts,
+Krim-Hwa Holy Symbols,
+Monkdillo Shells,
+Opals,
+Seafood Delicacies,
+Stuffed Knup-Knups,
+Vrenna Ice Lizard Pelts,
+Water,
+Bio-weapons,
 
 
 @ORDERS
@@ -611,7 +611,7 @@ Fortify,            F
 Fortified,          F
 Sleep,              S
 Build Fortress,     F
-Build Road,         R
+Build Hyperspace Lane, R
 Build Irrigation,   I
 Build Mine,         m
 Transform,          O
@@ -621,12 +621,12 @@ Go to,              G
 
 
 @DIFFICULTY
-Chieftain
-Warlord
-Prince
-King
-Emperor
-Deity
+Little Ability
+Fair Ability
+Competent
+Worthy of Note
+Dangerous
+Frightening
 
 @ATTITUDES
 Worshipful
