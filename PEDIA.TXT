@@ -121,7 +121,7 @@ Ships in city are tripled on defense.
 
 @;Aqueduct
 @PEDIAIMPROVE9
-Allows city to increase beyond size 10.
+Allows city to increase beyond size 6.
 
 @;Bank
 @PEDIAIMPROVE10

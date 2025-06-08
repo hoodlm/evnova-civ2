@@ -155,3 +155,12 @@ as Polaris
 * can't research tunneling organ (zephyr) for some reason. probably introduced a tech tree bug.
 * the various leader titles ("CEO Kuron") are silly. should just fix titles for all govts for each civ maybe.
 * AI governance (communism) nerfs holovids but you can avoid reseraching it since it's terminal. should stick it somewhere critical in the tech tree.
+
+
+2025-06-05 - 0f9f15b904cba4f75eb0300caaa96e71f3e86977
+
+As Assoc
+
+* Pirate tech tree is pretty hard to ramp up as Assoc. Consider giving them some extra NONE pir starbridges at the start or something to balance?
+* Graphics TODO: Roads, City wall visual indicator on cities
+* Arcology isn't necessary because most city locations can't even scale up to 10. Make it size 6 maybe.

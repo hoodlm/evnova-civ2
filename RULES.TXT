@@ -27,7 +27,7 @@
 2       ; Settlers eat (govt >= Communism)
 7       ; City size for first unhappiness at Chieftain level
 14      ; Riot factor based on # cities (higher factor lessens the effect)
-10      ; Aqueduct needed to exceed this size
+6       ; Aqueduct needed to exceed this size
 99      ; Sewer System needed to exceed this size
 10      ; Tech paradigm (higher # slows research)
 20      ; Base time for engineers to transform terrain (x2)
