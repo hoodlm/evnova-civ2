@@ -24,7 +24,7 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.4.0 of this scenario (built approx 1 June 2025).
+^You are playing Alpha v0.4.1 of this scenario (built approx 14 June 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
 ^Please report balance issues and bugs! (See _README.TXT)
 ^

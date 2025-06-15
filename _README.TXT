@@ -2,13 +2,11 @@
 EV Nova for Civilization 2 (MGE)
 =======================================================================================================================
 
-Version: 0.4.0 Alpha (1 June 2025)
+Version: 0.4.1 Alpha (14 June 2025)
 
 NOTE: There may be a newer release of this scenario! Check the civfanatics download page and discussion thread:
 https://forums.civfanatics.com/resources/ev-nova-mge.32307
 https://forums.civfanatics.com/threads/ev-nova-new-sci-fi-scenario-mge.698045
-
-Graphic
 
 =======================================================================================================================
 I. About
@@ -105,12 +103,11 @@ CITY IMPROVEMENTS / WONDERS:
 * Art is mostly finalized with a few rough placeholders, and may need some touch-ups.
 
 TECH ADVANCES:
-* The tech tree includes both faction-specific trees and a 'general' tech tree. The tree's structure and theming
-  is mostly complete, but may change pending further playtesting.
-* The tech advance graphics have not been updated in most cases.
+* Currently the tech tree is organized with faction-specific tech trees as well as a 'general' tree. Unfortunately
+  the AI trades tech and goes "wide" across all the trees instead of "deep" in their own tree. Prior to the beta
+  release, I'm planning a tech-tree rework to use a single tech tree, with "Not [Faction]" techs to force unique units.
 
 OTHER GRAPHICS:
-* Still uses vanilla city icons are vanilla. (Industrial-era cities floating in space!)
 * Terrain primarily uses placeholder graphics from the "Master of Orion" scenario from Civ2 MGE.
 * Uses vanilla fortification graphics (replace with shield bubbles?)
 * Uses vanilla people graphics in the cities
@@ -132,11 +129,13 @@ balance updates and bugfixes too.
 
 Previous major releases:
 * v0.3 - initial alpha release to the CivFanatics community.
-
-You are here:
 * v0.4 - all city improvements, wonders, and tech advances renamed to be thematically-relevant, with placeholder
   or final graphics.
-* v0.5 - terrain, city icons, and other graphics are replaced.
+
+You are here:
+* v0.4.1 - city icons and road graphics are replaced, some flavor text updated.
+
+Future releases:
 * v0.8 - first "beta" release that is content-complete.
 * v1.0 - "final" release.
 
