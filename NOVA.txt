@@ -24,13 +24,13 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.4.1 of this scenario (built approx 14 June 2025).
+^You are playing Alpha v0.5 of this scenario (built approx 7 Aug 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
 ^Please report balance issues and bugs! (See _README.TXT)
 ^
 ^Credits:
 ^Scenario created by Logan Hood.
-^Unit sprites and other assets and concepts are from EV Nova,
+^Unit sprites and other assets and concepts adapted from EV Nova,
 ^created by ATMOS, Ambrosia, and Matt Burch.
 ^
 @end -- this line must be here!

@@ -2,7 +2,7 @@
 EV Nova for Civilization 2 (MGE)
 =======================================================================================================================
 
-Version: 0.4.1 Alpha (14 June 2025)
+Version: 0.5.0 Alpha (7 August 2025)
 
 NOTE: There may be a newer release of this scenario! Check the civfanatics download page and discussion thread:
 https://forums.civfanatics.com/resources/ev-nova-mge.32307
@@ -25,7 +25,8 @@ II. Credits and Acknowledgements
 
 This scenario is created by Logan Hood.
 
-Unit sprites and some other assets are from EV Nova, created by ATMOS, Ambrosia, and Matt Burch.
+The overall concept, as well as unit sprites and some other assets, are based on assets and content from EV Nova,
+created by ATMOS, Ambrosia, and Matt Burch.
 
 =======================================================================================================================
 III. Factions
@@ -81,6 +82,7 @@ Combat:
 * To move your ships to the frontlines more quickly, build Hypergates (Airports) in your city and airlift units.
 
 Governments:
+
 * Despotism is your starting government.
 * Astrofeudalism = Monarchy
 * Hypercapitalism = The Republic
@@ -96,8 +98,7 @@ This is an alpha release. It is playable - and hopefully fun! - but some parts a
 
 UNITS:
 * The set of units in the game are complete; I don't plan to add any additional units.
-* The unit sprites are mostly naively downscaled from EV Nova's shipyard graphics. Some need more touch-up to look
-  better downscaled and with civ2's color palette.
+* The unit sprites have been improved quite a bit in v0.5. I may still do touch-ups but they're mostly complete.
 
 CITY IMPROVEMENTS / WONDERS:
 * Art is mostly finalized with a few rough placeholders, and may need some touch-ups.
@@ -108,7 +109,7 @@ TECH ADVANCES:
   release, I'm planning a tech-tree rework to use a single tech tree, with "Not [Faction]" techs to force unique units.
 
 OTHER GRAPHICS:
-* Terrain primarily uses placeholder graphics from the "Master of Orion" scenario from Civ2 MGE.
+* Terrain primarily uses assets taken from the "Master of Orion" scenario from Civ2 MGE.
 * Uses vanilla fortification graphics (replace with shield bubbles?)
 * Uses vanilla people graphics in the cities
 
@@ -131,9 +132,10 @@ Previous major releases:
 * v0.3 - initial alpha release to the CivFanatics community.
 * v0.4 - all city improvements, wonders, and tech advances renamed to be thematically-relevant, with placeholder
   or final graphics.
+* v0.4.1 - city icons and road graphics are replaced, some flavor text updated.
 
 You are here:
-* v0.4.1 - city icons and road graphics are replaced, some flavor text updated.
+* v0.5 - much better-looking unit sprites.
 
 Future releases:
 * v0.8 - first "beta" release that is content-complete.
@@ -156,14 +158,14 @@ How do I unlock the telepath tech tree to get Vell-os ships (Dart/Javelin)?
   Krypt are the teal civilization in the far west of the map.
 
 
-How do I unlock the Thunderforge?
+How do I unlock the Auroran Thunderforge?
 
 - You need the Auroran tech "Planetary Shipyards", and trigger the Krypt event as described above.
 
 
-How do I unlock the Zephyr?
+How do I unlock the Polaris Zephyr?
 
-- The Zephyr is a unique Polaris gunship that "tunnel" (paradropping) to hyperjump a very large distance to attack
+- The Zephyr is a unique Polaris gunship that can "tunnel" (paradropping) to hyperjump a very large distance to attack
   behind enemy lines. You need the Polaris tech "Etheric Wake Engine", and win combat against the Wraith to unlock the
   Wraith Biology tech. The Wraith are the orange civilization in the north of the map.
 
