@@ -1,0 +1,21 @@
+For the next 'major' release v0.7 the tech tree will be completely reworked.
+
+From the beginning until v0.6 there have been per-civ tech trees but this suffers from the usual pitfalls,
+that civs will gladly trade away their unique techs and techs can be stolen/captured from other civ's cities.
+The mod loses its flavor when every civ in the game is using Rebel IDA Frigates instead of their "correct" tech!
+
+Instead I will follow the pattern of using unit obsolesence to do per-civ technologies.
+
+Each civ's units will be made obsolete by a "NotX" technology. For example the Polaris Manta is made obsolete
+by a tech called "Not Polaris". Not Polaris cannot be researched/traded by anyone (it will be a "no-no" tech, i.e.
+no in both prerequisite slots). Every civ in the game EXCEPT the Polaris start with this tech.
+
+The plan:
+
+* Remove all per-civ technologies
+* Add some more military-themed advances to the technology trees
+* Assign units to the existing tech tree to reintroduce them to the game
+* Set up the "Not X" technologies as making units obsolete
+* Rebuild the base scenario file
+* Update tech advance graphics where applicable
+* Lots and lots of playtesting!!!
