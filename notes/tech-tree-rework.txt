@@ -14,8 +14,60 @@ The plan:
 
 * Remove all per-civ technologies
 * Add some more military-themed advances to the technology trees
-* Assign units to the existing tech tree to reintroduce them to the game
+* Assign units to the existing tech tree to reintroduce them to the game <-- you are here
 * Set up the "Not X" technologies as making units obsolete
 * Rebuild the base scenario file
 * Update tech advance graphics where applicable
 * Lots and lots of playtesting!!!
+
+---
+
+New military techs
+
+* Modular Weapon Platforms - prereq spaceship manufacturing [also allows Outfitter]
+* Fleet tactics - prereqs interplanetary commerce, mod. wpn. platforms
+* Capital ships - prereqs Robotic Manufacturing and fleet tactics
+* Carriers - prereqs Capital ships, Antimatter Containment
+
+Other tech tree changes:
+* Quantalinearization requires Planetary Bioeng
+
+TIER 1
+
+Pir Starbridge      Modular Weapon Platforms  [Iro]
+Manta               Astrofeudalism            [Mon]
+Reb Starbridge      Modular Weapon Platforms
+Argosy              Modular Weapon Platforms
+F. Anaconda         Modular Weapon Platforms
+
+TIER 2
+F. Patrol Boat      Fleet Tactics [Lab]
+Pir Valkyrie        Fleet Tactics
+Striker             Technophilosophy [Phi]
+Rebel Valkyrie      Fleet Tactics
+Abomination         Fleet Tactics
+Enterprise          Hypercapitalism [Rep]
+Pir Enterprise      Hypercapitalism
+
+TIER 2.5
+R. IDA Frigate      Cryptoeconomics [Cor]
+
+TIER 3
+Arachnid            Capital Ships [Las]
+Pir Manticore       Capital Ships
+Pol. Dragon         Deep Space Research [Ast]
+Rebel Dragon        Deep Space Research
+Aur. Cruiser        Capital Ships
+Fed. Destroyer      Capital Ships
+Scarab              Metastructural Materials [Sfl]
+Reb. Destroyer      Capital Ships
+
+TIER 4
+Thunderforge        Antimatter Containment [Pla]
+F.RAGE Gunboat      Autonomous Sci. Methods [Cmp]
+Aur. Carrier        Carriers [Ldr]
+Fed. Carrier        Carriers
+Pirate Carrier      Carriers
+Raven               Quantalinearization [FP]
+
+
