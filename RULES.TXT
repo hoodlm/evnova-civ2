@@ -123,23 +123,23 @@ Fundamentalism,           1, 0,  no,   no,  2, 2    ; Fun  <-- DO NOT USE
 Quantalinearization,      8, 1,  Sup, Gen, 3, 3    ; FP
 Planetary Bioengineering, 6, 1,  Cmp, nil, 3, 3    ; Gen
 Guerrilla Warfare,        1, 0,  no,  no,  3, 0    ; Gue   <-- DO NOT USE
-Block Starbridge,         1, 0,  no,  no,  3, 0    ; Gun   <-- Obsoletes starbridge (krypt/wraith)
-Block Dart Javelin,       4,-1,  no,  no,  1, 3    ; Hor <-- Obsoletes dart and javelin (krypt/wraith)
+Block Starbridge,         1, 0,  nil, nil,  3, 0    ; Gun   <-- Obsoletes starbridge (krypt/wraith)
+Block Dart Javelin,       4,-1,  nil, nil,  1, 3    ; Hor <-- Obsoletes dart and javelin (krypt/wraith)
 Spaceship Manufacturing,  1, 0,  nil, nil, 2, 1    ; Ind
 Space Elevators,          2, 0,  Ind, CoL, 2, 1    ; Inv
 Modular Weapon Platforms, 5,-2,  Ind, nil,  1, 3    ; Iro
 Fleet Tactics,            6,-2,  Iro, Cur,  1, 3    ; Lab
 Capital Ships,            7,-2,  Rob, Lab,  1, 3    ; Las
 Carriers,                 8,-2,  Las, Pla,   2, 4    ; Ldr
-Not Federation,           5,-1,  no,  no,  2, 4    ; Lit <-- Obsoletes Federation ships
-Not Auroran,              4, 0,  no,  no,  2, 4    ; Too <-- Obsoletes Auroran ships
-Not Polaris,              6,-1,  no,  no,  2, 4    ; Mag <-- Obsoletes Polaris ships
+Not Federation,           5,-1,  nil, nil,  2, 4    ; Lit <-- Obsoletes Federation ships
+Not Auroran,              4, 0,  nil, nil,  2, 4    ; Too <-- Obsoletes Auroran ships
+Not Polaris,              6,-1,  nil, nil,  2, 4    ; Mag <-- Obsoletes Polaris ships
 Interstellar Navigation,  1, 0,  nil, nil, 2, 1    ; Map
-Not Pirate,               7,-1,  no,  no,  2, 4    ; Mas <-- Obsoletes Pirate/Assoc ships
-Not Rebellion,            1, 0,  no,  no,  3, 4    ; MP <-- Obsoletes Rebel ships
+Not Pirate,               7,-1,  nil, nil,  2, 4    ; Mas <-- Obsoletes Pirate/Assoc ships
+Not Rebellion,            1, 0,  nil, nil,  3, 4    ; MP <-- Obsoletes Rebel ships
 Artificial Intelligence,  3, 0,  Phi, Wri, 2, 3    ; Mat
 Brewing,                  3, 0,  Cur, nil, 0, 2    ; Med
-Block Pegasus Leviathan,  8, 0,  no,  no,  2, 4    ; Met <-- Obsoletes pegasus/leviathan (polaris, wraith, krypt)
+Block Pegasus Leviathan,  8, 0,  nil, nil,  2, 4    ; Met <-- Obsoletes pegasus/leviathan (polaris, wraith, krypt)
 Miniaturization,          8, 0,  no,  no,   2, 4    ; Min <-- spare
 Wraith Tech,              1, 0,  RR, no, 3, 0    ; Mob <-- Wraith base tech
 Astrofeudalism,           3,-1,  Pot, CoL, 2, 2    ; Mon
