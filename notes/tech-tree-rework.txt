@@ -73,4 +73,60 @@ Fed. Carrier        Carriers
 Pirate Carrier      Carriers
 Raven               Quantalinearization [FP]
 
+---
 
+## PRE-PLAYTEST SMOKE TESTS:
+
+Civilopedia checklist:
+
+* [X] No 'BlockX' or 'NotY' techs appear in civilopedia
+* All units appear in civilopedia:
+  [X] 6 auroran units
+  [X] 5 pirate units
+  [X] 5 federation units
+  [X] 5 rebel units
+  [X] 9 polaris units
+  [X] Dart, Javelin
+  [X] Starbridge, Pegasus, Leviathan
+  [X] Krypt pod
+  [X] Wraith, Hyperioid
+
+As each civ:
+
+Human civs should be able to mkae Outfitter, Datacenter, or Shipyard city improvements
+
+Polaris - should only be able to make starbridge, cambrian, and sprite at beginning of the game
+Wraith - can make Wraith or Hyperoid only
+Krypt - can make Krypt Pod only
+Others - can make Starbridge, Pegasus, or Leviathan only
+
+EDIT technologies
+give all techs EXCEPT Krypt Tech and Wraith Tech
+
+
+Verify that you cannot build any units that civ should not be able to build!
+
+Check when done...
+[X] Assoc
+[X] Rebel
+[X] Fed
+[X] auroran
+[X] polaris
+[] Wraith
+[X] krypt
+
+
+BUGS:
+
+Setup
+* Wraith can build federation ships
+
+City production has unique units too early:
+* Scheall has a pirate starbridge in production
+* Rebel planets have R starbridge in production
+* Port Kane / Kerella have Anaconda in production
+* Heraan / Aurora have Argosy in production
+* Polaris planets have manta in production
+
+Tech/units:
+* A. Enterprise isn't correctly obsoleted
