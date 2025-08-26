@@ -17,9 +17,9 @@ Done:
 * Add some more military-themed advances to the technology trees
 * Assign units to the existing tech tree to reintroduce them to the game
 * Set up the "Not X" technologies as making units obsolete
+* Rebuild the base scenario file
 
 Todo:
-* Rebuild the base scenario file
 * Update tech advance graphics where applicable
 * Lots and lots of playtesting!!!
 
