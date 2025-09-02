@@ -377,7 +377,7 @@ A. Carrier, Too,  0,  1.,0,  7a,2d,  2h,2f,  8,0,  1, Ldr, 000000001000001
 Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
-A. Enterprise,   nil, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Rep, 000000000000001
+A. Enterprise,   Too, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Rep, 000000000000001
 Pir Starbridge,Mas, 0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, Iro, 000000000000001
 A. Argosy,       Too, 0,  1.,0,  1a,2d,  2h,1f,  1,0,  0, Iro, 000000000000001
 Pol Zephyr,       Mag, 0,  2.,0,  6a,1d,  1h,1f,  8,0,  0, CA,  000001100000001
