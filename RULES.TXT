@@ -378,8 +378,8 @@ Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
 A. Enterprise,   Too, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Rep, 000000000000001
-Pir Starbridge,Mas, 0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, Iro, 000000000000001
-A. Argosy,       Too, 0,  1.,0,  1a,2d,  2h,1f,  1,0,  0, Iro, 000000000000001
+Pir Starbridge,Mas, 0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, nil, 000000000000001
+A. Argosy,       Too, 0,  1.,0,  1a,2d,  2h,1f,  1,0,  0, nil, 000000000000001
 Pol Zephyr,       Mag, 0,  2.,0,  6a,1d,  1h,1f,  8,0,  0, CA,  000001100000001
 Dart,         Hor, 0,  3.,0,  3a,1d,  1h,1f,  3,0,  0, X2,  000001000000001
 Javelin,      Hor, 0,  2.,0,  5a,1d,  1h,2f,  8,0,  0, X3,  000001000000001
@@ -398,15 +398,15 @@ F. RAGE Gunboat,Lit,  0, 3.,0,  6a,1d,  1h,3f,  8,0,  0, Cmp,  000000000000001
 F. Destroyer,Lit,  0,  2.,0, 3a,6d,  2h,2f, 8,0,  1, Las,  000000000000001
 F. Carrier, Lit,  0,  1.,0, 8a,2d,  2h,3f,10,0,  1, Ldr,  000000001000001
 F. Patrol Boat,Lit,  0, 3.,0,  3a,2d,  1h,1f,  4,0,  0, Lab,  000000000000001
-F. Anaconda,  Lit,  0, 4.,0, 1a,2d,  1h,1f, 1,0,  1, Iro, 000000000000001
+F. Anaconda,  Lit,  0, 4.,0, 1a,2d,  1h,1f, 1,0,  1, nil, 000000000000001
 R. Dragon, MP,  0,  3.,0,  5a,2d,  1h,1f,  6,0,  0, Ast, 000000000000001
 R. IDA Frigate,MP,  0,  2.,0,  5a,1d,  2h,1f,  5,0,  1, Cor,  000000001000001
 R. Destroyer,MP,  0,  2.,0,  3a,6d,  2h,2f,  8,0,  1, Las, 000000000000001
-R. Starbridge,MP,  0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, Iro, 000000000000001
+R. Starbridge,MP,  0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, nil, 000000000000001
 R. Valkyrie,MP,  0,  3.,0,  3a,2d,  2h,1f,  4,0,  0, Lab, 000000000000001
 EMPTY9,       nil, 0,  6.,0,  1a,1d,  1h,1f,  6,0,  2, no,  000000000000001
 EMPTY10,      nil, 0,  5.,0,  1a,1d,  1h,1f,  8,0,  2, no,  000000000000001
-Pol Manta,        Mag,  0,  4.,0,  3a,1d,  1h,1f, 3,0,  0, Mon, 000000000000001
+Pol Manta,        Mag,  0,  4.,0,  3a,1d,  1h,1f, 3,0,  0, nil, 000000000000001
 Pol Striker,      Mag,  0,  3.,0, 3a,3d, 1h,1f, 5,0,  1, Phi, 000000000000001
 Pol Dragon,  Mag, 0,  3.,0, 5a,2d,  1h,1f,  6,0,  0, Ast, 000000000000001
 Pol Arachnid,     Mag, 0,  3.,0,  6a,1d,  2h,2f, 8,0,  0, Las, 000000000000001
