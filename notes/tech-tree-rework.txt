@@ -130,3 +130,25 @@ City production has unique units too early:
 
 Tech/units:
 * A. Enterprise isn't correctly obsoleted
+
+
+## 2025-09-01
+
+^ after fixing above bugs
+
+playing as Polaris; Emperor difficulty
+
+going ok, science is too slow, maybe increase science epoch?
+Rebels killed off Wraith!
+
+---
+
+i think the game will play better if unique ships are available immediately
+
+changing all these to prereq=nil
+
+Pir Starbridge
+Manta
+Reb Starbridge
+Argosy
+F. Anaconda
