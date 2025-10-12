@@ -152,3 +152,20 @@ Manta
 Reb Starbridge
 Argosy
 F. Anaconda
+
+## 2025-10-11
+
+"Hypercapitalism" comes too early, also not thematically appropriate for Aurorans to rush it
+Astrofeudalism should be prereq for Enterprises maybe.
+
+Takes a long time to make carriers. Fed destroyer and cruiser class in general may need less FP/Def, more HP?
+
+
+---
+
+tech tree changes:
+
+[x] Trading regulation is a prereq for Hypercapitalism
+[x] Mod. Weapons Platforms (instead of Trading Regulation) is a prereq for Astrofeudalism
+[x] Make hypergates are available earlier; Hypercapitalism + Pyroclastic Metallurgy
+[x] Brewing is a prerequisite for Cryptoeconomics

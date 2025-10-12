@@ -102,12 +102,12 @@ Chemistry,                1, 0,  no,  no,  1, 4    ; Che <-- spare
 Chivalry,                 9,-1,  no,  no,  1, 4    ; Chi <-- spare
 Trading Regulation,       1, 0,  Cer, nil, 3, 1    ; CoL
 Tunneling Organ,          9,-1,  Cmb,  U3,  2, 4    ; CA 
-Hypergates,               1, 0,  Rob,  Cmn,  3, 3    ; Cmb <-- Allows airlifts
+Hypergates,               1, 0,  Rep,  E2,  3, 3    ; Cmb <-- Allows airlifts
 AI Governance,            4,-1,  Mat,  Uni,  2, 2    ; Cmn
 Autonomous Sci. Methods,  4, 0,  ToG, Aut,  2, 3    ; Cmp
 Conscription,             1, 0,  no,  no,  2, 0    ; Csc <-- SPARE
 Construction,             1, 0,  no,  no,  0, 4    ; Cst  <-- DO NOT USE
-Cryptoeconomics,          3, 0,  Eco, nil, 3, 1    ; Cor
+Cryptoeconomics,          3, 0,  Eco, Med, 3, 1    ; Cor
 Interplanetary Commerce,  1, 0,  Pot, nil, 3, 1    ; Cur
 Augmented Technocracy,    4, 1,  Phi, Uni, 2, 2    ; Dem
 Plasmic Mineralization,   3, 0,  Uni, Ban, 2, 1    ; Eco
@@ -142,7 +142,7 @@ Brewing,                  3, 0,  Cur, nil, 0, 2    ; Med
 Block Pegasus Leviathan,  8, 0,  no,  no,  2, 4    ; Met <-- Obsoletes pegasus/leviathan (polaris, wraith, krypt)
 Miniaturization,          8, 0,  no,  no,   2, 4    ; Min <-- spare
 Wraith Tech,              1, 0,  RR, no, 3, 0    ; Mob <-- Wraith base tech
-Astrofeudalism,           3,-1,  Pot, CoL, 2, 2    ; Mon
+Astrofeudalism,           3,-1,  Pot, Iro, 2, 2    ; Mon
 Interplanetary Networks,  3, 1,  nil, Mys,  0, 2   ; MT
 FTL Transmission,         2, 1,  CoL, nil, 0, 2    ; Mys
 Navigation,               8,-1,  no,  no,  2, 4    ; Nav <-- Spare
@@ -159,7 +159,7 @@ TwiceRemoved,             1, 0,  no, no,   2, 1    ; RR  <-- Use as prerequisite
 Recycling,                1, 0,  no, no,  3, 2    ; Rec <-- Spare
 Refining,                 1, 0,  no, no, 2, 4    ; Ref <-- spare
 Refrigeration,            1, 0,  no,   no,  3, 1    ; Rfg <-- DO NOT USE
-Hypercapitalism,          3, 0,  Cur, nil, 2, 2    ; Rep
+Hypercapitalism,          3, 0,  Cur, CoL, 2, 2    ; Rep
 Robotic Manufacturing,    3, 0,  E2,  nil, 2, 1    ; Rob
 Rocketry,                 5, 0,  no,  no,   3, 4    ; Roc <-- spare
 Sanitation,               1, 0,  no, no, 2, 1    ; San <-- spare
