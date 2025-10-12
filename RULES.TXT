@@ -90,7 +90,7 @@
 @CIVILIZE
 Advanced Flight,          4,-1,  no,  no,  1, 4    ; AFl <-- Spare
 Alphabet,                 5,-1,  no,  no, 1, 4     ; Alp <-- Spare
-Amphibious Warfare,       6,-1,  no,  no,  1, 4    ; Amp <-- Spare
+Autonomous Defenses,      6,-1,  Mat, Rob, 1, 4    ; Amp
 Deep Space Research,      1, 1,  Uni, nil, 3, 3    ; Ast
 Atomic Theory,            7,-1,  no,  no,  1, 4    ; Ato <-- Spare
 AI Markets,               3, 0,  Cor, Mat, 3, 1    ; Aut
@@ -213,7 +213,7 @@ Spaceport Bar,            4,  1,    Cer, ; temple
 Trade Center,             8,  1,    Cur, ; marketplace
 Datacenter,               8,  1,    Wri, ; library
 Patrol Fleet,             8,  1,    CoL, ; courthouse
-Planetary Defense,        8,  0,    War, ; city walls
+Planetary Defense,        16, 1,    Amp, ; city walls
 Arcology,                 8,  2,    Inv, ; aqueduct
 Bank,                     12, 3,    Ban,
 Holovid Station,          12, 3,    MT,  ; cathedral
@@ -230,7 +230,7 @@ Nuclear Plant,            16, 2,    Bri,
 Stock Exchange,           16, 4,    Eco,
 Sewer System,             12, 2,    Bri, ;
 Supermarket,               8, 3,    Bri,
-Cargo Drone Swarm,        20, 5,    Aut, ; superhighways
+Cargo Drone Swarm,        20, 3,    Aut, ; superhighways
 Orbital Science Lab,      16, 3,    Cmp, ; research lab
 SAM Missile Battery,      10, 2,    Bri,
 Coastal Fortress,          8, 1,    Bri,

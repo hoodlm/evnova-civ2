@@ -169,3 +169,10 @@ tech tree changes:
 [x] Mod. Weapons Platforms (instead of Trading Regulation) is a prereq for Astrofeudalism
 [x] Make hypergates are available earlier; Hypercapitalism + Pyroclastic Metallurgy
 [x] Brewing is a prerequisite for Cryptoeconomics
+
+
+---
+
+Combat rebalance...
+
+* Made city walls (planetary defense) a "late game" tech. Introduce a new tech "Autonomous Defenses", comes after Robotic Manufacturing and Artifician intelligence
