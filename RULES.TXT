@@ -370,10 +370,10 @@ nil,        ; Cure for Cancer
 Pegasus,      Met, 0,  2.,0,  0a,1d,  2h,1f,  4,0,  5, nil, 000000000000001
 Pol Sprite,       Mag, 0,  3.,0,  0a,2d,  2h,1f,  4,0,  5, nil, 000000000000001
 Starbridge,   Gun,  0,  3.,0,  2a,2d,  1h,1f,  1,0,  1, nil, 000000000000001
-A. Abomination,  Too,  0,  3.,0,  4a,1d,  1h,1f,  3,0,  0, Lab, 000000000000001
-A. Thunderforge, Too,  0,  4.,0,  7a,2d,  2h,2f,  8,0,  0, Pla, 000000000000001
-A. Cruiser, Too,  0,  2.,0,  2a,6d,  2h,1f,  6,0,  0, Las, 000000000000001
-A. Carrier, Too,  0,  1.,0,  7a,2d,  2h,2f,  8,0,  1, Ldr, 000000001000001
+A. Abomination,  Too,  0,  3.,0,  3a,1d,  1h,1f,  3,0,  0, Lab, 000000000000001
+A. Thunderforge, Too,  0,  4.,0,  7a,2d,  1h,3f,  16,0,  0, Pla, 000000000000001
+A. Cruiser, Too,  0,  2.,0,  3a,3d,  3h,1f,  12,0,  0, Las, 000000000000001
+A. Carrier, Too,  0,  1.,0,  7a,2d,  2h,2f,  16,0,  1, Ldr, 000000001000001
 Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
@@ -390,18 +390,18 @@ Knights,      nil, 0,  2.,0,  1a,1d,  1h,1f,  4,0,  0, no,  000000000000001
 EMPTY4,       Tac, 0,  2.,0,  1a,1d,  1h,1f,  5,0,  0, no,  000000000000001
 EMPTY5,       Mob, 0,  2.,0,  1a,1d,  1h,1f,  6,0,  0, no,  000000000000001
 EMPTY6,       nil, 0,  3.,0,  1a,1d,  1h,1f,  8,0,  0, no,  000000000000001
-Pir Carrier,Mas,  0,  2.,0,  8a,2d,  2h,2f, 12,0,  0, Ldr, 000000001000001
-Pir Manticore,Mas,  0,  2.,0,  5a,5d,  2h,2f, 10,0,  0, Las, 000000000000001
+Pir Carrier,Mas,  0,  2.,0,  8a,2d,  2h,2f, 24,0,  0, Ldr, 000000001000001
+Pir Manticore,Mas,  0,  2.,0,  4a,3d,  3h,1f, 20,0,  0, Las, 000000000000001
 Pir Valkyrie, Mas,  0,  4.,0, 3a,2d,  2h,1f,  4,0,  0, Lab, 000000000000001
 Pir Enterprise,Mas,  0,  2.,0, 1a,3d,  2h,1f,  4,0,  1, Mon, 000000000000001
 F. RAGE Gunboat,Lit,  0, 3.,0,  6a,1d,  1h,3f,  8,0,  0, Cmp,  000000000000001
-F. Destroyer,Lit,  0,  2.,0, 3a,6d,  2h,2f, 8,0,  1, Las,  000000000000001
-F. Carrier, Lit,  0,  1.,0, 8a,2d,  2h,3f,10,0,  1, Ldr,  000000001000001
-F. Patrol Boat,Lit,  0, 3.,0,  3a,2d,  1h,1f,  4,0,  0, Lab,  000000000000001
+F. Destroyer,Lit,  0,  2.,0, 3a,3d,  3h,1f, 16,0,  1, Las,  000000000000001
+F. Carrier, Lit,  0,  1.,0, 8a,2d,  2h,3f,20,0,  1, Ldr,  000000001000001
+F. Patrol Boat,Lit,  0, 3.,0,  2a,2d,  2h,1f,  4,0,  0, Lab,  000000000000001
 F. Anaconda,  Lit,  0, 4.,0, 1a,2d,  1h,1f, 1,0,  1, nil, 000000000000001
-R. Dragon, MP,  0,  3.,0,  5a,2d,  1h,1f,  6,0,  0, Ast, 000000000000001
-R. IDA Frigate,MP,  0,  2.,0,  5a,1d,  2h,1f,  5,0,  1, Cor,  000000001000001
-R. Destroyer,MP,  0,  2.,0,  3a,6d,  2h,2f,  8,0,  1, Las, 000000000000001
+R. Dragon, MP,  0,  3.,0,  5a,2d,  1h,1f,  8,0,  0, Ast, 000000000000001
+R. IDA Frigate,MP,  0,  2.,0,  5a,1d,  2h,1f,  8,0,  1, Cor,  000000001000001
+R. Destroyer,MP,  0,  2.,0,  3a,3d,  3h,1f,  16,0,  1, Las, 000000000000001
 R. Starbridge,MP,  0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, nil, 000000000000001
 R. Valkyrie,MP,  0,  3.,0,  3a,2d,  2h,1f,  4,0,  0, Lab, 000000000000001
 EMPTY9,       nil, 0,  6.,0,  1a,1d,  1h,1f,  6,0,  2, no,  000000000000001
@@ -409,9 +409,9 @@ EMPTY10,      nil, 0,  5.,0,  1a,1d,  1h,1f,  8,0,  2, no,  000000000000001
 Pol Manta,        Mag,  0,  4.,0,  3a,1d,  1h,1f, 3,0,  0, nil, 000000000000001
 Pol Striker,      Mag,  0,  3.,0, 3a,3d, 1h,1f, 5,0,  1, Phi, 000000000000001
 Pol Dragon,  Mag, 0,  3.,0, 5a,2d,  1h,1f,  6,0,  0, Ast, 000000000000001
-Pol Arachnid,     Mag, 0,  3.,0,  6a,1d,  2h,2f, 8,0,  0, Las, 000000000000001
-Pol Scarab,       Mag, 0,  3.,0,  3a,7d,  2h,2f,  10,0,  1, SFl, 000000000000001
-Pol Raven,        Mag,  0, 1.,0,10a,2d,  3h,3f,  14,0,  0, FP, 000000001000001
+Pol Arachnid,     Mag, 0,  3.,0,  6a,1d,  2h,2f, 10,0,  0, Las, 000000000000001
+Pol Scarab,       Mag, 0,  3.,0,  3a,3d,  4h,1f,  20,0,  1, SFl, 000000000000001
+Pol Raven,        Mag,  0, 1.,0,10a,2d,  2h,3f,  28,0,  0, FP, 000000001000001
 Nuclear Msl., nil, 0, 16.,0, 99a,0d,  1h,1f, 16,0,  0, no,  000000000000001
 Diplomat,     nil, 0,  2.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
 Spy,          nil, 0,  3.,0,  0a,0d,  1h,1f,  3,0,  6, no,  000000000000001
