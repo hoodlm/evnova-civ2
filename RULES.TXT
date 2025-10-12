@@ -377,7 +377,7 @@ A. Carrier, Too,  0,  1.,0,  7a,2d,  2h,2f,  8,0,  1, Ldr, 000000001000001
 Musketeers,   nil, 0,  1.,0,  1a,1d,  1h,1f,  3,0,  1, no,  000000000000001
 Fanatics,     nil, 0,  1.,0,  1a,1d,  1h,1f,  2,0,  1, no,  000000000000001
 Partisans,    nil, 0,  1.,0,  1a,1d,  1h,1f,  5,0,  1, no,  000000000000001
-A. Enterprise,   Too, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Rep, 000000000000001
+A. Enterprise,   Too, 0,  1.,0,  1a,3d,  2h,1f,  3,0,  1, Mon, 000000000000001
 Pir Starbridge,Mas, 0,  3.,0,  3a,1d,  1h,1f,  2,0,  0, nil, 000000000000001
 A. Argosy,       Too, 0,  1.,0,  1a,2d,  2h,1f,  1,0,  0, nil, 000000000000001
 Pol Zephyr,       Mag, 0,  2.,0,  6a,1d,  1h,1f,  8,0,  0, CA,  000001100000001
@@ -393,7 +393,7 @@ EMPTY6,       nil, 0,  3.,0,  1a,1d,  1h,1f,  8,0,  0, no,  000000000000001
 Pir Carrier,Mas,  0,  2.,0,  8a,2d,  2h,2f, 12,0,  0, Ldr, 000000001000001
 Pir Manticore,Mas,  0,  2.,0,  5a,5d,  2h,2f, 10,0,  0, Las, 000000000000001
 Pir Valkyrie, Mas,  0,  4.,0, 3a,2d,  2h,1f,  4,0,  0, Lab, 000000000000001
-Pir Enterprise,Mas,  0,  2.,0, 1a,3d,  2h,1f,  4,0,  1, Rep, 000000000000001
+Pir Enterprise,Mas,  0,  2.,0, 1a,3d,  2h,1f,  4,0,  1, Mon, 000000000000001
 F. RAGE Gunboat,Lit,  0, 3.,0,  6a,1d,  1h,3f,  8,0,  0, Cmp,  000000000000001
 F. Destroyer,Lit,  0,  2.,0, 3a,6d,  2h,2f, 8,0,  1, Las,  000000000000001
 F. Carrier, Lit,  0,  1.,0, 8a,2d,  2h,3f,10,0,  1, Ldr,  000000001000001
