@@ -146,8 +146,8 @@ Rebels      | R. Destroyer     | Capital Ships   | Tough defensive unit
 Association | Pir Manticore    | Capital Ships   | Tough tanky unit (effective attacking or defending)
 Polaris     | Pol Arachnid     | Capital Ships   | Fast glass cannon
 Rebels      | IDA Frigate      | Cryptoeconomics | Slow glass cannon (Carrier: Ignores city walls!)
-ALL         | Javelin          | Telepath Enslav.| Very fast glass cannon
-ALL         | Zephyr           | Tunneling Organ | Can paradrop ("tunnel") - glass cannon
+ALL         | Javelin          | Telepath Enslav.| Very fast glass cannon, unlocked with special event
+ALL         | Zephyr           | Tunneling Organ | Paradropping glass cannon, unlocked with special event
 ------------|------------------|-----------------|---------------------------------------------------------
 
 === Late game ===
@@ -234,16 +234,12 @@ How do I unlock the telepath tech tree to get Vell-os ships (Dart/Javelin)?
   Krypt are the teal civilization in the far west of the map.
 
 
-How do I unlock the Auroran Thunderforge?
+How do I unlock the Zephyr?
 
-- You need the Auroran tech "Planetary Shipyards", and trigger the Krypt event as described above.
-
-
-How do I unlock the Polaris Zephyr?
-
-- The Zephyr is a unique Polaris gunship that can "tunnel" (paradropping) to hyperjump a very large distance to attack
-  behind enemy lines. You need the Polaris tech "Etheric Wake Engine", and win combat against the Wraith to unlock the
-  Wraith Biology tech. The Wraith are the orange civilization in the north of the map.
+- The Zephyr is a special gunship that can "tunnel" (paradropping) to hyperjump a very large distance to attack
+  behind enemy lines. You need to research Hypergates, and win combat against the Wraith to unlock the
+  Wraith Biology tech. The Wraith are the orange civilization in the north of the map. (Unlike in canonical EV Nova,
+  where the Zephyr is a Polaris-unique ship, any of the factions can build the Zephyr in this mod.)
 
 
 What is the purpose of the 'Kont' planet/terrain?
