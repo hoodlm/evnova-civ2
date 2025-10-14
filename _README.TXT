@@ -2,7 +2,7 @@
 EV Nova for Civilization 2 (MGE)
 =======================================================================================================================
 
-Version: 0.5.0 Alpha (7 August 2025)
+Version: 0.7.0 Beta (12 October 2025)
 
 NOTE: There may be a newer release of this scenario! Check the civfanatics download page and discussion thread:
 https://forums.civfanatics.com/resources/ev-nova-mge.32307
@@ -31,8 +31,8 @@ created by ATMOS, Ambrosia, and Matt Burch.
 =======================================================================================================================
 III. Factions
 
-Each faction has a unique tech tree and set of units. For your first playthrough, I recommend the Federation
-or the Aurorans. For more challenge, try the Polaris, Rebels, or the Association of Free Traders. Wraith & Krypt are
+Each faction has a unique tech tree and set of units. For your first playthrough, I recommend the Federation,
+Aurorans. For more challenge, try the Polaris, Rebels, or the Association of Free Traders. Wraith & Krypt are
 alien factions not intended for human play.
 
 The Federation traces its roots back to the origin of humanity and is based on Earth in the Sol System. The Federation
@@ -61,25 +61,29 @@ Cities:
 * The Pegasus freighter is your Settler unit. Or, if you play as the Polaris, the Sprite is equivalent to Engineers.
 * Make sure to settle cities near planets! Most of the map is open space and does not have useful resource yield.
   Nebula provides some production and trade, but no food.
-* The only terrain improvement you can build are Hyperspace lanes (Roads).
+* The only terrain improvement you can build are Hyperspace lanes (Roads). Hyperspace lanes provide +1 trade on
+  stars, green planets, and rocky planets.
 * Production city improvements (Shipyard = Factory) are cheaper and available earlier in the tech tree. (Pollution is
   disabled, so don't worry about that!)
 * Leviathan/Cambrian are equivalent of Caravan/Freight for trading.
 
 Combat:
 
-* Compared to a normal game of civ2, the military units in this scenario tend to be offense-sided. With some factions,
+* Apart from a few common units, most combat units are faction-specific. Aurorans can build units starting with "A",
+  Federation "F", Association "Pir", Polaris "Pol", and Rebellion "R".
+* All factions can build the Starbridge at the beginning of the game, along with one of your unique units.
+* Compared to a normal game of civ2, the early-game in this scenario is very offense-sided. With some factions,
   in the early game you will have to play quite a bit of "active defense" and patrol and stop enemies at the edge of
-  your territory, at least until you get Planetary Defense (City Walls) up!
+  your territory. Planetary Defense, equivalent of City Walls, is pre-built in a few key cities, but is available
+  as a buildable city improvement until late-game.
 * The endgame carrier units - Auroran/Federation/Pirate Carrier, Polaris Raven, Rebel IDA Frigate - are very strong
   attack units and bypass the Planetary Defense (City Walls) bonus, but they're "glass cannons" and need
   destroyer/cruiser escorts.
-* All of your military units are unlocked by your faction's unique techs. Prioritize these when planning your research
-  progression.
 * The Nebula terrain is equivalent to Mountains, requiring extra movement to traverse and providing a defense bonus.
-  No other terrain (including asteroids) requires movement or has a defense bonus.
-* There is no "ocean", and no Air/Sea units; all units are land units.
-* To move your ships to the frontlines more quickly, build Hypergates (Airports) in your city and airlift units.
+  No other terrain (including asteroids) requires extra movement or has a defense bonus.
+* There is no "ocean" and no Air/Sea units; all units are land units.
+* To move your ships to the frontlines more quickly, build Hypergates (Airports) in your city and use the airlift
+  command.
 
 Governments:
 
@@ -90,6 +94,78 @@ Governments:
 * Augmented Technocracy = Democracy
 
 Additional hints with spoilers at the end of this document.
+
+=======================================================================================================================
+V. Units
+
+=== Starters ===
+
+Each civilization can build the Starbridge, which is a well-rounded combat ship (2a/2d, 3 moves) and one
+faction-specific combat ship:
+
+Faction     | Unit Name           | Description
+------------|---------------------|---------------------------------------------
+Aurorans    | A. Argosy           | Cheap and tanky (2HP). Slow defensive unit
+Federation  | F. Anaconda         | Fast defensive fighter
+Polaris     | Pol Manta           | Fast offensive fighter
+Rebels      | R. Starbridge       | Glass cannon
+Association | Pir Starbridge      | Glass cannon
+------------|---------------------|---------------------------------------------
+
+=== Early Game ===
+
+The Polaris are at a notable disadvantage in the early game; the Striker is deeper down the tech tree. The other
+factions get a decent upgrade from researching Fleet Tactics. The Aurorans and Association also unlock complementary
+defensive units by researching Astrofeudalism.
+
+Faction     | Unit Name        | Tech            | Description
+------------|------------------|-----------------|---------------------------------------------------------
+Aurorans    | A. Abomination   | Fleet Tactics   | Glass cannon
+Federation  | F. Patrol Boat   | Fleet Tactics   | Well-balanced, tankier upgrade to the Starbridge (+1 HP)
+Rebels      | R. Valkyrie      | Fleet Tactics   | Powerful early-game gunship, good on offense or defense
+Association | Pir Valkyrie     | Fleet Tactics   | Fast and powerful; can dominate early-game
+Aurorans    | A. Enterprise    | Astrofeudalism  | Slow and tanky, even tougher than the Argosy
+Association | Pir Enterprise   | Astrofeudalism  | Tank; faster pirate variant of Auroran enterprise
+Polaris     | Pol Striker      | Technophilosoph.| Well-balanced early-game gunship
+ALL         | Dart             | Telepath Indoct.| Very fast scout unit, unlocked with special event
+------------|------------------|-----------------|---------------------------------------------------------
+
+=== Mid-game ===
+
+Unit roles start diverging more drastically in the mid-game. The Polaris do not get any strong defensive unit
+in the mid-game, so have to rely on fast attack units at their border. And notably the Rebels unlock the last
+of their military units - the IDA Frigate. For the Rebels, it's now or never!
+
+Faction     | Unit Name        | Tech            | Description
+------------|------------------|-----------------|---------------------------------------------------------
+Rebels      | R. Dragon        | Deep Space Rsrch| Fast offensive unit, good for hunting down other ships
+Polaris     | Pol Dragon       | Deep Space Rsrch| Fast offensive unit, good for hunting down other ships
+Aurorans    | A. Cruiser       | Capital Ships   | Tough defensive unit
+Federation  | F. Destroyer     | Capital Ships   | Tough defensive unit
+Rebels      | R. Destroyer     | Capital Ships   | Tough defensive unit
+Association | Pir Manticore    | Capital Ships   | Tough tanky unit (effective attacking or defending)
+Polaris     | Pol Arachnid     | Capital Ships   | Fast glass cannon
+Rebels      | IDA Frigate      | Cryptoeconomics | Slow glass cannon (Carrier: Ignores city walls!)
+ALL         | Javelin          | Telepath Enslav.| Very fast glass cannon
+ALL         | Zephyr           | Tunneling Organ | Can paradrop ("tunnel") - glass cannon
+------------|------------------|-----------------|---------------------------------------------------------
+
+=== Late game ===
+
+Every faction (other than the Rebels) unlocks a Carrier, strong offensive units that can bypass Planetary
+Defense. The Polaris, if allowed to grow into the late game unimpeded, will likely dominate thanks to the
+Scarab and the Raven.
+
+Faction     | Unit Name        | Tech            | Description
+------------|------------------|-----------------|---------------------------------------------------------
+Polaris     | Pol Scarab       | Metastructural. | Very tough defensive unit
+Aurorans    | A. Thunderforge  | Antimatter Cont.| Fast glass cannon, good for hunting down other ships
+Federation  | F. RAGE Gunboat  | Autonomous Sci. | Fast glass cannon, good for hunting down other ships
+Aurorans    | A. Carrier       | Carriers        | Slow glass cannon (Carrier: Ignores city walls!)
+Federation  | F. Carrier       | Carriers        | Slow glass cannon (Carrier: Ignores city walls!)
+Association | Pir Carrier      | Carriers        | Slow glass cannon (Carrier: Ignores city walls!)
+Polaris     | Pol Raven        | Quantalineariz. | Slow glass cannon (Carrier: Ignores city walls!)
+------------|------------------|-----------------|---------------------------------------------------------
 
 =======================================================================================================================
 V. Current State and Roadmap

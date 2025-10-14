@@ -15,8 +15,7 @@
 ^Challenging: Rebellion, Association of Free Traders
 ^Not for human play: Wraith, Krypt
 ^
-^Each faction has a special tech tree and units, but technology can be traded
-^or stolen!
+^Each faction has unique units and strengths/weaknesses.
 ^
 ^^OBJECT
 ^You can win by military victory (conquer the galaxy) or by scientific victory
@@ -24,7 +23,7 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Alpha v0.5 of this scenario (built approx 7 Aug 2025).
+^You are playing Beta v0.7 of this scenario (built in Oct 2025).
 ^It is playable - and hopefully fun! - but some parts are incomplete.
 ^Please report balance issues and bugs! (See _README.TXT)
 ^
