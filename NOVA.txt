@@ -23,8 +23,7 @@
 ^HINT: On either victory path, exploring the far reaches of the galaxy will help!
 ^
 ^^THANKS FOR ALPHA TESTING!
-^You are playing Beta v0.7 of this scenario (built in Oct 2025).
-^It is playable - and hopefully fun! - but some parts are incomplete.
+^You are playing v0.9 of this scenario (released 19 Oct 2025).
 ^Please report balance issues and bugs! (See _README.TXT)
 ^
 ^Credits:
